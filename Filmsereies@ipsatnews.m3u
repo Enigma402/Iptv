@@ -1,0 +1,27 @@
+﻿#EXTM3U;
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="Film-Sereis Persin",@ipsatnews
+https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 1
+https://fastdehost.com/live/serialbaran1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 2 
+https://server3.fastdehost.com/live/serialbaran2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 3
+https://server3.fastdehost.com/live/serialbaran3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 4
+https://server3.fastdehost.com/live/serialbaran4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 5
+https://server4.fastdehost.com/live/serialbaran5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",DIGI MOVIE
+https://fastdehost.com/live/digimovie.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",KING MOVIE
+https://fastdehost.com/live/kingmovie.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",KING MOVIE HINDI 1
+https://server4.fastdehost.com/live/hindi1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",KING MOVIE HINDI 2
+https://server4.fastdehost.com/live/hindi2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="Film-Sereis Persin",@ipsatnews
+https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
