@@ -68,33 +68,47 @@ https://familyhls.4utv.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4utv.tv/wp-content/uploads/2020/09/Asset-1@3xdf.png " group-title="IRANIAN TV",4U PLUS tv
 https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM 24B
-http://175.107.244.52:4457/play/a05o/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351081.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SERIES+
-http://175.107.244.52:4457/play/a08b/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351107.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SERIES
+http://xtv.ooo:8080/live/fa540/123456/351106.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RUBIX
-http://175.107.244.52:4457/play/a05m/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351104.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RUBIX+
-http://175.107.244.52:4457/play/a05m/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351105.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM ONYX
-http://175.107.244.52:4457/play/a05l/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351100.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM COMEDY
-http://175.107.244.52:4457/play/a08c/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/3511087.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RIVER+
-http://175.107.244.52:4457/play/a05r/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351103.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RIVER
+http://xtv.ooo:8080/live/fa540/123456/351102.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM MIFA
-http://175.107.244.52:4457/play/a05n/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351097.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM MIFA+
-http://175.107.244.52:4457/play/a05p/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351098.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM MODERN
 http://175.107.244.52:4457/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM DRAMA+
 http://175.107.244.52:4457/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM BOLLYWOOD
-http://m1-max.dns-speedy.com/live/35F56F/50945D/44534.m3u8?ipsatnews85905.m3u
+http://xtv.ooo:8080/live/fa540/123456/351085.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM TV
 http://175.107.244.52:4457/play/a089/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM DOCUMEN...
-http://175.107.244.52:4457/play/a08d/index.m3u8
+http://xtv.ooo:8080/live/fa540/123456/351108.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM NATURE
+http://xtv.ooo:8080/live/fa540/123456/351099.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM JUNIOR
+http://xtv.ooo:8080/live/fa540/123456/351092.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM KIDS
+http://xtv.ooo:8080/live/fa540/123456/351093.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FOOD
+http://xtv.ooo:8080/live/fa540/123456/351091.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FIT
+http://xtv.ooo:8080/live/fa540/123456/351090.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SPORTS
 https://cdn.sainaertebat.com/hls/gemsport/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/icc-tv.link" group-title="IRANIAN TV",ICC+ HD
@@ -127,6 +141,10 @@ https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/voa-persian.jpg" group-title="IRANIAN TV",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",BBC PERSIAN
+http://xtv.ooo:8080/live/fa540/123456/351073.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",CITY TV
+http://xtv.ooo:8080/live/fa540/123456/351078.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC PERSIA LOW SD
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="IRANIAN TV",MBC Persia SD
