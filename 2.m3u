@@ -1,0 +1,1212 @@
+﻿#EXTM3U;
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
+https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
+https://novintv.icdndhcp.com/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",MANOTO TV
+http://xtv.ooo:8080/live/fa540/123456/351191.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/persiananostalgia.jpg" group-title="IRANIAN TV",PERSIANA NOSTALGIA 
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA RAP 
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="IRANIAN TV",PERSIANA SONATI
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA LATINO
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA RETAL 
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="IRANIAN TV",PERSIANA PLUS
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="IRANIAN TV",PERSIANA FAMILY HD
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="IRANIAN TV",PERSIANA CINEMA HD
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="IRANIAN TV",PERSIANA IRANIAN HD
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zeKHZYG.png " group-title="IRANIAN TV",PERSIANA Junior HD
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SHxxi5I.png " group-title="IRANIAN TV",PERSIANA MUSIC FHD
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg " group-title="IRANIAN TV",PERSIANA NOSTALGIA FHD
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="IRANIAN TV",PERSIANA COMEDY
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X1Dv6st.png " group-title="IRANIAN TV",PERSIANA SEREIS HD
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/si2ZnIA.png " group-title="IRANIAN TV",PERSIANA KOREA HD
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS   
+https://stream.sainaertebat.com/hls2/persianas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA+ FHD
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA DOCUMENTER HD
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://iran-tv.live/uploads/tv_image/sm/4-kurd-tv.png " group-title="IRANIAN TV", 4 Kurd MUSIC 
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA 4 MUSIC
+https://4muhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",Persiana Turkiye HD
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",MIHAN
+https://divanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/77/Radio_javan_official_logo.png/250px-Radio_javan_official_logo.png" group-title="IRANIAN TV",RADIO JAVAN HD
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC HD
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC ROYALE HD
+https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",PMC RADIO
+https://jazhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://amcmusic.net/wp-content/uploads/2014/11/header_logox1501.png" group-title="IRANIAN TV",AMC MUSIC AFG TV FHD
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4utv.tv/wp-content/uploads/2020/09/Asset-1@3xdf.png" group-title="IRANIAN TV",4U TV HD
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4utv.tv/wp-content/uploads/2020/09/Asset-1@3xdf.png" group-title="IRANIAN TV",4U FAMILY HD
+https://familyhls.4utv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4utv.tv/wp-content/uploads/2020/09/Asset-1@3xdf.png " group-title="IRANIAN TV",4U PLUS tv
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM 24B
+http://xtv.ooo:8080/live/fa540/123456/351081.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SERIES+
+http://xtv.ooo:8080/live/fa540/123456/351107.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SERIES
+http://xtv.ooo:8080/live/fa540/123456/351106.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RUBIX
+http://xtv.ooo:8080/live/fa540/123456/351104.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RUBIX+
+http://xtv.ooo:8080/live/fa540/123456/351105.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM ONYX
+http://xtv.ooo:8080/live/fa540/123456/351100.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM COMEDY
+http://xtv.ooo:8080/live/fa540/123456/3511087.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RIVER+
+http://xtv.ooo:8080/live/fa540/123456/351103.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RIVER
+http://xtv.ooo:8080/live/fa540/123456/351102.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM MIFA
+http://xtv.ooo:8080/live/fa540/123456/351097.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM MIFA+
+http://xtv.ooo:8080/live/fa540/123456/351098.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM MODERN
+http://175.107.244.52:4457/play/a05q/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM DRAMA+
+http://175.107.244.52:4457/play/a08a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM BOLLYWOOD
+http://xtv.ooo:8080/live/fa540/123456/351085.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM TV
+http://175.107.244.52:4457/play/a089/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM DOCUMEN...
+http://xtv.ooo:8080/live/fa540/123456/351108.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM NATURE
+http://xtv.ooo:8080/live/fa540/123456/351099.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM JUNIOR
+http://xtv.ooo:8080/live/fa540/123456/351092.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM KIDS
+http://xtv.ooo:8080/live/fa540/123456/351093.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FOOD
+http://xtv.ooo:8080/live/fa540/123456/351091.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FIT
+http://xtv.ooo:8080/live/fa540/123456/351090.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SPORTS
+https://cdn.sainaertebat.com/hls/gemsport/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/icc-tv.link" group-title="IRANIAN TV",ICC+ HD
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.tuttotech.net/wp-content/uploads/2018/05/nuova-now-tv-300x169.png" group-title="IRANIAN TV",NOW TV
+https://nowhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.go2travel.uk/media/images/user-images/66650/scaled/335x97-CroppedLogo.jpg" group-title="IRANIAN TV",GO2TRAVEL TV
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.neventum.com/2016/4/logo-sepanj_0f028aad.jpg" group-title="IRANIAN TV",ME2
+https://me2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/maah-tv.jpg" group-title="IRANIAN TV",MAAH TV HD
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/avatv.jpg " group-title="IRANIAN TV",AVA FAMILY HD
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/avatv.jpg" group-title="IRANIAN TV",AVA SERIES HD
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.roku.com/developer_channels/prod/0b0aaa96aabc058c305581f01ce1a935000b19ea0a940118bd6d34a5ed3181b2.png" group-title="IRANIAN TV",CLASSIC TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/ir-iran-e-farda-tv-1647-300x225.jpg" group-title="IRANIAN TV",IRAN E FARDA HD
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-pars-tv-network-8162-316x237.jpg " group-title="IRANIAN TV",Pars TV
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/5/56/Channelone_logo.jpg" group-title="IRANIAN TV",CHANNEL ONE
+https://ch1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-kanal-jadid-tv-6604.jpg" group-title="IRANIAN TV",KANALEJADID
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/150px-Iran_International.svg.png" group-title="IRANIAN TV",IRAN INTERNATIONAL HD
+https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvlogo.xyz/Afghan/afgInt.jpg" group-title="IRANIAN TV",AFGHAN INTERNATIONAL HD
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/voa-persian.jpg" group-title="IRANIAN TV",VOA Persian
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",BBC PERSIAN
+http://xtv.ooo:8080/live/fa540/123456/351073.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",CITY TV
+http://xtv.ooo:8080/live/fa540/123456/351078.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC PERSIA LOW SD
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="IRANIAN TV",MBC Persia SD
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC Persia HD
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC Persia FHD
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC Persia AUTO
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC Persia FHD2
+https://mymoviehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/247-box-tv.jpg" group-title="IRANIAN TV",247BOX TV FARSI HD
+https://hls.247BOX.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/fx-tv.jpg " group-title="IRANIAN TV",FX1
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/fx-tv.jpg " group-title="IRANIAN TV",FX2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",RONIX
+https://ronhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",sun music
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/yourtime.png " group-title="IRANIAN TV",YOUR TIME TV
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/mtc-tv.png " group-title="IRANIAN TV",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/tm-tv.webp " group-title="IRANIAN TV",TMT
+https://hls.tmtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.vecteezy.com/system/resources/previews/011/860/693/non_2x/its-movie-time-vector.jpg" group-title="IRANIAN TV",gold STAR
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/omid-iran.jpg " group-title="IRANIAN TV",OMID E IRAN
+https://oitnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/TfNSW_T2.svg/282px-TfNSW_T2.svg.png" group-title="IRANIAN TV",T2
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://iran-tv.live/uploads/tv_image/sm/iran-cinema.jpg " group-title="IRANIAN TV",CAFE FILM
+https://kmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",CAFE TRAIDH
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/U4sKHWy.png" group-title="IRANIAN TV",IRANTV ITN HD
+https://itnhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/d5/1d/3f/d51d3fdc-31a8-2265-f733-20d226e609b3/source/200x200bb.jpg" group-title="IRANIAN TV",SL ONE TV HD
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/d5/1d/3f/d51d3fdc-31a8-2265-f733-20d226e609b3/source/200x200bb.jpg " group-title="IRANIAN TV",SL TOW TV 
+https://slonehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cinemahd.onl/wp-content/uploads/2021/08/download-cinema-hd.png" group-title="IRANIAN TV",GRAND CINEMA HD
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Home Plus
+https://homeplushls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",NEWFLIX
+https://newfhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Ayeneh TV
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Digi Movie
+https://fastdehost.com/live/digimovie.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",King Movie
+https://fastdehost.com/live/kingmovie.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Serial Baran
+https://fastdehost.com/live/serialbaran1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Khatereh TV
+https://castor.streamthatvideo.co:8081/khaterehtv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Net TV
+https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Orange TV
+https://orangehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Fareh Iran TV
+https://hls.farehirantv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Woman TV
+https://wmtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Hambastegi TV
+https://livestream.5centscdn.com/HambastegiTV/7f3e29c26468b5b1036c2fbe536b5c7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Jahan Nama TV
+https://stream02.gaplication.com/hls/jahannamatvlive/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Iran Nama
+https://hls.ashena.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",4 Sport
+https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Arax TV
+https://araxhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Didaniha TV
+https://didaniha.wiseplayout.com/Didaniha/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/negah-tv.jpg " group-title="IRANIAN TV",Negah
+https://iptv.negahtv.com/negahtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Payam Javan
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",keshish hamid
+https://hls.keshishhamid.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Payvand
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://iran-tv.live/uploads/tv_image/erfan-halgheh.png " group-title="IRANIAN TV",ERFAN E HALGHEH 
+https://hls.erfanhalgheh.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/mohabat-tv.png" group-title="IRANIAN TV",Mohabat TV
+https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/iran-beauty.jpg" group-title="IRANIAN TV",Iran Beauty
+https://irbthls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://iran-tv.live/uploads/tv_image/sm/iran-cinema.jpg " group-title="IRANIAN TV",Iran Movei
+https://kmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thehandbook.com/cdn-cgi/image/width=300,height=300,fit=cover,q=80,format=webp/https://files.thehandbook.com/uploads/2021/04/aauvwni-vhk0f9xwmmxmwlnhlpufudvjtkln4hhb6vw3ags800-c-k-c0x00ffffff-no-rj.jpg" group-title="IRANIAN TV",TMTV
+https://hls.tmtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/tin-tv.jpg" group-title="IRANIAN TV",TIN TV
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/afn-music.jpg" group-title="IRANIAN TV",AFN TV TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/health-media-tv.jpg" group-title="IRANIAN TV",health media 
+https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",HIGH VISION
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/parnian-tv.jpg " group-title="IRANIAN TV",Parnian tv
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/royal-time-tv.jpg" group-title="IRANIAN TV",royal time tv
+https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/ganje-hozoor.jpg" group-title="IRANIAN TV",Ganje Hozoor
+https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/israel-pars-tv.jpg" group-title="IRANIAN TV",Israel Pars TV
+https://live.pars-israel.com/iptv/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://www.radiovatani.com/uploads/tv_image/sm/parnian-tv.jpg" group-title="IRANIAN TV",Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Porchooneh TV
+https://porchooneh.icdndhcp.com/hls/live1/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gordafarid.net/wp-content/uploads/2020/03/Gordafarid-Logo-2020s.png " group-title="IRANIAN TV",GordAfarid TV
+https://gatvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/payvand-tv.jpg " group-title="IRANIAN TV",Payvand TV
+https://payvand-tv.icdndhcp.com/ucur1/ucur1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",@ipsatnewsکانال تگرام ما @ipsatnews
+https://dl5.download1music.ir/Music/Without-Words/Anon-Romance-Anonimo-Juegos-Prohibidos.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/on-today-tv.png" group-title="IRANIAN TV",TODAY TV
+https://todayhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",META FILM
+https://metafilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.go2travel.uk/media/images/user-images/66650/scaled/335x97-CroppedLogo.jpg" group-title="IRANIAN TV",GO2TRAVEL TV
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/a/ae/Pbctapesh.jpg " group-title="IRANIAN TV",Tapesh TV IRANIAN TV
+https://hls.tapeshtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/icnet-1.jpg" group-title="IRANIAN TV",Icent 1 FHD
+https://icnet1hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/icnet-1.jpg" group-title="IRANIAN TV",Icent 2 HD
+https://icnet2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/icnet-1.jpg" group-title="IRANIAN TV",Icent 3
+https://khaterehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://luxpro.mc/wp-content/uploads/2001/01/sytv.jpg " group-title="IRANIAN TV",Super Yacht FHD
+https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/sat7-pars.jpg" group-title="IRANIAN TV",Sat7 Pars
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/shabakeh-7.jpg" group-title="IRANIAN TV",Shabakeh 7
+https://t.northtelecom.org/Shabakeh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/kayhan-afghan.jpg" group-title="IRANIAN TV",Kayhan Afghan
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/kalemeh-tv.jpg" group-title="IRANIAN TV",Kalemeh TV
+https://5e11be0b2c93a.streamlock.net/live/ngrp:kalemeh_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/nejat-tv.jpg" group-title="IRANIAN TV",Nejat TV
+https://hls.nejat.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/derakhte-zendegi.jpg " group-title="IRANIAN TV",DERAKHT E ZENDEGI
+http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Iman Be Masih
+https://livestream.5centscdn.com/imanbemasih/4247eb9d3002400e36c56149ed749804.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/omid-javdan.jpg " group-title="IRANIAN TV",Omid Javdan
+https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",ABALFADHL TV
+https://t.northtelecom.org/ABALFADHLTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://fa.haditv.co.uk/pics/logo.png " group-title="IRANIAN TV",hadi tv
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو"کانال تگرام ما @ipsatnews.
+https://dl5.download1music.ir/Music/Without-Words/Ahmet-Meter-Her-Mevsim-A7imden-Gelir-A7ersin.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/f1/94/12909/c300.png" group-title="رادیو فارسی خارج ایران",Radio Farda n
+https://n03.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABhHfNfxIA_9HX58meEpJ8ZQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/77/Radio_javan_official_logo.png" group-title="رادیو فارسی خارج ایران",RADIO JAVAN 
+https://shoutcast.glwiz.com/radiojavan.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://radio.iranseda.ir/images/icons_Logo/radio-kordestan.png" group-title="رادیو فارسی خارج ایران",Radio Hamrah
+https://node-18.zeno.fm/gxdq0awu30duv?rj-ttl=5&rj-tok=AAABfdSrIqcA0CiwWkODCsgGXw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/4a/c5/124714/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Iraninternational
+https://radio.iraninternational.app/iintl_c
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/BvLKqhumkPFmXZLRiOl4Q90jZoOW6h5d6ffsk9kFBkXJqB7T7qvhagL1B6HoVF0dDOg1=rw-w250" group-title="رادیو فارسی خارج ایران",Radio YAR
+http://192.34.153.102:8000/RadioYAR.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/33/1d/21479/c100.png" group-title="رادیو فارسی خارج ایران",Radio Voa Persian
+https://n0f.radiojar.com/y58cqgggq3quv?rj-ttl=5&rj-tok=AAABjcYYF5QAUKdaJCshehiD6A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/13/09/16637/c300.png" group-title="رادیو فارسی خارج ایران",Radio Faaz
+http://www.radiofaaz.com:8000/radiofaaz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ayenehmedia.org/wp-content/uploads/2019/10/Ayeney_Logo4-1.png" group-title="رادیو فارسی خارج ایران",Radio ayenh
+http://107.181.227.250:8244/;stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/a4/15/15304/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Iran Usa
+http://185.80.220.12:8047/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/0/09/Caltex_logo.svg/300px-Caltex_logo.svg.png" group-title="رادیو فارسی خارج ایران",Radio Caltex Music
+http://radio.caltexmusic.com:8000/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.isna.ir/d/2019/12/23/3/61520070.jpg" group-title="رادیو فارسی خارج ایران",Radio Jar 
+https://n0c.radiojar.com/rzcfw4cbsxquv?rj-ttl=5&rj-tok=AAABeBc6NwwArjakB05Er7PiPQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/3d/b4/112439/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio France Internationale Persan
+http://rfienpersan64k.ice.infomaniak.ch/rfienpersan-64k.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/fc/92/103046/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Hamrah
+http://node-09.zeno.fm/nezaycc28vzuv?rj-ttl=5&rj-tok=AAABegHlK9wA4ScNrn2cwnZalg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/52/85/17245/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Mashroteh
+http://162.244.80.30:9458/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://lorestan.irib.ir/documents/698045/0/music-air-wallpaper-note-bubble-1.jpg" group-title="رادیو فارسی خارج ایران",Radio Bahaee
+http://205.234.238.42:4050/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/1f/75/22773/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Iran670 Los Angeles
+http://ice41.securenetsystems.net/KIRN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/28/b2/131610/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Golchin LA
+https://radiogolchin.out.airtime.pro/radiogolchin_a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/dd/cb/3476/2/c300.png" group-title="رادیو فارسی خارج ایران",BBC World Service in
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/a6/ce/111406/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Sarcheshmeh
+http://sarcheshmeh.icdndhcp.com:18452/stream/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/47/25/135870/2/c300.png" group-title="رادیو فارسی خارج ایران",Radio Shadi
+http://ice9.securenetsystems.net/SHADI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/13/34/124668/1/c300.png" group-title="رادیو فارسی خارج ایران",Radio Parsa
+http://parsa.icdndhcp.com:18000/stream/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/f2/00/10737/1/c300.png" group-title="رادیو فارسی خارج ایران",Iranian Congress
+http://node-21.zeno.fm/kbt00r580feuv?rj-ttl=5&rj-tok=AAABfdTqAQkA5Qn7y5R3RA_M-g
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/30/c5/40789/2/c300.png" group-title="رادیو فارسی خارج ایران",Radio Yek Jahan
+http://192.34.153.102:8000/Radioyekjahan.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/cc/6a/15494/c300.png" group-title="رادیو فارسی خارج ایران",Radio Javanan
+https://stream-154.zeno.fm/wfhfhcfdw3juv?zs=QqNPtJr0TwmfDUm6lguGEQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/ef/58/38598/1/c300.png" group-title="رادیو فارسی خارج ایران",Hamsafar Radio
+https://streamingv2.shoutcast.com/Hamsafarradio?lang=sv-se
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/52/85/17245/1/c100.png" group-title="رادیو فارسی خارج ایران",Radio Shoma
+https://n0a.radiojar.com/rzcfw4cbsxquv?rj-ttl=5&rj-tok=AAABgvO8RokAjNgIZmYDFNhvXA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/54/ed/32139/1/c100.png" group-title="رادیو فارسی خارج ایران",Radio Gheseh
+https://audio.radiogheseh.com/gheseh
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i3.radionomy.com/radios/400/9696df7a-d5c2-4ce0-b3a5-413de1517a19.png" group-title="رادیو فارسی خارج ایران",Radio Navahang
+https://navairan.com/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",Radio GL
+https://shoutcast.glwiz.com/RadioGL.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://kanaljavan.com/wp-content/uploads/2021/06/kalamehomid800.jpg" group-title="رادیو فارسی خارج ایران",Radio Kalameh Omid
+https://listen.radioking.com/radio/330505/stream/378796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.sndcdn.com/avatars-000007089255-9c3jzz-t500x500.jpg" group-title="رادیو فارسی خارج ایران",Radio Javanan
+http://192.34.153.102:8000/;
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/ce/7f/131135/2/c300.png" group-title="رادیو فارسی خارج ایران",Radio Arina
+https://s5.voscast.com:10205/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/79/24/115622/1/c100.png" group-title="رادیو فارسی خارج ایران",Radio Ava
+http://s1.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://parzar.com/c/59-category_default/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88.jpg" group-title="رادیو فارسی خارج ایران",رادیو پارسی لندن
+http://198.178.123.11:7574/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://jawanan.fm/wp-content/uploads/2021/06/logo_120px.png" group-title="رادیو فارسی خارج ایران",رادیو جوانان
+http://192.34.153.102:8000/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",رادیو دوشات
+http://dstt.ir:8000/live.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",Radio Khatereh
+https://servidor22.brlogic.com:7160/live?source=7938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",Radio Vanak
+https://s10.citrus3.com:8462/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",Radio Ava Istanbul
+https://play.markaradyo.com:8002/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",کانال تگرام ما @ipsatnews
+https://dl5.download1music.ir/Music/Without-Words/Affet.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",NETO SPOR
+https://netohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",solh sport 
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",solh sport 2
+https://solhtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",persiana sport
+https://stream.sainaertebat.com/hls2/persianas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",tv3 Iran
+https://stream.sainaertebat.com/hls2/tv3test.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",varzesh Iran
+https://stream.sainaertebat.com/hls2/varzeshtest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",Tw sport 1
+https://stream.sainaertebat.com/hls2/stream01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",Tw sport 2
+https://stream.sainaertebat.com/hls2/stream02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",Tw sport 3
+https://stream.sainaertebat.com/hls2/stream03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",ssc1 sport
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",bein sport 1
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="Film-Sereis Persin",@ipsatnews
+https://dlrrooz.top/2025/1/New/Ragheb%20-%20Havaye%20Eshgh%20720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 1
+https://fastdehost.com/live/serialbaran1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 2 
+https://server3.fastdehost.com/live/serialbaran2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 3
+https://server3.fastdehost.com/live/serialbaran3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 4
+https://server3.fastdehost.com/live/serialbaran4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",Serial Baran 5
+https://server4.fastdehost.com/live/serialbaran5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",DIGI MOVIE
+https://fastdehost.com/live/digimovie.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",KING MOVIE
+https://fastdehost.com/live/kingmovie.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",KING MOVIE HINDI 1
+https://server4.fastdehost.com/live/hindi1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="Film-Sereis Persin",KING MOVIE HINDI 2
+https://server4.fastdehost.com/live/hindi2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRAN Server 2",@ipsatnews - Telegram
+https://dlrrooz.top/2025/2/New/Mohsen%20Chavoshi%20-%20Saat%20Divari%20720p.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA SPORTS" tvg-logo="https://img.logo-cdn.cc/persianaplushd.png" group-title="IRAN Server 2",IR ▎PERSIANA SPORTS
+http://line.now-ott.xyz:80/451AAD/3F41A2/713123
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MANOTO TV" tvg-logo="https://img.logo-cdn.cc/manoto.png" group-title="IRAN Server 2",IR ▎MANOTO TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1565771
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM MAXX HD" tvg-logo="https://img.logo-cdn.cc/gemmaxx.png" group-title="IRAN Server 2",IR ▎GEM MAXX HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174628
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM TV HD" tvg-logo="https://img.logo-cdn.cc/gemtv.png" group-title="IRAN Server 2",IR ▎GEM TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44535
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM DRAMA HD" tvg-logo="https://img.logo-cdn.cc/gemdrama.png" group-title="IRAN Server 2",IR ▎GEM DRAMA HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44443
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM SERIES HD" tvg-logo="https://img.logo-cdn.cc/gemseries.png" group-title="IRAN Server 2",IR ▎GEM SERIES HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44528
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM SERIES PLUS HD" tvg-logo="https://img.logo-cdn.cc/gemseriesplus.png" group-title="IRAN Server 2",IR ▎GEM SERIES PLUS HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/72519
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM LIFE HD" tvg-logo="https://img.logo-cdn.cc/gemlife.png" group-title="IRAN Server 2",IR ▎GEM LIFE HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44530
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM FILM HD" tvg-logo="https://img.logo-cdn.cc/gemfilm.png" group-title="IRAN Server 2",IR ▎GEM FILM HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44533
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM FOOD HD" tvg-logo="https://img.logo-cdn.cc/gemfood.png" group-title="IRAN Server 2",IR ▎GEM FOOD HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44521
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM RIVER HD" tvg-logo="https://img.logo-cdn.cc/gemriver.png" group-title="IRAN Server 2",IR ▎GEM RIVER HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44520
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM RUBIX HD" tvg-logo="https://img.logo-cdn.cc/gemrubix.png" group-title="IRAN Server 2",IR ▎GEM RUBIX HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44519
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM TRAVEL HD" tvg-logo="https://img.logo-cdn.cc/gemmaxx.png" group-title="IRAN Server 2",IR ▎GEM TRAVEL HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44526
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM BOLLYWOOD HD" tvg-logo="https://img.logo-cdn.cc/gemollywood.png" group-title="IRAN Server 2",IR ▎GEM BOLLYWOOD HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44534
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM ARABIA" tvg-logo="https://img.logo-cdn.cc/gemarabia.png" group-title="IRAN Server 2",IR ▎GEM ARABIA
+http://line.now-ott.xyz:80/451AAD/3F41A2/44525
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM FIT" tvg-logo="https://img.logo-cdn.cc/gemfit.png" group-title="IRAN Server 2",IR ▎GEM FIT
+http://line.now-ott.xyz:80/451AAD/3F41A2/204537
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM NATURE" tvg-logo="https://img.logo-cdn.cc/gemnature.png" group-title="IRAN Server 2",IR ▎GEM NATURE
+http://line.now-ott.xyz:80/451AAD/3F41A2/204538
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM LATINO TV" tvg-logo="https://img.logo-cdn.cc/gemmaxx.png" group-title="IRAN Server 2",IR ▎GEM LATINO TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/174602
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM AZ 1 HD" tvg-logo="https://img.logo-cdn.cc/gemaz1.png" group-title="IRAN Server 2",IR ▎GEM AZ 1 HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174601
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM CLASSIC" tvg-logo="https://img.logo-cdn.cc/gemclassic.png" group-title="IRAN Server 2",IR ▎GEM CLASSIC
+http://line.now-ott.xyz:80/451AAD/3F41A2/174600
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM COMEDY HD" tvg-logo="https://img.logo-cdn.cc/gemcomedy.png" group-title="IRAN Server 2",IR ▎GEM COMEDY HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174599
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM RIVER PLUS HD" tvg-logo="https://img.logo-cdn.cc/gemriver.png" group-title="IRAN Server 2",IR ▎GEM RIVER PLUS HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174597
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM DRAMA PLUS HD" tvg-logo="https://img.logo-cdn.cc/gemdramaplus.png" group-title="IRAN Server 2",IR ▎GEM DRAMA PLUS HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174596
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM RUBIX PLUS HD" tvg-logo="https://img.logo-cdn.cc/gemrubixplus.png" group-title="IRAN Server 2",IR ▎GEM RUBIX PLUS HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174595
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM ONYX HD" tvg-logo="https://img.logo-cdn.cc/gemmaxx.png" group-title="IRAN Server 2",IR ▎GEM ONYX HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174594
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM PLUS HD" tvg-logo="https://img.logo-cdn.cc/gemmaxx.png" group-title="IRAN Server 2",IR ▎GEM PLUS HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174593
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM JUNIOR HD" tvg-logo="https://img.logo-cdn.cc/gemjunior.png" group-title="IRAN Server 2",IR ▎GEM JUNIOR HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44532
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM KIDS HD" tvg-logo="https://img.logo-cdn.cc/gemkids.png" group-title="IRAN Server 2",IR ▎GEM KIDS HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44531
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM ACADEMY SD" tvg-logo="" group-title="IRAN Server 2",IR ▎GEM ACADEMY SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441667
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM CRYPTO SD" tvg-logo="" group-title="IRAN Server 2",IR ▎GEM CRYPTO SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441668
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GEM PIXEL SD" tvg-logo="" group-title="IRAN Server 2",IR ▎GEM PIXEL SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441670
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB TV 1" tvg-logo="https://img.logo-cdn.cc/iribtv1.png" group-title="IRAN Server 2",IR ▎IRIB TV 1
+http://line.now-ott.xyz:80/451AAD/3F41A2/44547
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB TV 2" tvg-logo="https://img.logo-cdn.cc/iribtv2.png" group-title="IRAN Server 2",IR ▎IRIB TV 2
+http://line.now-ott.xyz:80/451AAD/3F41A2/44546
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB TV 3" tvg-logo="https://img.logo-cdn.cc/iribtv3.png" group-title="IRAN Server 2",IR ▎IRIB TV 3
+http://line.now-ott.xyz:80/451AAD/3F41A2/44545
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB TV 4" tvg-logo="https://img.logo-cdn.cc/iribtv4.png" group-title="IRAN Server 2",IR ▎IRIB TV 4
+http://line.now-ott.xyz:80/451AAD/3F41A2/44544
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB TV 5" tvg-logo="https://img.logo-cdn.cc/iribtv5.png" group-title="IRAN Server 2",IR ▎IRIB TV 5
+http://line.now-ott.xyz:80/451AAD/3F41A2/44543
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB VARZESH HD" tvg-logo="https://img.logo-cdn.cc/iribvarzesh.png" group-title="IRAN Server 2",IR ▎IRIB VARZESH HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/102438
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB ZAGROS TV (KERMANSHAH)" tvg-logo="https://img.logo-cdn.cc/iribtv1.png" group-title="IRAN Server 2",IR ▎IRIB ZAGROS TV (KERMANSHAH)
+http://line.now-ott.xyz:80/451AAD/3F41A2/174616
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB ESFAHAN" tvg-logo="https://img.logo-cdn.cc/iribesfahan.png" group-title="IRAN Server 2",IR ▎IRIB ESFAHAN
+http://line.now-ott.xyz:80/451AAD/3F41A2/229942
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB JAME-JAM 2 TV" tvg-logo="https://img.logo-cdn.cc/irib.png" group-title="IRAN Server 2",IR ▎IRIB JAME-JAM 2 TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/543197
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB JAME-JAM 3 TV" tvg-logo="https://img.logo-cdn.cc/irib.png" group-title="IRAN Server 2",IR ▎IRIB JAME-JAM 3 TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/543198
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRIB SEMNAN SD" tvg-logo="" group-title="IRAN Server 2",IR ▎IRIB SEMNAN SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441672
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRINN" tvg-logo="https://img.logo-cdn.cc/irinn.png" group-title="IRAN Server 2",IR ▎IRINN
+http://line.now-ott.xyz:80/451AAD/3F41A2/44542
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎NASIM TV" tvg-logo="https://img.logo-cdn.cc/nasimtv.png" group-title="IRAN Server 2",IR ▎NASIM TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44540
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎JAME-JAM TV 1" tvg-logo="https://img.logo-cdn.cc/jaamejaam.png" group-title="IRAN Server 2",IR ▎JAME-JAM TV 1
+http://line.now-ott.xyz:80/451AAD/3F41A2/44473
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AMOOZESH HD" tvg-logo="https://img.logo-cdn.cc/amoozesh.png" group-title="IRAN Server 2",IR ▎AMOOZESH HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44451
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎BBC PERSIAN FHD" tvg-logo="https://img.logo-cdn.cc/bbcpersian.png" group-title="IRAN Server 2",IR ▎BBC PERSIAN FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44552
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎VOA TV PERSIAN FHD" tvg-logo="https://img.logo-cdn.cc/voa.png" group-title="IRAN Server 2",IR ▎VOA TV PERSIAN FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44551
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎VOA TV PERSIAN HD" tvg-logo="" group-title="IRAN Server 2",IR ▎VOA TV PERSIAN HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441674
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRAN INTERNATIONAL FHD" tvg-logo="https://img.logo-cdn.cc/iraninternational.png" group-title="IRAN Server 2",IR ▎IRAN INTERNATIONAL FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44548
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRAN INTERNATIONAL HD" tvg-logo="" group-title="IRAN Server 2",IR ▎IRAN INTERNATIONAL HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441673
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MBC PERSIA SD" tvg-logo="https://img.logo-cdn.cc/mbcpersia.png" group-title="IRAN Server 2",IR ▎MBC PERSIA SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1450916
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MBC PERSIA HD" tvg-logo="https://img.logo-cdn.cc/mbcpersia.png" group-title="IRAN Server 2",IR ▎MBC PERSIA HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/87836
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MBC PERSIA FHD" tvg-logo="https://img.logo-cdn.cc/mbcpersia.png" group-title="IRAN Server 2",IR ▎MBC PERSIA FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1450915
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TIN TV" tvg-logo="https://img.logo-cdn.cc/tintv.png" group-title="IRAN Server 2",IR ▎TIN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44497
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MOSTANAD HD" tvg-logo="https://img.logo-cdn.cc/mostanad.png" group-title="IRAN Server 2",IR ▎MOSTANAD HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44479
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PMC HD" tvg-logo="https://img.logo-cdn.cc/pmc.png" group-title="IRAN Server 2",IR ▎PMC HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44557
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TAPESH TV" tvg-logo="https://img.logo-cdn.cc/tapeshtv.png" group-title="IRAN Server 2",IR ▎TAPESH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44516
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PARS TV" tvg-logo="https://img.logo-cdn.cc/parstv.png" group-title="IRAN Server 2",IR ▎PARS TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44417
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SIMAYE AZADI TV" tvg-logo="https://img.logo-cdn.cc/simayeazadi.png" group-title="IRAN Server 2",IR ▎SIMAYE AZADI TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44518
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ITN TV" tvg-logo="https://img.logo-cdn.cc/itn.png" group-title="IRAN Server 2",IR ▎ITN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44508
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎4U TV HD" tvg-logo="https://img.logo-cdn.cc/4utv.png" group-title="IRAN Server 2",IR ▎4U TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44411
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIAN ONE TV" tvg-logo="https://img.logo-cdn.cc/persianahd.png" group-title="IRAN Server 2",IR ▎PERSIAN ONE TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/543238
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIAN TOP TOON SD" tvg-logo="" group-title="IRAN Server 2",IR ▎PERSIAN TOP TOON SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441675
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRAN-E-FARDA TV" tvg-logo="https://img.logo-cdn.cc/iranefardatv.png" group-title="IRAN Server 2",IR ▎IRAN-E-FARDA TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44512
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MIHAN TV" tvg-logo="https://img.logo-cdn.cc/mihantv.png" group-title="IRAN Server 2",IR ▎MIHAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44502
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IFILM TV" tvg-logo="https://img.logo-cdn.cc/ifilm.png" group-title="IRAN Server 2",IR ▎IFILM TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44536
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IFILM 2" tvg-logo="https://img.logo-cdn.cc/ifilm2.png" group-title="IRAN Server 2",IR ▎IFILM 2
+http://line.now-ott.xyz:80/451AAD/3F41A2/229945
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IFILM ENGLISH" tvg-logo="https://img.logo-cdn.cc/ifilm.png" group-title="IRAN Server 2",IR ▎IFILM ENGLISH
+http://line.now-ott.xyz:80/451AAD/3F41A2/44455
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎NAMAYESH TV" tvg-logo="https://img.logo-cdn.cc/namayeshtv.png" group-title="IRAN Server 2",IR ▎NAMAYESH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44478
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎OFOGH TV" tvg-logo="https://img.logo-cdn.cc/ofoghtv.png" group-title="IRAN Server 2",IR ▎OFOGH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44477
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SALAMAT TV" tvg-logo="https://img.logo-cdn.cc/salamattv.png" group-title="IRAN Server 2",IR ▎SALAMAT TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44474
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ABADAN TV" tvg-logo="https://img.logo-cdn.cc/abadantv.png" group-title="IRAN Server 2",IR ▎ABADAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44453
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AFTAB TV (MARKAZI)" tvg-logo="https://img.logo-cdn.cc/aftabtv.png" group-title="IRAN Server 2",IR ▎AFTAB TV (MARKAZI)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44436
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AFLAK TV (LORESTAN)" tvg-logo="https://img.logo-cdn.cc/aflaktv.png" group-title="IRAN Server 2",IR ▎AFLAK TV (LORESTAN)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44437
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ALBORZ TV" tvg-logo="https://img.logo-cdn.cc/alborztv.png" group-title="IRAN Server 2",IR ▎ALBORZ TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44452
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ATRAK TV (KHORASAN SHOMALI)" tvg-logo="https://img.logo-cdn.cc/atraktv.png" group-title="IRAN Server 2",IR ▎ATRAK TV (KHORASAN SHOMALI)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44440
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AZARBAYJAN-E GHARBI TV" tvg-logo="https://img.logo-cdn.cc/azarbayjan.png" group-title="IRAN Server 2",IR ▎AZARBAYJAN-E GHARBI TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44462
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎BARAN TV (GUILAN)" tvg-logo="https://img.logo-cdn.cc/barantv.png" group-title="IRAN Server 2",IR ▎BARAN TV (GUILAN)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44458
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎BOUSHEHR TV" tvg-logo="https://img.logo-cdn.cc/boushehr.png" group-title="IRAN Server 2",IR ▎BOUSHEHR TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44471
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎DENA TV (KOHGILUYEH AND BOYER-AHMAD)" tvg-logo="https://img.logo-cdn.cc/denatv.png" group-title="IRAN Server 2",IR ▎DENA TV (KOHGILUYEH AND BOYER-AHMAD)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44461
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎FARS TV (SHIRAZ)" tvg-logo="https://img.logo-cdn.cc/farstv.png" group-title="IRAN Server 2",IR ▎FARS TV (SHIRAZ)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44460
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎HAMOON TV (SISTAN AND BALUCHESTAN)" tvg-logo="https://img.logo-cdn.cc/hamoontv.png" group-title="IRAN Server 2",IR ▎HAMOON TV (SISTAN AND BALUCHESTAN)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44456
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎HISPAN TV" tvg-logo="https://img.logo-cdn.cc/hispantv.png" group-title="IRAN Server 2",IR ▎HISPAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44480
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎HODHOD FARSI" tvg-logo="https://img.logo-cdn.cc/hodhodfarsi.png" group-title="IRAN Server 2",IR ▎HODHOD FARSI
+http://line.now-ott.xyz:80/451AAD/3F41A2/44470
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎HODHOD NILESAT" tvg-logo="https://img.logo-cdn.cc/hodhodfarsi.png" group-title="IRAN Server 2",IR ▎HODHOD NILESAT
+http://line.now-ott.xyz:80/451AAD/3F41A2/44469
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IFILM TV AR" tvg-logo="https://img.logo-cdn.cc/ifilm.png" group-title="IRAN Server 2",IR ▎IFILM TV AR
+http://line.now-ott.xyz:80/451AAD/3F41A2/44483
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ILAM TV" tvg-logo="https://img.logo-cdn.cc/ilamtv.png" group-title="IRAN Server 2",IR ▎ILAM TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44454
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ISFAHAN TV" tvg-logo="https://img.logo-cdn.cc/isfahantv.png" group-title="IRAN Server 2",IR ▎ISFAHAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44448
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎JAHANBIN TV (CHAHARMAHAL AND BAKHTIARI)" tvg-logo="https://img.logo-cdn.cc/jahanbintv.png" group-title="IRAN Server 2",IR ▎JAHANBIN TV (CHAHARMAHAL AND BAKHTIARI)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44447
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KERMAN TV" tvg-logo="https://img.logo-cdn.cc/kermantv.png" group-title="IRAN Server 2",IR ▎KERMAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44446
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHALIJ-E FARS TV (HORMOZGAN)" tvg-logo="https://img.logo-cdn.cc/khalijefars.png" group-title="IRAN Server 2",IR ▎KHALIJ-E FARS TV (HORMOZGAN)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44444
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHAVARAN TV (KHORASAN JONOOBI)" tvg-logo="https://img.logo-cdn.cc/khorasanrazavi.png" group-title="IRAN Server 2",IR ▎KHAVARAN TV (KHORASAN JONOOBI)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44442
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHORASAN RAZAVI TV" tvg-logo="https://img.logo-cdn.cc/khorasanrazavi.png" group-title="IRAN Server 2",IR ▎KHORASAN RAZAVI TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44441
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHOZESTAN TV" tvg-logo="https://img.logo-cdn.cc/khoozestan.png" group-title="IRAN Server 2",IR ▎KHOZESTAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44439
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MAHABAD TV" tvg-logo="https://img.logo-cdn.cc/mahabadtv.png" group-title="IRAN Server 2",IR ▎MAHABAD TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44450
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MOHABAT" tvg-logo="https://img.logo-cdn.cc/mohabat.png" group-title="IRAN Server 2",IR ▎MOHABAT
+http://line.now-ott.xyz:80/451AAD/3F41A2/44434
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎OMID TV" tvg-logo="https://img.logo-cdn.cc/omidiran.png" group-title="IRAN Server 2",IR ▎OMID TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44476
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PAYAME ARAMESH" tvg-logo="https://img.logo-cdn.cc/payamtv.png" group-title="IRAN Server 2",IR ▎PAYAME ARAMESH
+http://line.now-ott.xyz:80/451AAD/3F41A2/44463
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎POOYA & NAHAL" tvg-logo="https://img.logo-cdn.cc/pooyaandnahal.png" group-title="IRAN Server 2",IR ▎POOYA & NAHAL
+http://line.now-ott.xyz:80/451AAD/3F41A2/44537
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PRESS TV HD" tvg-logo="https://img.logo-cdn.cc/presstv.png" group-title="IRAN Server 2",IR ▎PRESS TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44410
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎QAZVIN TV" tvg-logo="https://img.logo-cdn.cc/qazvintv.png" group-title="IRAN Server 2",IR ▎QAZVIN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44433
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SABALAN TV (ARDABIL)" tvg-logo="https://img.logo-cdn.cc/sabalantv.png" group-title="IRAN Server 2",IR ▎SABALAN TV (ARDABIL)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44431
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SABZ TV (GOLESTAN)" tvg-logo="https://img.logo-cdn.cc/sabztv.png" group-title="IRAN Server 2",IR ▎SABZ TV (GOLESTAN)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44459
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SAHAND TV (TABRIZ)" tvg-logo="https://img.logo-cdn.cc/sahandtv.png" group-title="IRAN Server 2",IR ▎SAHAND TV (TABRIZ)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44430
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SAHAR AZARI" tvg-logo="https://img.logo-cdn.cc/sahar.png" group-title="IRAN Server 2",IR ▎SAHAR AZARI
+http://line.now-ott.xyz:80/451AAD/3F41A2/44428
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SAHAR BOSNIAN" tvg-logo="https://img.logo-cdn.cc/sahar.png" group-title="IRAN Server 2",IR ▎SAHAR BOSNIAN
+http://line.now-ott.xyz:80/451AAD/3F41A2/44427
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SAHAR URDU TV" tvg-logo="https://img.logo-cdn.cc/sahar.png" group-title="IRAN Server 2",IR ▎SAHAR URDU TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44406
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SHABAKEH 7" tvg-logo="https://img.logo-cdn.cc/shabakeh7.png" group-title="IRAN Server 2",IR ▎SHABAKEH 7
+http://line.now-ott.xyz:80/451AAD/3F41A2/44498
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SINA TV (HAMEDAN)" tvg-logo="https://img.logo-cdn.cc/sinatv.png" group-title="IRAN Server 2",IR ▎SINA TV (HAMEDAN)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44457
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TABAN TV (YAZD)" tvg-logo="https://img.logo-cdn.cc/tabantv.png" group-title="IRAN Server 2",IR ▎TABAN TV (YAZD)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44429
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TABARESTAN TV (MAZANDARAN)" tvg-logo="https://img.logo-cdn.cc/tabarestantv.png" group-title="IRAN Server 2",IR ▎TABARESTAN TV (MAZANDARAN)
+http://line.now-ott.xyz:80/451AAD/3F41A2/44435
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎VELAYAT TV" tvg-logo="https://img.logo-cdn.cc/velayat.png" group-title="IRAN Server 2",IR ▎VELAYAT TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44466
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AL-ALAM AR" tvg-logo="https://img.logo-cdn.cc/alalamnewschannel.png" group-title="IRAN Server 2",IR ▎AL-ALAM AR
+http://line.now-ott.xyz:80/451AAD/3F41A2/44485
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AL-ALAM EN" tvg-logo="https://img.logo-cdn.cc/alalamnewschannel.png" group-title="IRAN Server 2",IR ▎AL-ALAM EN
+http://line.now-ott.xyz:80/451AAD/3F41A2/44484
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ALKAWTHAR TV" tvg-logo="https://img.logo-cdn.cc/alkawthar.png" group-title="IRAN Server 2",IR ▎ALKAWTHAR TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44409
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎QURAN TV" tvg-logo="https://img.logo-cdn.cc/saudiquran.png" group-title="IRAN Server 2",IR ▎QURAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/44475
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SAT-7 PARS" tvg-logo="https://img.logo-cdn.cc/sat7pars.png" group-title="IRAN Server 2",IR ▎SAT-7 PARS
+http://line.now-ott.xyz:80/451AAD/3F41A2/44489
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎HADI TV 3" tvg-logo="https://img.logo-cdn.cc/haditv.png" group-title="IRAN Server 2",IR ▎HADI TV 3
+http://line.now-ott.xyz:80/451AAD/3F41A2/44423
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IMAM HUSSEIN TV 1" tvg-logo="https://img.logo-cdn.cc/imamhussein1.png" group-title="IRAN Server 2",IR ▎IMAM HUSSEIN TV 1
+http://line.now-ott.xyz:80/451AAD/3F41A2/543222
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TAMASHA HD" tvg-logo="https://img.logo-cdn.cc/tamasha.png" group-title="IRAN Server 2",IR ▎TAMASHA HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174652
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KALEMEH TV" tvg-logo="https://img.logo-cdn.cc/kalmeahfarsi.png" group-title="IRAN Server 2",IR ▎KALEMEH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/174646
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AYENEH TV" tvg-logo="https://img.logo-cdn.cc/ayenehtv.png" group-title="IRAN Server 2",IR ▎AYENEH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/174644
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KANAL JADID" tvg-logo="https://img.logo-cdn.cc/kanaljadid.png" group-title="IRAN Server 2",IR ▎KANAL JADID
+http://line.now-ott.xyz:80/451AAD/3F41A2/174643
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TOOSHEH TV" tvg-logo="https://img.logo-cdn.cc/tooshehtv.png" group-title="IRAN Server 2",IR ▎TOOSHEH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/174641
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PN TV (PERSIAN FILM)" tvg-logo="https://img.logo-cdn.cc/pntv.png" group-title="IRAN Server 2",IR ▎PN TV (PERSIAN FILM)
+http://line.now-ott.xyz:80/451AAD/3F41A2/174638
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHANE FILM" tvg-logo="https://img.logo-cdn.cc/khanefilm.png" group-title="IRAN Server 2",IR ▎KHANE FILM
+http://line.now-ott.xyz:80/451AAD/3F41A2/174636
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GANJE HOZOUR" tvg-logo="https://img.logo-cdn.cc/ganjehozour.png" group-title="IRAN Server 2",IR ▎GANJE HOZOUR
+http://line.now-ott.xyz:80/451AAD/3F41A2/174635
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GANJ E HOZOUR TV 2" tvg-logo="" group-title="IRAN Server 2",IR ▎GANJ E HOZOUR TV 2
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516070
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GANJ E HOZOUR TV 3" tvg-logo="" group-title="IRAN Server 2",IR ▎GANJ E HOZOUR TV 3
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516071
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GANJ E HOZOUR TV 4" tvg-logo="" group-title="IRAN Server 2",IR ▎GANJ E HOZOUR TV 4
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516072
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GANJ E HOZOUR TV 5" tvg-logo="" group-title="IRAN Server 2",IR ▎GANJ E HOZOUR TV 5
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516073
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎DIDGAH TV" tvg-logo="https://img.logo-cdn.cc/didgahtv.png" group-title="IRAN Server 2",IR ▎DIDGAH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/174631
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHANE HONARMANDAN" tvg-logo="https://img.logo-cdn.cc/khanehonarmandan.png" group-title="IRAN Server 2",IR ▎KHANE HONARMANDAN
+http://line.now-ott.xyz:80/451AAD/3F41A2/174629
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHATEREH TV" tvg-logo="https://img.logo-cdn.cc/khaterehtv.png" group-title="IRAN Server 2",IR ▎KHATEREH TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/174625
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MODERN ECONOMEY HD" tvg-logo="https://img.logo-cdn.cc/moderneconomy.png" group-title="IRAN Server 2",IR ▎MODERN ECONOMEY HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174624
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎VOX 1 HD" tvg-logo="https://img.logo-cdn.cc/vox1.png" group-title="IRAN Server 2",IR ▎VOX 1 HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174612
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AVA FAMILY HD" tvg-logo="https://img.logo-cdn.cc/avafamily.png" group-title="IRAN Server 2",IR ▎AVA FAMILY HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174611
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AVA SERIES HD" tvg-logo="https://img.logo-cdn.cc/avaseries.png" group-title="IRAN Server 2",IR ▎AVA SERIES HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174610
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎NAVAHANG HD" tvg-logo="https://img.logo-cdn.cc/navahang.png" group-title="IRAN Server 2",IR ▎NAVAHANG HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/174609
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎YOUR TIME TV" tvg-logo="https://img.logo-cdn.cc/yourtime.png" group-title="IRAN Server 2",IR ▎YOUR TIME TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/174605
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ERFAN HALGHE" tvg-logo="https://img.logo-cdn.cc/erfanhalgheh.png" group-title="IRAN Server 2",IR ▎ERFAN HALGHE
+http://line.now-ott.xyz:80/451AAD/3F41A2/204505
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎HADI 6 TV" tvg-logo="https://img.logo-cdn.cc/haditv.png" group-title="IRAN Server 2",IR ▎HADI 6 TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/204506
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KHOOZESTAN TV" tvg-logo="https://img.logo-cdn.cc/khoozestan.png" group-title="IRAN Server 2",IR ▎KHOOZESTAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/204511
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KORDESTAN TV" tvg-logo="https://img.logo-cdn.cc/kordestan.png" group-title="IRAN Server 2",IR ▎KORDESTAN TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/204512
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MARJAEYAT TV" tvg-logo="https://img.logo-cdn.cc/marjaeyat.png" group-title="IRAN Server 2",IR ▎MARJAEYAT TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/204514
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MIFA+ HD" tvg-logo="https://img.logo-cdn.cc/mifaplus.png" group-title="IRAN Server 2",IR ▎MIFA+ HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/204515
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ZANJAN TV (ESHRAGH TV)" tvg-logo="https://img.logo-cdn.cc/zanjantv.png" group-title="IRAN Server 2",IR ▎ZANJAN TV (ESHRAGH TV)
+http://line.now-ott.xyz:80/451AAD/3F41A2/204523
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRAN E ARYAEE TV" tvg-logo="https://img.logo-cdn.cc/iranearyaee.png" group-title="IRAN Server 2",IR ▎IRAN E ARYAEE TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/204540
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MTC" tvg-logo="https://img.logo-cdn.cc/mtc.png" group-title="IRAN Server 2",IR ▎MTC
+http://line.now-ott.xyz:80/451AAD/3F41A2/229946
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SEPEHR" tvg-logo="https://img.logo-cdn.cc/sepehr.png" group-title="IRAN Server 2",IR ▎SEPEHR
+http://line.now-ott.xyz:80/451AAD/3F41A2/229949
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎24/7 BOX TV" tvg-logo="https://img.logo-cdn.cc/247boxtv.png" group-title="IRAN Server 2",IR ▎24/7 BOX TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/229951
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AREZO TV HD" tvg-logo="https://img.logo-cdn.cc/arezotv.png" group-title="IRAN Server 2",IR ▎AREZO TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543211
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ATN NEWS" tvg-logo="https://img.logo-cdn.cc/atnnews.png" group-title="IRAN Server 2",IR ▎ATN NEWS
+http://line.now-ott.xyz:80/451AAD/3F41A2/543213
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎DAMAC PERSIAN TV HD" tvg-logo="https://img.logo-cdn.cc/damac.png" group-title="IRAN Server 2",IR ▎DAMAC PERSIAN TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543216
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRAN Server 2",@ipsatnews + Telegram
+https://dlrrooz.top/2025/2/New/Behnam%20Bani%20-%20Khoshhalam%20(Live)%20720p.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎DUNYA NAW TV" tvg-logo="https://img.logo-cdn.cc/dunyanews.png" group-title="IRAN Server 2",IR ▎DUNYA NAW TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/543217
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎FX TV HD" tvg-logo="https://img.logo-cdn.cc/fx.png" group-title="IRAN Server 2",IR ▎FX TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543220
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎IRAN BEAUTY HD" tvg-logo="https://img.logo-cdn.cc/iranbeauty.png" group-title="IRAN Server 2",IR ▎IRAN BEAUTY HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543224
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ISRAEL PARS HD" tvg-logo="https://img.logo-cdn.cc/israelpars.png" group-title="IRAN Server 2",IR ▎ISRAEL PARS HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543226
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎KANAL YEK" tvg-logo="https://img.logo-cdn.cc/kanalyek.png" group-title="IRAN Server 2",IR ▎KANAL YEK
+http://line.now-ott.xyz:80/451AAD/3F41A2/543228
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MAAH TV FHD" tvg-logo="https://img.logo-cdn.cc/maahtv.png" group-title="IRAN Server 2",IR ▎MAAH TV FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543229
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎OXIR TV" tvg-logo="https://img.logo-cdn.cc/oxirtv.png" group-title="IRAN Server 2",IR ▎OXIR TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/543233
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PAYAM JAVAN HD" tvg-logo="https://img.logo-cdn.cc/payamtv.png" group-title="IRAN Server 2",IR ▎PAYAM JAVAN HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543235
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA CINEMA" tvg-logo="https://img.logo-cdn.cc/persianacinema.png" group-title="IRAN Server 2",IR ▎PERSIANA CINEMA
+http://line.now-ott.xyz:80/451AAD/3F41A2/543242
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA COMEDY" tvg-logo="https://img.logo-cdn.cc/persianacomedy.png" group-title="IRAN Server 2",IR ▎PERSIANA COMEDY
+http://line.now-ott.xyz:80/451AAD/3F41A2/543243
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA FAMILY FHD" tvg-logo="https://img.logo-cdn.cc/persianafamily.png" group-title="IRAN Server 2",IR ▎PERSIANA FAMILY FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543244
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA IRANIAN" tvg-logo="https://img.logo-cdn.cc/persianairanian.png" group-title="IRAN Server 2",IR ▎PERSIANA IRANIAN
+http://line.now-ott.xyz:80/451AAD/3F41A2/543245
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA JUNIOR" tvg-logo="https://img.logo-cdn.cc/persianairanian.png" group-title="IRAN Server 2",IR ▎PERSIANA JUNIOR
+http://line.now-ott.xyz:80/451AAD/3F41A2/543246
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA KOREA HD" tvg-logo="https://img.logo-cdn.cc/persianahd.png" group-title="IRAN Server 2",IR ▎PERSIANA KOREA HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543247
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA LATINO FHD" tvg-logo="" group-title="IRAN Server 2",IR ▎PERSIANA LATINO FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441677
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA SONATI FHD" tvg-logo="" group-title="IRAN Server 2",IR ▎PERSIANA SONATI FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441678
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA TURKEY HD" tvg-logo="" group-title="IRAN Server 2",IR ▎PERSIANA TURKEY HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441679
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PMC ROYAL HD" tvg-logo="https://img.logo-cdn.cc/pmc.png" group-title="IRAN Server 2",IR ▎PMC ROYAL HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543250
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SL 1 HD" tvg-logo="https://img.logo-cdn.cc/sl.png" group-title="IRAN Server 2",IR ▎SL 1 HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543253
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SL 2 HD" tvg-logo="https://img.logo-cdn.cc/sl.png" group-title="IRAN Server 2",IR ▎SL 2 HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543254
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TOONIX HD" tvg-logo="https://img.logo-cdn.cc/toonix.png" group-title="IRAN Server 2",IR ▎TOONIX HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/543256
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎RADIO JAVAN TV FHD" tvg-logo="https://img.logo-cdn.cc/radiojavan.png" group-title="IRAN Server 2",IR ▎RADIO JAVAN TV FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/44556
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎RADIO FARDA" tvg-logo="https://img.logo-cdn.cc/radiofarda.png" group-title="IRAN Server 2",IR ▎RADIO FARDA
+http://line.now-ott.xyz:80/451AAD/3F41A2/44549
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎CALTEX MUSIC" tvg-logo="https://img.logo-cdn.cc/caltexmusic.png" group-title="IRAN Server 2",IR ▎CALTEX MUSIC
+http://line.now-ott.xyz:80/451AAD/3F41A2/44555
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIAN MUSIC" tvg-logo="https://img.logo-cdn.cc/pmc.png" group-title="IRAN Server 2",IR ▎PERSIAN MUSIC
+http://line.now-ott.xyz:80/451AAD/3F41A2/174639
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MIFA MUSIC TV" tvg-logo="https://img.logo-cdn.cc/mifaplus.png" group-title="IRAN Server 2",IR ▎MIFA MUSIC TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/229944
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎24B HD" tvg-logo="https://img.logo-cdn.cc/24b.png" group-title="IRAN Server 2",IR ▎24B HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/204497
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎VARZISH SPORT HD" tvg-logo="https://img.logo-cdn.cc/varzishsport.png" group-title="IRAN Server 2",IR ▎VARZISH SPORT HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/204541
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TV 8 SD" tvg-logo="" group-title="IRAN Server 2",IR ▎TV 8 SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441669
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TFN HD" tvg-logo="" group-title="IRAN Server 2",IR ▎TFN HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441671
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ICC TV FHD" tvg-logo="" group-title="IRAN Server 2",IR ▎ICC TV FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441676
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MEGAHIT SD" tvg-logo="" group-title="IRAN Server 2",IR ▎MEGAHIT SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441680
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AMOUZESH TV SD" tvg-logo="" group-title="IRAN Server 2",IR ▎AMOUZESH TV SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441681
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎RADIO NAMA AVA SD" tvg-logo="" group-title="IRAN Server 2",IR ▎RADIO NAMA AVA SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441682
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AFN TV SD" tvg-logo="" group-title="IRAN Server 2",IR ▎AFN TV SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441683
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎HIGH VISION SD" tvg-logo="" group-title="IRAN Server 2",IR ▎HIGH VISION SD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441684
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GRAND CINEMA HD" tvg-logo="" group-title="IRAN Server 2",IR ▎GRAND CINEMA HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441685
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎MERAJ TV FHD" tvg-logo="" group-title="IRAN Server 2",IR ▎MERAJ TV FHD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441686
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TOWHEED TV HD" tvg-logo="" group-title="IRAN Server 2",IR ▎TOWHEED TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441687
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎CANAL PRIMA HD" tvg-logo="" group-title="IRAN Server 2",IR ▎CANAL PRIMA HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441688
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎DIYAR TV HD" tvg-logo="" group-title="IRAN Server 2",IR ▎DIYAR TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441689
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ASSIRAT TV" tvg-logo="" group-title="IRAN Server 2",IR ▎ASSIRAT TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441690
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎JANNATUL BAQI TV" tvg-logo="" group-title="IRAN Server 2",IR ▎JANNATUL BAQI TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441691
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TMTV (MOVIE 24)" tvg-logo="" group-title="IRAN Server 2",IR ▎TMTV (MOVIE 24)
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441692
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎NOW TV HD" tvg-logo="" group-title="IRAN Server 2",IR ▎NOW TV HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441693
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PAYAM-E-DOOST RADIO" tvg-logo="" group-title="IRAN Server 2",IR ▎PAYAM-E-DOOST RADIO
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441694
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SAHAR KURDI" tvg-logo="" group-title="IRAN Server 2",IR ▎SAHAR KURDI
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441695
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ME2" tvg-logo="" group-title="IRAN Server 2",IR ▎ME2
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441696
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AFRA FILM" tvg-logo="" group-title="IRAN Server 2",IR ▎AFRA FILM
+http://line.now-ott.xyz:80/451AAD/3F41A2/1441697
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎CITY TV" tvg-logo="" group-title="IRAN Server 2",IR ▎CITY TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1458300
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎NEWFLIX HD" tvg-logo="" group-title="IRAN Server 2",IR ▎NEWFLIX HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516060
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎GOLD STAR" tvg-logo="" group-title="IRAN Server 2",IR ▎GOLD STAR
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516061
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎TALA KIDS" tvg-logo="" group-title="IRAN Server 2",IR ▎TALA KIDS
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516062
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎PERSIANA NOSTALGIA" tvg-logo="" group-title="IRAN Server 2",IR ▎PERSIANA NOSTALGIA
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516063
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AVANG TV" tvg-logo="" group-title="IRAN Server 2",IR ▎AVANG TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516064
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎META FILM HD" tvg-logo="" group-title="IRAN Server 2",IR ▎META FILM HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516065
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎SUN MUSIC TV" tvg-logo="" group-title="IRAN Server 2",IR ▎SUN MUSIC TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516066
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎NET TV" tvg-logo="" group-title="IRAN Server 2",IR ▎NET TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516067
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎AFRA SERIES HD" tvg-logo="" group-title="IRAN Server 2",IR ▎AFRA SERIES HD
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516068
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎ABC TV (AMHARA BROADCASTING CENTER)" tvg-logo="" group-title="IRAN Server 2",IR ▎ABC TV (AMHARA BROADCASTING CENTER)
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516069
+#EXTINF:-1 tvg-ID="" tvg-name="IR ▎CHEKAD TV" tvg-logo="" group-title="IRAN Server 2",IR ▎CHEKAD TV
+http://line.now-ott.xyz:80/451AAD/3F41A2/1516074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRAN Server 3",@ipsatnews Telegram
+https://dlrrooz.top/2025/2/New/Ehsan%20Khajeh%20Amiri%20-%20In%20Rooz%20Ha%20720p_.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran International 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Iran International 4K
+http://wolvestv.net:8880/57566788880/204960656584/374156
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran International HD* 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Iran International HD* 4K
+http://wolvestv.net:8880/57566788880/204960656584/374157
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV1" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB TV1
+http://wolvestv.net:8880/57566788880/204960656584/374056
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV2" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB TV2
+http://wolvestv.net:8880/57566788880/204960656584/374057
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 3 HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB TV 3 HD
+http://wolvestv.net:8880/57566788880/204960656584/374052
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 4" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB TV 4
+http://wolvestv.net:8880/57566788880/204960656584/374054
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jame-Jam 1 TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Jame-Jam 1 TV
+http://wolvestv.net:8880/57566788880/204960656584/374075
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Jame-Jam 2 TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Jame-Jam 2 TV
+http://wolvestv.net:8880/57566788880/204960656584/374076
+#EXTINF:-1 tvg-id="" tvg-name="IR: BBC Persian" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: BBC Persian
+http://wolvestv.net:8880/57566788880/204960656584/374140
+#EXTINF:-1 tvg-id="" tvg-name="IR: MBC Persia HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: MBC Persia HD
+http://wolvestv.net:8880/57566788880/204960656584/374175
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Iranian" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Iranian
+http://wolvestv.net:8880/57566788880/204960656584/374191
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Nostalgia" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Nostalgia
+http://wolvestv.net:8880/57566788880/204960656584/374194
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persian Movie" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persian Movie
+http://wolvestv.net:8880/57566788880/204960656584/374184
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persian Music" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persian Music
+http://wolvestv.net:8880/57566788880/204960656584/374185
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Series Plus HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Series Plus HD
+http://wolvestv.net:8880/57566788880/204960656584/374124
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRAN TV NETWORK ITN" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRAN TV NETWORK ITN
+http://wolvestv.net:8880/57566788880/204960656584/374158
+#EXTINF:-1 tvg-id="" tvg-name="IR: Navahang 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Navahang 4K
+http://wolvestv.net:8880/57566788880/204960656584/374177
+#EXTINF:-1 tvg-id="" tvg-name="IR: PNTV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: PNTV
+http://wolvestv.net:8880/57566788880/204960656584/374198
+#EXTINF:-1 tvg-id="" tvg-name="IR: Varzesh 1" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Varzesh 1
+http://wolvestv.net:8880/57566788880/204960656584/374217
+#EXTINF:-1 tvg-id="" tvg-name="IR: Varzesh 3 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Varzesh 3 4K
+http://wolvestv.net:8880/57566788880/204960656584/374218
+#EXTINF:-1 tvg-id="" tvg-name="IR: City TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: City TV
+http://wolvestv.net:8880/57566788880/204960656584/374142
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB iFilm" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB iFilm
+http://wolvestv.net:8880/57566788880/204960656584/374072
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Life" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Life
+http://wolvestv.net:8880/57566788880/204960656584/374113
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB TV 5" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB TV 5
+http://wolvestv.net:8880/57566788880/204960656584/374055
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Varzesh" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Varzesh
+http://wolvestv.net:8880/57566788880/204960656584/374058
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Varzesh HEVC" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Varzesh HEVC
+http://wolvestv.net:8880/57566788880/204960656584/374059
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Zanjan ESHTAGH TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Zanjan ESHTAGH TV
+http://wolvestv.net:8880/57566788880/204960656584/374060
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIBI Ilam" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIBI Ilam
+http://wolvestv.net:8880/57566788880/204960656584/374061
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB  Aflak TV Lorestan" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB  Aflak TV Lorestan
+http://wolvestv.net:8880/57566788880/204960656584/374062
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Alborz" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Alborz
+http://wolvestv.net:8880/57566788880/204960656584/374063
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Amoozesh" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Amoozesh
+http://wolvestv.net:8880/57566788880/204960656584/374064
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Atrak TV  Khorasan Shomali" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Atrak TV  Khorasan Shomali
+http://wolvestv.net:8880/57566788880/204960656584/374065
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Azarbayjan-e Gharbi TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Azarbayjan-e Gharbi TV
+http://wolvestv.net:8880/57566788880/204960656584/374066
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Baran TV Guilan" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Baran TV Guilan
+http://wolvestv.net:8880/57566788880/204960656584/374067
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Dena Kohgiluyeh and Boyer-Ahmad" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Dena Kohgiluyeh and Boyer-Ahmad
+http://wolvestv.net:8880/57566788880/204960656584/374068
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Fars Shiraz" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Fars Shiraz
+http://wolvestv.net:8880/57566788880/204960656584/374069
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Golestan SABZ TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Golestan SABZ TV
+http://wolvestv.net:8880/57566788880/204960656584/374070
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Hamoon" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Hamoon
+http://wolvestv.net:8880/57566788880/204960656584/374071
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB IRINN" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB IRINN
+http://wolvestv.net:8880/57566788880/204960656584/374073
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kerman" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Kerman
+http://wolvestv.net:8880/57566788880/204960656584/374078
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kermanshah Zagros" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Kermanshah Zagros
+http://wolvestv.net:8880/57566788880/204960656584/374079
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Khavaran TV Khorasan Jonoobi" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Khavaran TV Khorasan Jonoobi
+http://wolvestv.net:8880/57566788880/204960656584/374080
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Khorasan Razavi" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Khorasan Razavi
+http://wolvestv.net:8880/57566788880/204960656584/374081
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Kurdistan" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Kurdistan
+http://wolvestv.net:8880/57566788880/204960656584/374082
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mahabad" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Mahabad
+http://wolvestv.net:8880/57566788880/204960656584/374083
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mazandaran Tabarestan TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Mazandaran Tabarestan TV
+http://wolvestv.net:8880/57566788880/204960656584/374084
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mostanad" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Mostanad
+http://wolvestv.net:8880/57566788880/204960656584/374085
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Mostanad HEVC" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Mostanad HEVC
+http://wolvestv.net:8880/57566788880/204960656584/374086
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Namayesh" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Namayesh
+http://wolvestv.net:8880/57566788880/204960656584/374087
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Namayesh HEVC" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Namayesh HEVC
+http://wolvestv.net:8880/57566788880/204960656584/374088
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Nasim TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Nasim TV
+http://wolvestv.net:8880/57566788880/204960656584/374089
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Nasim TV HEVC" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Nasim TV HEVC
+http://wolvestv.net:8880/57566788880/204960656584/374090
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Ofogh" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Ofogh
+http://wolvestv.net:8880/57566788880/204960656584/374091
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Omid" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Omid
+http://wolvestv.net:8880/57566788880/204960656584/374092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRAN Server 3",@ipsatnews Telegram _
+https://dlrrooz.top/2025/1/New/Kasra%20Zahedi%20-%20Dooset%20Daram%20720p_.mp4
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Salamat" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Salamat
+http://wolvestv.net:8880/57566788880/204960656584/374094
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Sepehr 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Sepehr 4K
+http://wolvestv.net:8880/57566788880/204960656584/374095
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Shoma HEVC" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Shoma HEVC
+http://wolvestv.net:8880/57566788880/204960656584/374096
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Tamasha HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Tamasha HD
+http://wolvestv.net:8880/57566788880/204960656584/374097
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRIB Tamasha HEVC" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRIB Tamasha HEVC
+http://wolvestv.net:8880/57566788880/204960656584/374098
+#EXTINF:-1 tvg-id="" tvg-name="IR: PERSIANA 4 HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: PERSIANA 4 HD
+http://wolvestv.net:8880/57566788880/204960656584/374186
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Billboard 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Billboard 4K
+http://wolvestv.net:8880/57566788880/204960656584/374187
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Cinema" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Cinema
+http://wolvestv.net:8880/57566788880/204960656584/374188
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Comedy" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Comedy
+http://wolvestv.net:8880/57566788880/204960656584/374189
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Family 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Family 4K
+http://wolvestv.net:8880/57566788880/204960656584/374190
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Junior" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Junior
+http://wolvestv.net:8880/57566788880/204960656584/374192
+#EXTINF:-1 tvg-id="" tvg-name="IR: PERSIANA KOREA HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: PERSIANA KOREA HD
+http://wolvestv.net:8880/57566788880/204960656584/374193
+#EXTINF:-1 tvg-id="" tvg-name="IR: Persiana Plus HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Persiana Plus HD
+http://wolvestv.net:8880/57566788880/204960656584/374195
+#EXTINF:-1 tvg-id="" tvg-name="IR: VOA Persian 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: VOA Persian 4K
+http://wolvestv.net:8880/57566788880/204960656584/374220
+#EXTINF:-1 tvg-id="" tvg-name="IR: Damac Persian TV HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Damac Persian TV HD
+http://wolvestv.net:8880/57566788880/204960656584/374225
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM 24B HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM 24B HD
+http://wolvestv.net:8880/57566788880/204960656584/374099
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Arabia" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Arabia
+http://wolvestv.net:8880/57566788880/204960656584/374100
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM AZ 1" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM AZ 1
+http://wolvestv.net:8880/57566788880/204960656584/374101
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Bollywood" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Bollywood
+http://wolvestv.net:8880/57566788880/204960656584/374102
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Classic" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Classic
+http://wolvestv.net:8880/57566788880/204960656584/374103
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Comedy" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Comedy
+http://wolvestv.net:8880/57566788880/204960656584/374104
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Drama" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Drama
+http://wolvestv.net:8880/57566788880/204960656584/374105
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Drama Plus 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Drama Plus 4K
+http://wolvestv.net:8880/57566788880/204960656584/374106
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Film" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Film
+http://wolvestv.net:8880/57566788880/204960656584/374107
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Fit" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Fit
+http://wolvestv.net:8880/57566788880/204960656584/374108
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Food" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Food
+http://wolvestv.net:8880/57566788880/204960656584/374109
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Junior" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Junior
+http://wolvestv.net:8880/57566788880/204960656584/374110
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Kids" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Kids
+http://wolvestv.net:8880/57566788880/204960656584/374111
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Latino" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Latino
+http://wolvestv.net:8880/57566788880/204960656584/374112
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Mifa + HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Mifa + HD
+http://wolvestv.net:8880/57566788880/204960656584/374114
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Mifa Music HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Mifa Music HD
+http://wolvestv.net:8880/57566788880/204960656584/374115
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Nature" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Nature
+http://wolvestv.net:8880/57566788880/204960656584/374116
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Onyx HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Onyx HD
+http://wolvestv.net:8880/57566788880/204960656584/374117
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Property" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Property
+http://wolvestv.net:8880/57566788880/204960656584/374118
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM River" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM River
+http://wolvestv.net:8880/57566788880/204960656584/374119
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM River Plus 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM River Plus 4K
+http://wolvestv.net:8880/57566788880/204960656584/374120
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Rubix" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Rubix
+http://wolvestv.net:8880/57566788880/204960656584/374121
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Rubix Plus 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Rubix Plus 4K
+http://wolvestv.net:8880/57566788880/204960656584/374122
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Series" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Series
+http://wolvestv.net:8880/57566788880/204960656584/374123
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM Travel" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM Travel
+http://wolvestv.net:8880/57566788880/204960656584/374125
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM TV
+http://wolvestv.net:8880/57566788880/204960656584/374126
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM TV Plus 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM TV Plus 4K
+http://wolvestv.net:8880/57566788880/204960656584/374127
+#EXTINF:-1 tvg-id="" tvg-name="IR: GEM USA" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: GEM USA
+http://wolvestv.net:8880/57566788880/204960656584/374128
+#EXTINF:-1 tvg-id="" tvg-name="IR: 24 TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: 24 TV
+http://wolvestv.net:8880/57566788880/204960656584/374129
+#EXTINF:-1 tvg-id="" tvg-name="IR: 30 TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: 30 TV
+http://wolvestv.net:8880/57566788880/204960656584/374130
+#EXTINF:-1 tvg-id="" tvg-name="IR: 4U TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: 4U TV
+http://wolvestv.net:8880/57566788880/204960656584/374131
+#EXTINF:-1 tvg-id="" tvg-name="IR: Aftab TV (Markazi)" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Aftab TV (Markazi)
+http://wolvestv.net:8880/57566788880/204960656584/374132
+#EXTINF:-1 tvg-id="" tvg-name="IR: Al Zahra" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Al Zahra
+http://wolvestv.net:8880/57566788880/204960656584/374133
+#EXTINF:-1 tvg-id="" tvg-name="IR: Arezo TV HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Arezo TV HD
+http://wolvestv.net:8880/57566788880/204960656584/374134
+#EXTINF:-1 tvg-id="" tvg-name="IR: Atn News" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Atn News
+http://wolvestv.net:8880/57566788880/204960656584/374135
+#EXTINF:-1 tvg-id="" tvg-name="IR: AVA Family HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: AVA Family HD
+http://wolvestv.net:8880/57566788880/204960656584/374136
+#EXTINF:-1 tvg-id="" tvg-name="IR: AVA Series HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: AVA Series HD
+http://wolvestv.net:8880/57566788880/204960656584/374137
+#EXTINF:-1 tvg-id="" tvg-name="IR: Avang TV 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Avang TV 4K
+http://wolvestv.net:8880/57566788880/204960656584/374138
+#EXTINF:-1 tvg-id="" tvg-name="IR: Barya TV HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Barya TV HD
+http://wolvestv.net:8880/57566788880/204960656584/374139
+#EXTINF:-1 tvg-id="" tvg-name="IR: Boushehr TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Boushehr TV
+http://wolvestv.net:8880/57566788880/204960656584/374141
+#EXTINF:-1 tvg-id="" tvg-name="IR: Didgah TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Didgah TV
+http://wolvestv.net:8880/57566788880/204960656584/374143
+#EXTINF:-1 tvg-id="" tvg-name="IR: Dunya Naw TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Dunya Naw TV
+http://wolvestv.net:8880/57566788880/204960656584/374144
+#EXTINF:-1 tvg-id="" tvg-name="IR: ECRAN TV HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: ECRAN TV HD
+http://wolvestv.net:8880/57566788880/204960656584/374145
+#EXTINF:-1 tvg-id="" tvg-name="IR: Ganje Hozour" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Ganje Hozour
+http://wolvestv.net:8880/57566788880/204960656584/374146
+#EXTINF:-1 tvg-id="" tvg-name="IR: Hadi TV 3" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Hadi TV 3
+http://wolvestv.net:8880/57566788880/204960656584/374147
+#EXTINF:-1 tvg-id="" tvg-name="IR: Hadi TV 6" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Hadi TV 6
+http://wolvestv.net:8880/57566788880/204960656584/374148
+#EXTINF:-1 tvg-id="" tvg-name="IR: HODHOD Farsi" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: HODHOD Farsi
+http://wolvestv.net:8880/57566788880/204960656584/374149
+#EXTINF:-1 tvg-id="" tvg-name="IR: Imam Hussein TV 1" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Imam Hussein TV 1
+http://wolvestv.net:8880/57566788880/204960656584/374152
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran Aryaee" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Iran Aryaee
+http://wolvestv.net:8880/57566788880/204960656584/374153
+#EXTINF:-1 tvg-id="" tvg-name="IR: IRAN BEAUTY HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: IRAN BEAUTY HD
+http://wolvestv.net:8880/57566788880/204960656584/374154
+#EXTINF:-1 tvg-id="" tvg-name="IR: Iran E Farda" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Iran E Farda
+http://wolvestv.net:8880/57566788880/204960656584/374155
+#EXTINF:-1 tvg-id="" tvg-name="IR: Isfahan TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Isfahan TV
+http://wolvestv.net:8880/57566788880/204960656584/374159
+#EXTINF:-1 tvg-id="" tvg-name="IR: ISRAEL PARS HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: ISRAEL PARS HD
+http://wolvestv.net:8880/57566788880/204960656584/374160
+#EXTINF:-1 tvg-id="" tvg-name="IR: Kalmeah Farsi" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Kalmeah Farsi
+http://wolvestv.net:8880/57566788880/204960656584/374161
+#EXTINF:-1 tvg-id="" tvg-name="IR: Kanal Jadid" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Kanal Jadid
+http://wolvestv.net:8880/57566788880/204960656584/374162
+#EXTINF:-1 tvg-id="" tvg-name="IR: Kanal Yek" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Kanal Yek
+http://wolvestv.net:8880/57566788880/204960656584/374163
+#EXTINF:-1 tvg-id="" tvg-name="IR: Khalij e Fars TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Khalij e Fars TV
+http://wolvestv.net:8880/57566788880/204960656584/374164
+#EXTINF:-1 tvg-id="" tvg-name="IR: Khane Film" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Khane Film
+http://wolvestv.net:8880/57566788880/204960656584/374165
+#EXTINF:-1 tvg-id="" tvg-name="IR: Khane Honarmandan TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Khane Honarmandan TV
+http://wolvestv.net:8880/57566788880/204960656584/374166
+#EXTINF:-1 tvg-id="" tvg-name="IR: Khatereh" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Khatereh
+http://wolvestv.net:8880/57566788880/204960656584/374167
+#EXTINF:-1 tvg-id="" tvg-name="IR: Khoozestan TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Khoozestan TV
+http://wolvestv.net:8880/57566788880/204960656584/374168
+#EXTINF:-1 tvg-id="" tvg-name="IR: Maah TV 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Maah TV 4K
+http://wolvestv.net:8880/57566788880/204960656584/374169
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto +1 HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Manoto +1 HD
+http://wolvestv.net:8880/57566788880/204960656584/374170
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto +2 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Manoto +2 4K
+http://wolvestv.net:8880/57566788880/204960656584/374171
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto 1" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Manoto 1
+http://wolvestv.net:8880/57566788880/204960656584/374172
+#EXTINF:-1 tvg-id="" tvg-name="IR: Manoto 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Manoto 4K
+http://wolvestv.net:8880/57566788880/204960656584/374173
+#EXTINF:-1 tvg-id="" tvg-name="IR: MAXX" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: MAXX
+http://wolvestv.net:8880/57566788880/204960656584/374174
+#EXTINF:-1 tvg-id="" tvg-name="IR: MY TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: MY TV
+http://wolvestv.net:8880/57566788880/204960656584/374176
+#EXTINF:-1 tvg-id="" tvg-name="IR: Nejat Farsi" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Nejat Farsi
+http://wolvestv.net:8880/57566788880/204960656584/374178
+#EXTINF:-1 tvg-id="" tvg-name="IR: Oxir TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Oxir TV
+http://wolvestv.net:8880/57566788880/204960656584/374179
+#EXTINF:-1 tvg-id="" tvg-name="IR: PARS TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: PARS TV
+http://wolvestv.net:8880/57566788880/204960656584/374180
+#EXTINF:-1 tvg-id="" tvg-name="IR: Payam Aramesh HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Payam Aramesh HD
+http://wolvestv.net:8880/57566788880/204960656584/374181
+#EXTINF:-1 tvg-id="" tvg-name="IR: PAYAM JAVAN HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: PAYAM JAVAN HD
+http://wolvestv.net:8880/57566788880/204960656584/374182
+#EXTINF:-1 tvg-id="" tvg-name="IR: Pen TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Pen TV
+http://wolvestv.net:8880/57566788880/204960656584/374183
+#EXTINF:-1 tvg-id="" tvg-name="IR: PMC HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: PMC HD
+http://wolvestv.net:8880/57566788880/204960656584/374196
+#EXTINF:-1 tvg-id="" tvg-name="IR: PMC ROYAL HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: PMC ROYAL HD
+http://wolvestv.net:8880/57566788880/204960656584/374197
+#EXTINF:-1 tvg-id="" tvg-name="IR: Pooya TV & Nahal" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Pooya TV & Nahal
+http://wolvestv.net:8880/57566788880/204960656584/374199
+#EXTINF:-1 tvg-id="" tvg-name="IR: Pooya TV HEVC" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Pooya TV HEVC
+http://wolvestv.net:8880/57566788880/204960656584/374200
+#EXTINF:-1 tvg-id="" tvg-name="IR: Press TV HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Press TV HD
+http://wolvestv.net:8880/57566788880/204960656584/374201
+#EXTINF:-1 tvg-id="" tvg-name="IR: Qazvin TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Qazvin TV
+http://wolvestv.net:8880/57566788880/204960656584/374202
+#EXTINF:-1 tvg-id="" tvg-name="IR: Radio Farda" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Radio Farda
+http://wolvestv.net:8880/57566788880/204960656584/374203
+#EXTINF:-1 tvg-id="" tvg-name="IR: Radio Javan HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Radio Javan HD
+http://wolvestv.net:8880/57566788880/204960656584/374204
+#EXTINF:-1 tvg-id="" tvg-name="IR: Sabalan TV (Ardebil)" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Sabalan TV (Ardebil)
+http://wolvestv.net:8880/57566788880/204960656584/374205
+#EXTINF:-1 tvg-id="" tvg-name="IR: Sahand TV (TABRIZ)" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Sahand TV (TABRIZ)
+http://wolvestv.net:8880/57566788880/204960656584/374206
+#EXTINF:-1 tvg-id="" tvg-name="IR: Sahar (Urdu)" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Sahar (Urdu)
+http://wolvestv.net:8880/57566788880/204960656584/374207
+#EXTINF:-1 tvg-id="" tvg-name="IR: Sahar Azari" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Sahar Azari
+http://wolvestv.net:8880/57566788880/204960656584/374208
+#EXTINF:-1 tvg-id="" tvg-name="IR: Sahar Balkan" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Sahar Balkan
+http://wolvestv.net:8880/57566788880/204960656584/374209
+#EXTINF:-1 tvg-id="" tvg-name="IR: Shabakeh 7" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Shabakeh 7
+http://wolvestv.net:8880/57566788880/204960656584/374210
+#EXTINF:-1 tvg-id="" tvg-name="IR: Simaye Azadi 4K" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Simaye Azadi 4K
+http://wolvestv.net:8880/57566788880/204960656584/374211
+#EXTINF:-1 tvg-id="" tvg-name="IR: SL 1 HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: SL 1 HD
+http://wolvestv.net:8880/57566788880/204960656584/374212
+#EXTINF:-1 tvg-id="" tvg-name="IR: SL 2 HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: SL 2 HD
+http://wolvestv.net:8880/57566788880/204960656584/374213
+#EXTINF:-1 tvg-id="" tvg-name="IR: Tapesh TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Tapesh TV
+http://wolvestv.net:8880/57566788880/204960656584/374214
+#EXTINF:-1 tvg-id="" tvg-name="IR: TIN TV Tasvir" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: TIN TV Tasvir
+http://wolvestv.net:8880/57566788880/204960656584/374215
+#EXTINF:-1 tvg-id="" tvg-name="IR: U Toon TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: U Toon TV
+http://wolvestv.net:8880/57566788880/204960656584/374216
+#EXTINF:-1 tvg-id="" tvg-name="IR: Varzish Sport HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Varzish Sport HD
+http://wolvestv.net:8880/57566788880/204960656584/374219
+#EXTINF:-1 tvg-id="" tvg-name="IR: Vox 1 TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Vox 1 TV
+http://wolvestv.net:8880/57566788880/204960656584/374221
+#EXTINF:-1 tvg-id="" tvg-name="IR: Vox 2 TV" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Vox 2 TV
+http://wolvestv.net:8880/57566788880/204960656584/374222
+#EXTINF:-1 tvg-id="" tvg-name="IR: Yazd TV Taban" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Yazd TV Taban
+http://wolvestv.net:8880/57566788880/204960656584/374223
+#EXTINF:-1 tvg-id="" tvg-name="IR: Your Time TV HD" tvg-logo="https://static.mytuner.mobi/media/countries/ir.png" group-title="IRAN Server 3",IR: Your Time TV HD
+http://wolvestv.net:8880/57566788880/204960656584/374224
