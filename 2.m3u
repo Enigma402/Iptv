@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
-https://novintv.icdndhcp.com/hls/playlist.m3u8
+https://novinhd.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",MANOTO TV
 http://xtv.ooo:8080/live/fa540/123456/351191.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/persiananostalgia.jpg" group-title="IRANIAN TV",PERSIANA NOSTALGIA 
@@ -53,7 +53,7 @@ https://divanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/77/Radio_javan_official_logo.png/250px-Radio_javan_official_logo.png" group-title="IRANIAN TV",RADIO JAVAN HD
 https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC HD
-https://hls.pmchd.live/hls/stream.m3u8
+https://hls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC ROYALE HD
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",PMC RADIO
