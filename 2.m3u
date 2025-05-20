@@ -6,17 +6,25 @@ https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/p
 https://novinhd.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351191.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA EMIRATES
+https://pemirateshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA PLUS ONE
+https://poneplushls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA TRAVEL
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA MEDICAL
+https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/persiananostalgia.jpg" group-title="IRANIAN TV",PERSIANA NOSTALGIA 
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA VIBE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA VIBE
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="IRANIAN TV",PERSIANA SONATI
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA LATINO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA LATINO
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA REALITY
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA REALITY
 https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="IRANIAN TV",PERSIANA PLUS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA PLUS
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lMZsuWi.png" group-title="IRANIAN TV",PERSIANA FAMILY HD
 https://familyhls.persiana.live/hls/stream.m3u8
