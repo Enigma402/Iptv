@@ -56,6 +56,8 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://4muhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",Persiana Turkiye HD
 https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",FUN PLUS TV
+https://edge01.776740.ir.cdn.ir/hls2/funplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",MIHAN
 https://divanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/77/Radio_javan_official_logo.png/250px-Radio_javan_official_logo.png" group-title="IRANIAN TV",RADIO JAVAN HD
