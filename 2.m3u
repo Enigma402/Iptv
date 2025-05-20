@@ -5,16 +5,16 @@ https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
 https://novinhd.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV
-http://xtv.ooo:8080/live/Ateeb443/432155/351191.ts
+http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351191.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/persiananostalgia.jpg" group-title="IRANIAN TV",PERSIANA NOSTALGIA 
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA RAP 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA VIBE
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="IRANIAN TV",PERSIANA SONATI
 https://sonhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA LATINO
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA RETAL 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA REALITY
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/ZYDqMms/Persiana-HD.png" group-title="IRANIAN TV",PERSIANA PLUS
 https://euhls.persiana.live/hls/stream.m3u8
@@ -24,7 +24,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vqrrpBi.png" group-title="IRANIAN TV",PERSIANA IRANIAN HD
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zeKHZYG.png " group-title="IRANIAN TV",PERSIANA Junior HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zeKHZYG.png " group-title="IRANIAN TV",PERSIANA JUNIOR HD
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SHxxi5I.png " group-title="IRANIAN TV",PERSIANA MUSIC FHD
 https://musichls.persiana.live/hls/stream.m3u8
