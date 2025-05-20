@@ -4,8 +4,8 @@
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
 https://novinhd.icdndhcp.com/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",MANOTO TV
-http://xtv.ooo:8080/live/fa540/123456/351191.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://fa.m.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:LOGO_Manoto-Rebrand_2018.png " group-title="IRANIAN TV",MANOTO TV
+http://xtv.ooo:8080/live/fareed126/amin/351191.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/persiananostalgia.jpg" group-title="IRANIAN TV",PERSIANA NOSTALGIA 
 https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA RAP 
@@ -135,7 +135,7 @@ https://ch1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-kanal-jadid-tv-6604.jpg" group-title="IRANIAN TV",KANALEJADID
 https://kjhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/150px-Iran_International.svg.png" group-title="IRANIAN TV",IRAN INTERNATIONAL HD
-https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
+http://51.254.225.24/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvlogo.xyz/Afghan/afgInt.jpg" group-title="IRANIAN TV",AFGHAN INTERNATIONAL HD
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/voa-persian.jpg" group-title="IRANIAN TV",VOA Persian
