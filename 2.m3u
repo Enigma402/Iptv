@@ -616,27 +616,31 @@ https://us.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Q Music
-
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",4FUN TV
+https://stream.4fun.tv:8888/hls/4f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Retro Music
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Feva Music
+https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Deejay TV
+https://streamcdne1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Company TV
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Muzzik TV
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Baraza TV
+https://eco.streams.ovh:8081/barazatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",NRJ 91 Music
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Ocko TV
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",ONAIR TV
+https://cross.cfpass.workers.dev/?url=http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",ROCK TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",
-
-
-
