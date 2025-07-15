@@ -749,3 +749,114 @@ https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Music",Stingray Latin POP
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8?ipsatnews85905.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC Arabs Got Talent
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC 1
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC 4
+https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC PERSIA SD
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",DUBAI ONE
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Dubai Sports 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1tv.smil/smc1publish/smc1tvhd_source/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2publish/smc2tv_source/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Koogi TV
+https://5b622f07944df.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Qatar TV 1
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Qatar TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Oman TV
+https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Oman Sports
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",KTV 1
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",KTV 2
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",KTV SPORTS 1
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",KTV SPORTS 2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Halla TV
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Arabya
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Aljazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",France 24 AR
+https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Aljazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Rayyan
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC", @ipsatnews video arabic
+https://s8.picofile.com/d/8307705300/3e745e7e-7e52-4990-9302-dd13080f1b35/Amr_Diab_Habibi_Ya_Nour_El_Ain_21st_century_blogsky_com_.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX TV
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX SHOW
+https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX MUSIC
+https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",4KURD MUSIC TV
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDESTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURD TV
+https://iko-live.akamaized.net/kurdhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Sterk TV
+https://muzkurd.com/sterktv/sterk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Afrin Kids
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",BAXCHAI AFRIN 
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",AFRIN RADIO
+https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",NRT
+https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",EUROKURD
+https://eurokurd.icdndhcp.com/live/Eurokurd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",SADA TV
+https://sadatv.icdndhcp.com/live/sadatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Assyrian Global Network
+https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",NOHADRA TV
+https://ip.nohadraserver.com:3785/live/nohadratvlive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Payam TV
+https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",ZAROK TV
+https://zindikurmanci.zaroktv.com.tr/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",JIN TV
+https://live.jintv.org/medialive/jintv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",ASSYRIAN TV
+https://ca1.buximedia.com/coa/assyriantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",ZOOM NEWS
+https://live.zoomnews.info/live/Zoom_playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",WAAR TV
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarmedia_source/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",WAAR RADIO
+https://c2.radioboss.fm/stream/564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",@ipsatnews  video 
+https://dl2.kourdmusic.com/video/Aziz-Waisi-Kani.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",
