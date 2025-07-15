@@ -122,6 +122,8 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgrou
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351091.m3u8?ipsatnews85905.m3u
 EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FIT
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351090.m3u8?ipsatnews85905.m3u
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM PIXEL
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SPORTS
 https://cdn.sainaertebat.com/hls/gemsport/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/icc-tv.link" group-title="IRANIAN TV",ICC+ HD
@@ -909,4 +911,52 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",@ipsatnews mp3music
 https://dl.evan-music.ir/music/1401/01/ebo-podcast.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",ZDF
+https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",VOX
+https://s6.hopslan.com/voxX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL
+https://s6.hopslan.com/rtl1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL2
+https://s6.hopslan.com/rtl2X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL NITRO
+https://s6.hopslan.com/nitroX11/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SUPER RTL
+https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",BADEN TV
+https://badentv.icdndhcp.com/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DMAX
+https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",NTV
+https://s6.hopslan.com/ntvX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",WALT TV
+https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DISNY CHANNEL
+https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SAT1
+https://s6.hopslan.com/sat1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DASE ERSTE
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SA1 GOLD
+https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",TELE 5
+https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",ARDE
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL LUX
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",TLC
+https://s6.hopslan.com/tlcX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",ARD ALFS
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",ORF1
+https://s6.hopslan.com/orf111/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",HLN
+https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",FS1
+https://stream.fs1.tv/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",
+
