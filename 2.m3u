@@ -328,6 +328,28 @@ https://t.northtelecom.org/ABALFADHLTV.m3u8
 https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو"کانال تگرام ما @ipsatnews.
 https://dl5.download1music.ir/Music/Without-Words/Ahmet-Meter-Her-Mevsim-A7imden-Gelir-A7ersin.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio Varzesh
+http://s2.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio AVA
+https://s1.cdn3.iranseda.ir/liveedge/radio-avaa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio JAVAN
+https://s1.cdn3.iranseda.ir/liveedge/radio-javan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio Payam
+https://s1.cdn3.iranseda.ir/liveedge/radio-payam/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio TEHRAN
+https://s1.cdn3.iranseda.ir/liveedge/radio-tehran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio IRAN
+https://s1.cdn3.iranseda.ir/liveedge/radio-iran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio SALAMAT
+https://s1.cdn3.iranseda.ir/liveedge/radio-salamat/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio SABA
+https://s1.cdn3.iranseda.ir/liveedge/radio-saba/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio FARHANG
+https://s1.cdn3.iranseda.ir/liveedge/radio-farhang/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی داخل ایران",Radio NAMAYESH
+https://s1.cdn3.iranseda.ir/liveedge/radio-namayesh/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/f1/94/12909/c300.png" group-title="رادیو فارسی خارج ایران",Radio Farda n
 https://n03.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABhHfNfxIA_9HX58meEpJ8ZQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/77/Radio_javan_official_logo.png" group-title="رادیو فارسی خارج ایران",RADIO JAVAN 
