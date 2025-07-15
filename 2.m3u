@@ -809,7 +809,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Rayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC", @ipsatnews video arabic
-https://as9.asset.aparat.com/aparat-video/cecf74b35aed97d6c10076adaee70fda42434995-144p.mp4
+https://dlnava.musitraf.com/1403/10/other/arabi%20shad/Hakim%20Nar.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX TV
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
@@ -857,6 +857,50 @@ https://live.kwikmotion.com/waarmedialive/waarmedia.smil/waarmediapublish/waarme
 https://c2.radioboss.fm/stream/564
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",@ipsatnews  video 
 https://dl2.kourdmusic.com/video/Aziz-Waisi-Kani.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" TURK",STAR TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" TURK",EURO STAR TV
+https://mn-nl.mncdn.com/dogusdyg_eurostar/live.m3u8?st=qhjUSZmPe4WZXMKV-od1EA&e=1752698675
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW MAX
+https://ciner-live.daioncdn.net/showmax/showmax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW TURK
+https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1752616219&st=P2UnI58emkNE7VI5bgBNJA&tv=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",Teve 2
+https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",Deram TV MUSIC
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",BEYAZ TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",KERAL POP TURK
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TV 360
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",NOMBER 1 TURK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",BRTV
+https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",kanal z
+https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",KANAL 7
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",KANAL 7 AVRUPE
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",@ipsatnews mp3music
+https://dl.evan-music.ir/music/1401/01/ebo-podcast.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",
