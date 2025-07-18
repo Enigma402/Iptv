@@ -739,6 +739,21 @@ https://tv.irna.ir/live/stream/index.m3u8
 https://live.cdn.asset.aparat.com/278ca10e34107a65b24d0f701ebeb699/livehls/ISNA_iia95vi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",SNN
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Stadium Sport 1
+https://lenz.splus.ir/PLTV/88888888/224/3221227058/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Stadium sport 2
+https://lenz.splus.ir/PLTV/88888888/224/3221227076/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",lenz sport 2
+https://lenz.splus.ir/PLTV/88888888/224/3221227061/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Footballi tv
+https://lenz.splus.ir/PLTV/88888888/224/3221227033/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Varzesh iran
+https://lenz.splus.ir/PLTV/88888888/224/3221227030/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Utv
+https://lenz.splus.ir/PLTV/88888888/224/3221227034/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Kabar2
+https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",
 
 
 
@@ -1483,8 +1498,12 @@ https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/in
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC PERSIA SD
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC MASR1
+https://shls-masr-prod-dub.shahid.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC MASR 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC FM
+https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",DUBAI ONE
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Dubai Sports 1
@@ -1529,8 +1548,28 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Rayyan
 https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Abu Dabi Emirates
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/EmiratesChannel/HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",AL ALAM TV
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Jazeera Fhd
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Jazeera Documentary
+https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Jazeera Mubasher 24
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Jazeera Mubasher FHD
+https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Jazeera Mubasher 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC", @ipsatnews video arabic
 https://dlnava.musitraf.com/1403/10/other/arabi%20shad/Hakim%20Nar.mp3
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX TV
 https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
@@ -1677,5 +1716,56 @@ https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt_720p.m3
 https://stream.fs1.tv/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",National Geographic
+https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",National Geographic Wild
+https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Disney Channel
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Disney Junior
+https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",2GB Sydney
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",10 Bold Adelaide
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC Australia
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC ME Australia
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC Sa Adelaide
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC GLA Brisbane
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC TAS Hobart
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC WA Parth
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",BLOOMBERG AUSTRALIA
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",HAC TV
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",INTV Australia
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",KORDIA TV
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",STAR INT
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Swamiji Australian TV
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Taste Media tmint
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",TVSN
+https://live-tvsn.simplestreamcdn.com/live13/tvsnjewellery/bitrate1.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",zoo moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",
+
 
