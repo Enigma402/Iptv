@@ -12,6 +12,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351191.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV MUSIC
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV Life
+https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Lenz Animation
 https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",
