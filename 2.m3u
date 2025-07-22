@@ -1583,9 +1583,26 @@ https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
 https://live-hls-apps-ajm-fa.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Al Jazeera Mubasher 2
 https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Cinama
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Aflam+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Clip Music
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Khalijia
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Trab
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Radio Jordan
+http://45.63.116.205/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC", @ipsatnews video arabic
 https://dlnava.musitraf.com/1403/10/other/arabi%20shad/Hakim%20Nar.mp3
