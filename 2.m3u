@@ -128,15 +128,15 @@ http://175.107.244.52:4457/play/a089/index.m3u8
 http://xtv.ooo:8080/live/fa540/123456/351108.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM NATURE
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351099.m3u8?ipsatnews85905.m3u
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM JUNIOR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM JUNIOR
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351092.m3u8?ipsatnews85905.m3u
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM KIDS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM KIDS
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351093.m3u8?ipsatnews85905.m3u
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FOOD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FOOD
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351091.m3u8?ipsatnews85905.m3u
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FIT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FIT
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351090.m3u8?ipsatnews85905.m3u
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM PIXEL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM PIXEL
 https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SPORTS
 https://cdn.sainaertebat.com/hls/gemsport/stream.m3u8
