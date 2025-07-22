@@ -763,7 +763,18 @@ https://lenz.splus.ir/PLTV/88888888/224/3221227030/index.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221227034/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Kabar2
 https://lenz.splus.ir/PLTV/88888888/224/3221227020/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Javaneh pooya plus
+https://cdn.telewebion.com/javaneh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Faratar 4K
+https://cdn.telewebion.com/faratar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ara tv
+https://cdn.telewebion.com/nama/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Rasoullah TV
