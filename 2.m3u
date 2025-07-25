@@ -769,8 +769,8 @@ https://cdn.telewebion.com/javaneh/live/playlist.m3u8
 https://cdn.telewebion.com/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ara tv
 https://cdn.telewebion.com/nama/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB Atrak
+https://cdn.telewebion.com/atrak/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",
 
 
