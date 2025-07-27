@@ -843,6 +843,8 @@ https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 6
 https://ak.imamhussein.live/imhtv6live/imhtv6.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",VIVA
+https://132544.edgevideo.ru/streams/132544_713325/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",ITV Persian Music (1080p)
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Music",M2 
@@ -1816,3 +1818,23 @@ https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="FRANCE",Sports En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",Az Star TV
+https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",APA TV
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",ARB24
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",ARB GUNES
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",BAKU
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",DUNYA
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",ELTV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",SPACE TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",XEZER TV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",
