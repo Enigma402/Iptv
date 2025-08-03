@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL LINK2
-https://irantv.icdndhcp.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New link
+https://iranintl.icdndhcp.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
 https://novinhd.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bayanbox.ir/view/3617117788329997193/www.MyChannels.blog.ir-BBC-Persian-01.jpg" group-title="IRANIAN TV",BBC PERSIAN
@@ -475,6 +475,22 @@ https://shoutcast.glwiz.com/RadioYAR.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",Radio Sarcheshmeh new
 https://sarcheshmeh2-ssl.icdndhcp.com/stream
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Persian music
+http://n0b.radiojar.com/m990zcmrbrzuv?rj-ttl=5&rj-tok=AAABmGXANG0AMLZ8Zme-IsesUw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Layin
+http://n08.radiojar.com/94k25xmrbrzuv?rj-ttl=5&rj-tok=AAABmGW_tCgAqAR2CYIG9mQxJw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Urban
+http://n0d.radiojar.com/cxbak4h4ss8uv?rj-ttl=5&rj-tok=AAABmGXIjZUALHwIaTjplRAf0A
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Afro
+http://n06.radiojar.com/96uyhmm27bkvv?rj-ttl=5&rj-tok=AAABmGXB5X8Ai1wKmr1jYwp7_g
+#EXTINF:-1 tvg-id=""#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Armanian
+http://n0b.radiojar.com/3sapb52sbrzuv?rj-ttl=5&rj-tok=AAABmGXCaWEAf1BXIU1jGwbNvA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio turky
+http://n09.radiojar.com/5x3ru61sbrzuv?rj-ttl=5&rj-tok=AAABmGXHpUQAsF7f0c9madsmFQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio arabic
+http://n10.radiojar.com/gexbwm2sbrzuv?rj-ttl=5&rj-tok=AAABmGXFwucAJ67XQVEFPASfmQ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio indian
+https://n10.radiojar.com/qk39g2t51s8uv?rj-ttl=5&rj-tok=AAABmGXC7Z8A6NM5Yu-H6bsIEA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Classic Hitz
 http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Hosting
@@ -1819,6 +1835,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="FRANCE",Sports En France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",AZTV
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/az-tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",Ictimai
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",Az Star TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",APA TV
@@ -1838,3 +1859,4 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",XEZER TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",
+
