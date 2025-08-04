@@ -1669,10 +1669,14 @@ https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.
 http://45.63.116.205/hls3/stream1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Radio Jordan
 http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala Landan Movies
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala LandanTv
+https://lesqqytnls.erbvr.com/halalondon/halalondon_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala Tv
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala Landan Radio
+https://halalondon-live.ercdn.net/radio-halalondon/radio-halalondon.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC", @ipsatnews video arabic
 https://dlnava.musitraf.com/1403/10/other/arabi%20shad/Hakim%20Nar.mp3
@@ -1911,6 +1915,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",XEZER TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",
+
 
 
 
