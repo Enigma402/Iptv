@@ -12,6 +12,10 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 http://xtv.ooo:8080/live/6043491946/PnVnh5FUBehu/351191.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Voa persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",VOA PERSIAN LINK2
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/374220.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",EURONEWS
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV MUSIC
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV Life
@@ -61,7 +65,7 @@ https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS   
 https://stream.sainaertebat.com/hls2/persianas.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS L2  
-https://balance.footballii.ir/hls2/persiana.m3u8
+https://stream.sainaertebat.com/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS  L3
 https://edge11.620097.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA+ FHD
@@ -1903,6 +1907,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",XEZER TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",
+
 
 
 
