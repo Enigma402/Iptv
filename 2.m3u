@@ -23,7 +23,8 @@ https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Lenz Animation
 https://lenz.splus.ir/PLTV/88888888/224/3221227043/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA Fight
+https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA EMIRATES
 https://pemirateshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA PLUS ONE
@@ -1915,6 +1916,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",XEZER TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",
+
 
 
 
