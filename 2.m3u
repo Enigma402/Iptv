@@ -1800,29 +1800,29 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",National Geographic
-https://fl3.moveonjoy.com/National_Geographic/index.m3u8
+http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/176819.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",National Geographic Wild
-https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/176823.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Disney Channel
-https://fl5.moveonjoy.com/DISNEY/index.m3u8
+http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/7103.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Disney Junior
-https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",2GB Sydney
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/7102.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Bat TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bratus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",10 Bold Adelaide
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC ME Australia
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC Sa Adelaide
-https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC GLA Brisbane
-https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC TAS Hobart
-https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ABC WA Parth
-https://c.mjh.nz/abc-wa.m3u8
+http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/26943.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Black News
+https://blacknewschannel-amazon.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",EWA
+https://aweencore-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",AWE
+https://awe-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",ACTION HALLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",BLOOMBERG AUSTRALIA
@@ -1934,6 +1934,7 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ترکمنستان",🖥 Türkmenistan Sports SD
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ترکمنستان",
+
 
 
 
