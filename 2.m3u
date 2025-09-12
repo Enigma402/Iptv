@@ -1899,12 +1899,20 @@ EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",TM
 https://live.teleradiocom.tj/9/3m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",TV Khation
 https://live.teleradiocom.tj/10/3m.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",
-
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",TV Badakhshon
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",TV Kulob
+https://live.teleradiocom.tj/12/3m.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",TV SUGD
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",ILM VA TABIAT
+https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",TV Sayohi
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",Varzish TV
+https://live.teleradiocom.tj/5/3m.m3u8
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",FOOTBALL TV
+https://live.teleradiocom.tj/8/3m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",
 
 
