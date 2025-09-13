@@ -1819,13 +1819,13 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",National Geographic
-http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/176819.ts
+http://tkosportz.live:25461/live/folalawal@/4044225438/10429.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",National Geographic Wild
-http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/176823.ts
+http://tkosportz.live:25461/live/folalawal@/4044225438/10428.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Disney Channel
-http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/7103.ts
+http://tkosportz.live:25461/live/folalawal@/4044225438/622.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Disney Junior
-http://tvm8.org:8080/live/jK8jAu7GFky8/sK8J1xkBuPU6/7102.ts
+http://tkosportz.live:25461/live/folalawal@/4044225438/623.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",Bat TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-bratus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Australia",10 Bold Adelaide
@@ -1953,6 +1953,7 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ترکمنستان",🖥 Türkmenistan Sports SD
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ترکمنستان",
+
 
 
 
