@@ -221,9 +221,9 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC Persia FHD
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC Persia AUTO
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg " group-title="IRANIAN TV",MBC Persia FHD2
-https://mymoviehls.wns.live/hls/stream.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/247-box-tv.jpg" group-title="IRANIAN TV",247BOX TV FARSI HD
 https://hls.247BOX.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/fx-tv.jpg " group-title="IRANIAN TV",FX1
@@ -1966,6 +1966,7 @@ https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ترکمنستان",🖥 Türkmenistan Sports SD
 https://alpha.tv.online.tm/legacyhls/ch004.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ترکمنستان",
+
 
 
 
