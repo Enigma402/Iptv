@@ -224,6 +224,10 @@ https://hls.247BOX.live/hls/stream.m3u8
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/fx-tv.jpg " group-title="IRANIAN TV",FX2
 https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/fx-tv.jpg " group-title="IRANIAN TV",FX1 FOR iran
+http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/400260055.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/fx-tv.jpg " group-title="IRANIAN TV",FX2 FOR IRAN
+http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/400260046.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",RONIX
 https://ronhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",sun music
@@ -2025,6 +2029,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
