@@ -11,7 +11,7 @@ https://novinhd.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bayanbox.ir/view/3617117788329997193/www.MyChannels.blog.ir-BBC-Persian-01.jpg" group-title="IRANIAN TV",BBC PERSIAN
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV
-http://otv.to/live/ayaaz/ayaz11/351191.ts
+http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/339292.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV Vpn
 https://m3u.iranvids.com/manoto/output.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Voa persian
@@ -21,7 +21,7 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",📺 MUSIC HUB TV
 http://vocotv.pro/live/tatum/tatum/691915.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",DRPAL TV
-https://video.cisk.tech/hls/drpal.m3u8
+https://video.cisk.tech/hls/drpal.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV MUSIC
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV Life
@@ -268,6 +268,8 @@ http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/184091.m3u8?ipsatnew
 http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/184094.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",TV8
 http://vocotv.pro/live/tatum/tatum/691868.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",UTOON
+http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/473616.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Khatereh TV
 https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Net TV
@@ -2023,6 +2025,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
