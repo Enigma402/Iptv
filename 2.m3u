@@ -457,6 +457,10 @@ http://s2.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-khorasanshomali/playlis
 http://s2.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-khorasanjonoobi/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو استانی",مازندران
 http://s2.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-mazandaran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو استانی",خوزستان
+http://s2.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-khoozestan/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو استانی",تهران
+https://s1.cdn3.iranseda.ir/liveedge/radio-tehran/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/f1/94/12909/c300.png" group-title="رادیو فارسی خارج ایران",Radio Farda n
 https://n03.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABhHfNfxIA_9HX58meEpJ8ZQ
@@ -2084,6 +2088,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
