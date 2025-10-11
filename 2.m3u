@@ -971,9 +971,9 @@ http://xtv.ooo:8080/live/fa540/123456/351098.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM 24B MUSIC FARSI
 http://xtv.ooo:8080/live/fa540/123456/351081.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA MUSIC FARSI
-http://xtv.ooo:8080/live/fa540/123456/351216.ts
+https://musichls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA NOSTAL FARSI
-http://xtv.ooo:8080/live/fa540/123456/351225.ts
+https://noshls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA VIBE MUSUC HD F
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA SINATI FARSI
@@ -987,9 +987,9 @@ https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",SUN MUSIC FARSI
 https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",NAVAHANG FARSI
-http://xtv.ooo:8080/live/fa540/123456/351202.ts
+https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",AVANG FARSI
-http://xtv.ooo:8080/live/fa540/123456/351071.ts
+https://hls.avang.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",iTV Afrobeats Music
 https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
@@ -2155,6 +2155,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
