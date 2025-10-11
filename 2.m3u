@@ -959,7 +959,7 @@ http://xtv.ooo:8080/live/fa540/123456/351083.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSI
 http://xtv.ooo:8080/live/fa540/123456/351228.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC ROYAL HD FARSI MUSIC
-
+https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",RADIO JAVAN MUSIC FARSI
 http://xtv.ooo:8080/live/fa540/123456/351231.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",CALTEX MUSUC FARSI
@@ -972,13 +972,13 @@ http://xtv.ooo:8080/live/fa540/123456/351098.ts
 http://xtv.ooo:8080/live/fa540/123456/351081.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA MUSIC FARSI
 http://xtv.ooo:8080/live/fa540/123456/351216.ts
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA NOSTAL..FARSI
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA NOSTAL FARSI
 http://xtv.ooo:8080/live/fa540/123456/351225.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA VIBE MUSUC HD F
 https://raphls.persiana.live/hls/stream.m3u8
-EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA SINATI FARSI
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA SINATI FARSI
 https://sonhls.persiana.live/hls/stream.m3u8
-EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA 4 MUSUCHD
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA 4 MUSUCHD
 https://4muhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",ITV MUSIC FARSI FHD
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
@@ -2155,6 +2155,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
