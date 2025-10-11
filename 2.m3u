@@ -943,9 +943,23 @@ https://ak.imamhussein.live/imhtv4live/imhtv4.smil/playlist.m3u8
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 6
 https://ak.imamhussein.live/imhtv6live/imhtv6.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo="https://i.imgur.com/AOaZmlS.png" group-title="Music",MTV 90'S
+
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",VIVA
 https://132544.edgevideo.ru/streams/132544_713325/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",iTV Afrobeats Music
+https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",iTV Latin Music
+https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",iTV Turkish Music
+https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",iTV Urban Music
+https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",TV Arabic Music
+https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",iTV Indian Music
+https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",
+
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",ITV Persian Music (1080p)
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Music",M2 
@@ -2096,6 +2110,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
