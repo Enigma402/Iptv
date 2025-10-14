@@ -880,80 +880,7 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109
 https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/1080p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",twsport 3
 https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Rasoullah TV
-https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Razavi 1  
-#EXTVLCOPT:network-caching=1000
-https://razavi.ayas.ir/hls/QkEtXUwaqTiUWfLjGKrscUdR/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Razavi 2  
-#EXTVLCOPT:network-caching=1000
-https://razavi.ayas.ir/hls/goHbjWCkGYDnCbktiPWdmxco/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Razavi 3  
-#EXTVLCOPT:network-caching=1000
-https://razavi.ayas.ir/hls/nCqGTHytkVFziVPWBLqkdQYK/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",makeh   
-#EXTVLCOPT:network-caching=1000
-https://makeh.ayas.ir/live/quran/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",madineh   
-#EXTVLCOPT:network-caching=1000
-https://makeh.ayas.ir/live/sunnah/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Quran Karim
-http://streaming.zaytonatube.com:8080/holyquran/holyquran/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",AQRA
-https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv3/playlist/3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Hadi TV
-https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Hadi TV Farsi
-https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Dua TV
-https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Bitolabbas
-https://live.beitolabbas.tv/live/beitolabbastv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Thaghalayn
-http://77.36.160.164:1935/live4/thaghalayn/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Velayat
-https://nl.livekadeh.com/hls2/velayattv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Nour
-https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Labbayk
-https://cdn.telewebion.com/labbayk/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Marjayeat
-https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Abalfadhel
-https://cdn.northtelecom.org/ABALFADHLTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Alkosar
-https://cdn.telewebion.com/kawthar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Asr
-https://iptv.imamasrtv.com/asrfa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Irib Quraan
-https://cdn.telewebion.com/quran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Tahour
-https://iptv.tahourtv.com/tahourtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Alzahra
-https://live.cdn.asset.aparat.com/18fe6da938168779274da0bf9dbeb0c8/livehls/Allzahra.com_ygfjotg.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Reza
-https://stream01.nasimrezvan.com/hls/zDdVwKZDzHmpSuyCyAhoWpfs/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 1
-https://ak.imamhussein.live/imhtv1live/imhtv1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 2
-https://ak.imamhussein.live/imhtv2live/imhtv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 3
-https://ak.imamhussein.live/imhtv3live/imhtv3.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 4
-https://ak.imamhussein.live/imhtv4live/imhtv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 5
-https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="مذهبی",Imam Hossein 6
-https://ak.imamhussein.live/imhtv6live/imhtv6.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",VIVA
-https://132544.edgevideo.ru/streams/132544_713325/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM MUSIC FARSI
 http://xtv.ooo:8080/live/fa540/123456/351083.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSI
@@ -990,3 +917,4 @@ https://hls.sunmusic.live/hls/stream.m3u8
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",AVANG FARSI
 https://hls.avang.live/hls/stream.m3u8
+
