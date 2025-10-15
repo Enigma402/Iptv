@@ -214,8 +214,6 @@ https://kjhls.wns.live/hls/stream.m3u8
 http://51.254.225.24/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://tvlogo.xyz/Afghan/afgInt.jpg" group-title="IRANIAN TV",AFGHAN INTERNATIONAL HD
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/voa-persian.jpg" group-title="IRANIAN TV",City TV
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",BBC PERSIAN L2
 http://filex.tv:8080/live/989898/989898/499853.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Didgahtv
@@ -281,7 +279,17 @@ http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/184094.m3u8?ipsatnew
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",TV8
 http://vocotv.pro/live/tatum/tatum/691868.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",UTOON
-http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/473616.ts
+http://line.ottcdn.net:80/live/047306b75f/b5a06cc482d6/556829.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",TAK TV
+http://line.ottcdn.net:80/live/047306b75f/b5a06cc482d6/556678.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",KHANE FILM
+http://line.ottcdn.net:80/live/047306b75f/b5a06cc482d6/556809.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",CITY TV
+http://line.ottcdn.net:80/live/047306b75f/b5a06cc482d6/556688..m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="IRANIAN TV",NAVAHANG TV
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="IRANIAN TV",AVANG TV
+https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Khatereh TV
 https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Net TV
@@ -2155,6 +2163,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
