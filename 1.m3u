@@ -7,11 +7,13 @@ https://iranintl.icdndhcp.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New link 2
 https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
-https://novinhd.icdndhcp.com/hls/playlist.m3u8
+https://stream.novin.live/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bayanbox.ir/view/3617117788329997193/www.MyChannels.blog.ir-BBC-Persian-01.jpg" group-title="IRANIAN TV",BBC PERSIAN
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV
 http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/339292.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV link2
+https://spf-cors-bk-9op.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV Vpn
 https://m3u.iranvids.com/manoto/output.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Voa persian
@@ -895,8 +897,10 @@ https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103
 http://xtv.ooo:8080/live/fa540/123456/351083.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSI
 http://xtv.ooo:8080/live/fa540/123456/351228.ts
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSIlink2
+https://spf-cors-onetv.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC ROYAL HD FARSI MUSIC
-https://rohls.pmc.live/hls/stream.m3u8
+https://pmcrohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",RADIO JAVAN MUSIC FARSI
 http://xtv.ooo:8080/live/fa540/123456/351231.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",CALTEX MUSUC FARSI
@@ -979,5 +983,6 @@ http://line.one-ott.xyz/live/7H6R91/76G49D/1096218.ts
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096219.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096220.ts
+
 
 
