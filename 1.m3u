@@ -24,6 +24,8 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 http://vocotv.pro/live/tatum/tatum/691915.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",DRPAL TV
 https://stream.cisk.tech/drpal/index.m3u8?ipsatnews85905.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Gulf Movies
+https://stream.cisk.tech/gulfmovie/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV MUSIC
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITV Life
@@ -986,6 +988,7 @@ http://line.one-ott.xyz/live/7H6R91/76G49D/1096218.ts
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096219.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096220.ts
+
 
 
 
