@@ -933,7 +933,8 @@ https://hls.sunmusic.live/hls/stream.m3u8
 https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",AVANG FARSI
 https://hls.avang.live/hls/stream.m3u8
-
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",247 Music TV
+https://stream.cisk.tech/247music/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="گروه پرشین مووی",@ipsatnews on telgram
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
@@ -985,6 +986,7 @@ http://line.one-ott.xyz/live/7H6R91/76G49D/1096218.ts
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096219.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096220.ts
+
 
 
 
