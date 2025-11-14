@@ -489,15 +489,19 @@ https://cdn.telewebion.com/radiovarzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",Tehran Nama
 https://cdn.telewebion.com/radiotehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",Javan Nama
-https://cdn.telewebion.com/radiojavan/live/playlist.m3uu
+https://cdn.telewebion.com/radiojavan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",Ava Nama
-https://cdn.telewebion.com/radioava/live/playlist.m3uu
+https://cdn.telewebion.com/radioava/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",payam Nama
-https://cdn.telewebion.com/radiopayam/live/playlist.m3uu
+https://cdn.telewebion.com/radiopayam/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",Iran Nama
-https://cdn.telewebion.com/radioiran/live/playlist.m3uu
+https://cdn.telewebion.com/radioiran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",Namayesh Nama
-https://cdn.telewebion.com/radionamayesh/live/playlist.m3uu
+https://cdn.telewebion.com/radionamayesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",Salamat Nama
+https://cdn.telewebion.com/radiosalamat/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="رادیو نما",Saba Nama
+https://cdn.telewebion.com/radiosaba/live/playlist.m3u8
 
 
 
@@ -1010,6 +1014,7 @@ http://line.one-ott.xyz/live/7H6R91/76G49D/1096218.ts
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096219.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096220.ts
+
 
 
 
