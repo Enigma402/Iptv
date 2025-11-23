@@ -88,6 +88,12 @@ https://stream.sainaertebat.com/hls2/persianas.m3u8
 https://af.ayassport.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS  L3
 http://filex.tv:8080/live/989898/989898/499922.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS 2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS 3
+https://pepsi3.abntv.live/hls/psp3.m3u8/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS 4
+https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA+ FHD
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://photos.live-tv-channels.org/tv-logo/fr-persiana-tv-8293-316x237.jpg" group-title="IRANIAN TV",PERSIANA DOCUMENTER HD
@@ -1014,6 +1020,7 @@ http://line.one-ott.xyz/live/7H6R91/76G49D/1096218.ts
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096219.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.one-ott.xyz/live/7H6R91/76G49D/1096220.ts
+
 
 
 
