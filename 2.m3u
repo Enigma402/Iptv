@@ -2043,8 +2043,8 @@ http://85.132.53.162:1935/live/eltv/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",XEZER TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN", Ayaz TV
+https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/AyazTV/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",Dushanbe TV
 https://live.teleradiocom.tj/7/3m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",Sinamo TV
@@ -2171,6 +2171,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
