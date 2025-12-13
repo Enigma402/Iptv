@@ -13,7 +13,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV vpn
 http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/339292.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV link2
-http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/1183067.ts
+https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/manototv/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",BBC
 http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556732.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Voa persian vpn
@@ -119,7 +119,7 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/77/Radio_javan_official_logo.png/250px-Radio_javan_official_logo.png" group-title="IRANIAN TV",RADIO JAVAN HD
 http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556713.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC HD
-http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556750.ts
+https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC ROYALE HD
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",PMC RADIO
@@ -924,7 +924,7 @@ http://www.ritmahang.com/file-sabk/mp4/Samuel%20Barber-Adagio%20for%20Strings.mp
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM MUSIC FARSI
 http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556802.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSI
-http://xtv.ooo:8080/live/fa540/123456/351228.ts
+https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSIlink2
 
 http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556750.ts
@@ -935,9 +935,9 @@ http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556713.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",CALTEX MUSUC FARSI
 
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",MIFA MUSIC FARSI
-http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556818.ts
+https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemmifa/index-0.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",MIFA PLUS FARSI
-http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556853.ts
+https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM 24B MUSIC FARSI
 http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556852.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA MUSIC FARSI
@@ -1005,6 +1005,7 @@ http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558388.ts
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558387.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558386.ts
+
 
 
 
