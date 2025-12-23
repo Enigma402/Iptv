@@ -502,8 +502,10 @@ https://cdn.telewebion.com/radiosalamat/live/playlist.m3u8
 https://cdn.telewebion.com/radiosaba/live/playlist.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی خارج ایران",Radio SETAREH
+https://s2.free-shoutcast.com/stream/18256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی خارج ایران",Radio DEJ
+https://rdejhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radio.net/images/broadcasts/f1/94/12909/c300.png" group-title="رادیو فارسی خارج ایران",Radio Farda n
 https://n03.radiojar.com/cp13r2cpn3quv?rj-ttl=5&rj-tok=AAABhHfNfxIA_9HX58meEpJ8ZQ
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/77/Radio_javan_official_logo.png" group-title="رادیو فارسی خارج ایران",RADIO JAVAN 
@@ -1005,6 +1007,7 @@ http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558388.ts
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558387.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558386.ts
+
 
 
 
