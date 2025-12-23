@@ -80,8 +80,8 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS L2  
 https://af.ayassport.ir/hls2/persiana.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS  L3
-http://filex.tv:8080/live/989898/989898/499922.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS 1 HD
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS 2
 https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/q1XfMN9/Persiana-شبکه های ورزشیs.png " group-title="IRANIAN TV",PERSIANA SPORTS 3
@@ -124,8 +124,6 @@ http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556713.ts
 https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC ROYALE HD
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",PMC RADIO
-https://jazhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://amcmusic.net/wp-content/uploads/2014/11/header_logox1501.png" group-title="IRANIAN TV",AMC MUSIC AFG TV FHD
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4utv.tv/wp-content/uploads/2020/09/Asset-1@3xdf.png" group-title="IRANIAN TV",4U TV HD
@@ -137,7 +135,7 @@ https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM Classic
 https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemclassic/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SERIES+
-https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
+https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM SERIES
 https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemseries/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM RUBIX
@@ -171,7 +169,7 @@ http://xtv.ooo:8080/live/fa540/123456/351108.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM NATURE
 https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemnature/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM JUNIOR
-https://stream2.removie.raha.af/live/smil:gemjuntv.smil/playlist.m3u8
+https://wild-dawn-81ef.srmhoburfqyupzwxbu.workers.dev/?url=https://ca-rt.onetv.app/gemjunior/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM KIDS
 https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/gemkids/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM FOOD
@@ -1007,6 +1005,7 @@ http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558388.ts
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558387.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558386.ts
+
 
 
 
