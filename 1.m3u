@@ -121,7 +121,7 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/77/Radio_javan_official_logo.png/250px-Radio_javan_official_logo.png" group-title="IRANIAN TV",RADIO JAVAN HD
 http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556713.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC HD
-https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
+https://spf-cors-onetv-ik054t9enh.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://asheghnameh.com/wp-content/uploads/2019/05/pmc-fal-compressor.png" group-title="IRANIAN TV",PMC ROYALE HD
 https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://amcmusic.net/wp-content/uploads/2014/11/header_logox1501.png" group-title="IRANIAN TV",AMC MUSIC AFG TV FHD
@@ -926,9 +926,8 @@ http://www.ritmahang.com/file-sabk/mp4/Samuel%20Barber-Adagio%20for%20Strings.mp
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM MUSIC FARSI
 http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/1844019.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSI
-https://spf-cors-onetv-te0d.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
+https://spf-cors-onetv-ik054t9enh.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSIlink2
-
 http://line.rs4ott.com/live/681f5e468a/9039d0cdb4d9/556750.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC ROYAL HD FARSI MUSIC
 http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/184120.ts
@@ -1007,6 +1006,7 @@ http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558388.ts
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558387.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558386.ts
+
 
 
 
