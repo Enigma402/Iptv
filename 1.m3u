@@ -15,7 +15,7 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN ONE NEWS
 https://poneplushls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV vpn
-http://exm3u.extraott.com/live/54RL5KJE/QVVXHK64/339292.ts
+http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/184087.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV link2
 https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/manototv/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",BBC
@@ -1017,6 +1017,7 @@ http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558388.ts
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558387.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558386.ts
+
 
 
 
