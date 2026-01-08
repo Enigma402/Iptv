@@ -39,7 +39,7 @@ https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Ecran Movies
 https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Honarmandan TV
-https://spf-cors-onetv-ik054t9enh.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8
+https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA FIGHT
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA EMIRATES
@@ -1017,6 +1017,7 @@ http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558388.ts
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558387.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
 http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558386.ts
+
 
 
 
