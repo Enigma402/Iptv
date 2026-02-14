@@ -7,7 +7,7 @@ http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/50329.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New L3
 http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/50330.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New link 2
-https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8
+https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
 https://stream.novin.live/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bayanbox.ir/view/3617117788329997193/www.MyChannels.blog.ir-BBC-Persian-01.jpg" group-title="IRANIAN TV",BBC PERSIAN
@@ -16,8 +16,6 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 https://poneplushls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV vpn
 http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/184087.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV link2
-https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/manototv/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",BBC
 http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/50328.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Voa persian vpn
@@ -36,10 +34,10 @@ https://lenz.splus.ir/PLTV/88888888/224/3221227021/index.m3u8
 https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 Music HD
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Ecran Movies
-https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Honarmandan TV
-https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/Khanehonarmandan/index-0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",KHABAR BIN
+https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITC
+https://itchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA FIGHT
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA EMIRATES
@@ -1102,3 +1100,4 @@ http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184054.ts
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184062.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",DIDGAH TV
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184064.ts
+
