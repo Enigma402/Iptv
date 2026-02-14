@@ -2491,12 +2491,12 @@ http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88988
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW MAX
 http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88987
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW TURK
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",POWER TURK
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/89292
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",Teve 2
 http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88984
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",Deram TV MUSIC
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",POWER TV M
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/89291
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",A2
@@ -2511,8 +2511,10 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",KERAL POP TURK
-https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TV8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88974
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TV8.5
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88982
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TV 360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",NOMBER 1 TURK
@@ -2821,6 +2823,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
