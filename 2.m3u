@@ -2486,23 +2486,23 @@ https://dl2.kourdmusic.com/video/Aziz-Waisi-Kani.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" TURK",STAR TV
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" TURK",EURO STAR TV
-https://mn-nl.mncdn.com/dogusdyg_eurostar/live.m3u8?st=lel84JZodnuMABYIf2gD1g&e=1767476604
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88988
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW MAX
-https://ciner-live.ercdn.net/showmax/playlist.m3u8?e=1767395294&st=0fwHN0F0r3DRbW75Kno5Fw&tv=1
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88987
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",SHOW TURK
-https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1752616219&st=P2UnI58emkNE7VI5bgBNJA&tv=1
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",Teve 2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88984
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",Deram TV MUSIC
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88968
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",EURO D
-http://4afc0bdb.rossteleccom.net/iptv/SGFE65YCU4U9NLK684MCUD8T/6892/index.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88989
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",BEYAZ TV
@@ -2813,6 +2813,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
