@@ -2499,6 +2499,8 @@ http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88984
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",A2
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/89813
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",KANAL D
 http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88968
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",EURO D
@@ -2506,7 +2508,7 @@ http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88989
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",NOW TV
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",BEYAZ TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88980
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",KERAL POP TURK
@@ -2518,9 +2520,15 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT TURK
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/94866
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/89166
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT 1
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88956
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT 2
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/89165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",TRT3 SPOR
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/89083
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="TURK",kanal z
@@ -2813,6 +2821,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
