@@ -36,6 +36,8 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://khbhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ITC
 https://itchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Honarmandan TV
+https://spf-cors-aprt-3xnbe845bsn3q.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20Khane%20Honarmandan_/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA FIGHT
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA EMIRATES
@@ -1098,6 +1100,7 @@ http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184054.ts
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184062.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",DIDGAH TV
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184064.ts
+
 
 
 
