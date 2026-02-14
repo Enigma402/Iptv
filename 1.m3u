@@ -975,84 +975,130 @@ https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",247 Music TV
 https://stream.cisk.tech/247music/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="گروه پرشین مووی",@ipsatnews on telgram
-https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Action 1
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558405.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Action 2
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558404.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Action 3
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558403.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Action 4
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558402.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Action 5
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558401.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Asheghaneh
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558400.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Comedy 1
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558399.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Comedy 2
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558398.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Comedy 3
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558397.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Comedy 4
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558396.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Comedy 5
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558395.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Comedy 6
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558394.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Dubbed 1
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558393.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Dubbed 2
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558392.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Dubbed 3
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558391.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Dubbed 4 
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558390.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 1
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558389.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 2
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558388.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40  3
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558387.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Top 40 4
-http://line.clineiptv.online:80//live/6o5k44cbmg/k6vgk5ld93/1558386.ts
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",Manoto
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184087.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",BBC persian
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50328.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",VOA Persian
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50340.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",IRANINT
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50329.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",PARS RV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184101.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",IRAN E FARDA
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184079.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",ITN IRAN TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50342.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",TAPESH
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184138.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",PMC
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184119.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",PMC ROYAL
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184120.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",RADIO JAVAN
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184127.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",NAVAHANG
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184095.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",4U
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184047.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",MY TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184094.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",OXIR TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184099.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",ARAX TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184121.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",SL ONE
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184131.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",SL TWO
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184134.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",FX CARTOON
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184141.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",FX MOVIES
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184068.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",FILM PLUS
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184083.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",HAMSAFAR TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184084.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",MBC PERSIA
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184090.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",TIN TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184140.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",ARKO TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184150.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",YOUR TIME
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184152.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان", U TOON
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184144.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM SERIES
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50286.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM SEREES+
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50351.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM RUBIX
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50345.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM LIFE
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50348.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM FOOD
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50353.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM CLASIC
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50355.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM JUNIOR
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50357.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM 24B
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184018.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM MUSIC
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184019.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM AZ
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184020.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM BOLLYWOOD
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184021.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM COMEDY
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184022.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM DRAMA
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184023.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM DRAMA+
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184024.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM FILM
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184025.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM FIT
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184024.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM KIDS
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184027.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM MIFA
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184029.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM MIFA+
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184030.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM NATURE
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184031.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM ONYX
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184032.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM RUBIX
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/50345.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM RIVER
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184034.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM RIVER+
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184035.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEMRUBIX
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184036.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEMRUBIX+
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184037.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEMSeries+
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184038.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM TRAVEL
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184039.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEMTV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184040.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM ×
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184041.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",GEM DUCU
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184042.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",247 BOX TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184043.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",AVA F
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184053.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",AVA SERIES
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184054.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",CITY TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184062.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",DIDGAH TV
+http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184064.ts
