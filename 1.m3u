@@ -46,7 +46,7 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.persianity.com/thumb.php?src=https://www.parsatv.com/index_files/channels/persiananostalgia.jpg" group-title="IRANIAN TV",PERSIANA NOSTALGIA 
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA K POP
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA TEEN
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqq5PlP.png" group-title="IRANIAN TV",PERSIANA SONATI
 https://sonhls.persiana.live/hls/stream.m3u8
@@ -1098,6 +1098,7 @@ http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184054.ts
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184062.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",DIDGAH TV
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184064.ts
+
 
 
 
