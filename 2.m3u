@@ -2547,11 +2547,11 @@ https://dl.evan-music.ir/music/1401/01/ebo-podcast.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",ZDF
 https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",VOX
-https://s6.hopslan.com/voxX/tracks-v1a1/mono.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88639
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL
-https://s6.hopslan.com/rtl1/tracks-v1a1/mono.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88636
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL2
-https://s6.hopslan.com/rtl2X/tracks-v1a1/mono.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88642
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL NITRO
 https://s6.hopslan.com/nitroX11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SUPER RTL
@@ -2567,7 +2567,7 @@ https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DISNY CHANNEL
 https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SAT1
-https://s6.hopslan.com/sat1/tracks-v1a1/mono.m3u8
+http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88634
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DASE ERSTE
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SA1 GOLD
@@ -2823,6 +2823,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
