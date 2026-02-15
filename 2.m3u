@@ -1,6 +1,5 @@
 #EXTM3U;
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New link
@@ -2673,13 +2672,13 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",AZTV
-http://boxviptv.com:25461/live/Emin0267/cahangir0512152634/53.ts
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/109638.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",Ictimai
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",Az Star TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",APA TV
-http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",Idman
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/109643.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",ARB24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",ARB GUNES
@@ -2695,7 +2694,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN",XEZER TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="AZERBAIJAN", Ayaz TV
-https://spf-cors-aprt-84qfa.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/AyazTV/chunks.m3u8
+https://spf-cors-aprt-3xnbe845bsn3q.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/AyazTV/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",Dushanbe TV
 https://live.teleradiocom.tj/7/3m.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="تاجیکستان",Sinamo TV
@@ -2822,6 +2821,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
