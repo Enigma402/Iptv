@@ -2436,17 +2436,17 @@ https://dlnava.musitraf.com/1403/10/other/arabi%20shad/Hakim%20Nar.mp3
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX TV
-https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/KURDS2211/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX SHOW
-https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/playlist.m3u8
+https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDMAX MUSIC
-https://6476e46b58f91.streamlock.net/music/livestream/playlist.m3u8
+https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",4KURD MUSIC TV
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURDESTAN TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",KURD TV
-https://iko-live.akamaized.net/kurdhd/master.m3u8
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Sterk TV
 https://muzkurd.com/sterktv/sterk/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Afrin Kids
@@ -2458,13 +2458,13 @@ https://5dcabf026b188.streamlock.net/afarinTV/d1/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",NRT
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",EUROKURD
-https://eurokurd.icdndhcp.com/live/Eurokurd/playlist.m3u8
+https://oldkors-84hd8ne7c3sq.cfpass1.workers.dev/?url=http://baskhd.ddns.net/live/Eurokurd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",SADA TV
-https://sadatv.icdndhcp.com/live/sadatv/playlist.m3u8
+https://oldkors-84hd8ne7c3sq.cfpass1.workers.dev/?url=http://sada-hd.ddns.net/live/sadatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Assyrian Global Network
 https://58cc65c534c67.streamlock.net/agnsat.com/agn2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",NOHADRA TV
-https://ip.nohadraserver.com:3785/live/nohadratvlive.m3u8
+https://nohadraserver.com:3785/live/nohadratvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",Payam TV
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="KURD",ZAROK TV
@@ -2823,6 +2823,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
