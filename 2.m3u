@@ -2547,17 +2547,17 @@ https://dl.evan-music.ir/music/1401/01/ebo-podcast.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",ZDF
 https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",VOX
-http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88639
+https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL
-http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88636
+https://s6.hopslan.com/rtla11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL2
-http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88642
+https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",RTL NITRO
-https://s6.hopslan.com/nitroX11/tracks-v1a1/mono.m3u8
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SUPER RTL
 https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",BADEN TV
-https://badentv.icdndhcp.com/rtplive/btv.stream/live.m3u8
+https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DMAX
 https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",NTV
@@ -2567,7 +2567,7 @@ https://s6.hopslan.com/n24X/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DISNY CHANNEL
 https://s6.hopslan.com/disneyX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SAT1
-http://eu.germanydns.org:8080/ufukcemsir/42tggyn9v/88634
+https://s6.hopslan.com/sat1z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",DASE ERSTE
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="GERMANY",SA1 GOLD
@@ -2823,6 +2823,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
