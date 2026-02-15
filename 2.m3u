@@ -2340,26 +2340,26 @@ http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108448.ts
 http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108449.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC ACTION
 http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108451.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC MASR1
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC MAX
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108450.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC MASR 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",MBC FM
 https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",DUBAI ONE
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Dubai Sports 1
-https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108513.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",KSA SPORT 2
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108496.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Nile Sport
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108554.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108515.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Music ar
-https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108481.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Clip ar
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108483.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Rotana Khalij ar
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+http://eu.germanydns.org:8080/live/ufuksengul/Yjqp97nKOX/108482.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Koogi TV
 https://5b622f07944df.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Qatar TV 1
@@ -2822,6 +2822,7 @@ http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525921.ts
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525919.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",RTE 2
 http://blue4k.xyz:8080/live/05070793386/6750b02cea052/525920.ts
+
 
 
 
