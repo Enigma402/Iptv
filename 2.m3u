@@ -973,7 +973,8 @@ https://hls.navahang.live/hls/stream.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",247 Music TV
 https://stream.cisk.tech/247music/index.m3u8
-
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",JAZZ TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="گروه پرشین مووی",@ipsatnews on telgram
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="گروه پرشین مووی",Persian Action 1
@@ -2769,6 +2770,7 @@ http://xxip25.top:8080/live/AprilJPelley@hotmail.ca/07U901QSPO/53754.ts
 http://xxip25.top:8080/live/AprilJPelley@hotmail.ca/07U901QSPO/53718.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",Cartoon network
 http://xxip25.top:8080/live/AprilJPelley@hotmail.ca/07U901QSPO/53719.ts
+
 
 
 
