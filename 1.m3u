@@ -1,7 +1,5 @@
 #EXTM3U;
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mndl.ir/wp-content/uploads/bagha.png " group-title="مستند بقا مستندی که طی آن به سیاست های کثیف افرادی خاص برای کنترل بشریت میپردازد  ",THRIVE
-https://as7.cdn.asset.aparat.com/aparat-video/9fe53f77f54b26a3f8a686ca3265bb3121620686-360p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjI0ODcyMTU0YWI1ZTA1NDI0YmM5MTExOTNhZWRjOTZmIiwiZXhwIjoxNzcxMzUzNjMyLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.WBdxI7i-af3ANBsqzPNeoLQAx99RbO8EqiD_xh2zr0M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mndl.ir/wp-content/uploads/bagha.png " group-title="مستند بقا ",THRIVE Link 2
 https://storage3.namayesh.com/videos/53000/53636/53636_480p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
@@ -14,6 +12,8 @@ http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/50330.ts
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
 https://stream.novin.live/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",CH 1TV
+https://spf-cors-aprt-3xnbe845bsn3q.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/AP%20Channel%20One/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bayanbox.ir/view/3617117788329997193/www.MyChannels.blog.ir-BBC-Persian-01.jpg" group-title="IRANIAN TV",BBC PERSIAN
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV vpn
@@ -1106,6 +1106,7 @@ http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184054.ts
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184062.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",DIDGAH TV
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184064.ts
+
 
 
 
