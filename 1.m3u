@@ -14,6 +14,8 @@ https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/in
 https://stream.novin.live/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",CH 1TV
 https://spf-cors-aprt-3xnbe845bsn3q.cfpass1.workers.dev/?url=https://gg.hls2.xyz/live/AP%20Channel%20One/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",IRAN E ARYAEE TV
+https://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://bayanbox.ir/view/3617117788329997193/www.MyChannels.blog.ir-BBC-Persian-01.jpg" group-title="IRANIAN TV",BBC PERSIAN
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8d/Manoto-Logo.png " group-title="IRANIAN TV",MANOTO TV vpn
@@ -1106,6 +1108,7 @@ http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184054.ts
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184062.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",DIDGAH TV
 http://formulatv.biz:80//live/9680723188/kyft6ks0g7gr7uw0xio6/184064.ts
+
 
 
 
