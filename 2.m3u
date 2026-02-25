@@ -1660,10 +1660,12 @@ https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
 https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",iTV Indian Music
 https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",
-
+#EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",URBAN MIX
+https://cloud.tvomix.com/URBANMIX/index.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",ITV Persian Music (1080p)
 https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",JAZZ TV
+https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-logo="https://i.imgur.com/AfcBWCg.png" group-title="Music",M2 
 https://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="m2oTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",m20 TV  
@@ -2770,6 +2772,7 @@ http://xxip25.top:8080/live/AprilJPelley@hotmail.ca/07U901QSPO/53754.ts
 http://xxip25.top:8080/live/AprilJPelley@hotmail.ca/07U901QSPO/53718.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="انگلستان",Cartoon network
 http://xxip25.top:8080/live/AprilJPelley@hotmail.ca/07U901QSPO/53719.ts
+
 
 
 
