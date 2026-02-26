@@ -777,66 +777,46 @@ https://netohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRIB",@ipsatnews--
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV1 IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/tv1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV2 IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV3 IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/tv3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV4 IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/tv4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV5 IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/tehran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",varzesh IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/varzesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",pooya IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/pooya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",amouzesh IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/amouzesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IrINN IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/irinn/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ifilm IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/ifilm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ifilm Arabic IRIB  TW  
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV1 IRIB 
+https://lenz.splus.ir/PLTV/88888888/224/3221226637/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV2 IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV3 IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV4 IRIB  
+https://lenz.splus.ir/PLTV/88888888/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV5 IRIB  Tehran
+https://lenz.splus.ir/PLTV/88888888/224/3221226141/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",varzesh IRIB 
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",pooya IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226145/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",amouzesh IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226151/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IrINN IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226142/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ifilm IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226842/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ifilm Arabic 
 https://cdn.telewebion.com/ifilmar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Tamasha IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/hdtest/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Nasim IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/nasim/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Quran IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/quran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",namayesh IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/namayesh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Mostanad IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/mostanad/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ofogh IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/ofogh/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Omid IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/omid/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",shoma IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/shoma/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Khavaran IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/khavaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Tamasha IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226879/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Nasim IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226653/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Quran IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226144/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",namayesh IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226148/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Mostanad IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226901/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ofogh IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Omid IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",shoma IRIB
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Khavaran IRIB
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khorasan razavi IRIB  TW  
 #EXTVLCOPT:network-caching=1000
 https://cdn.telewebion.com/khorasanrazavi/live/playlist.m3u8
@@ -1189,6 +1169,7 @@ http://edinpajalic.streamtv.to:8080/live/sasodaniel2/GTG53de3f3erFR/636.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" شبکه های فارسی بدون وی پی ان لینک سوم",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" شبکه های فارسی بدون وی پی ان لینک سوم",BBC FARSI
+
 
 
 
