@@ -818,50 +818,36 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226159/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Khavaran IRIB
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khorasan razavi IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/khorasanrazavi/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",abadan IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/abadan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khalijefars IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/khalijefars/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",abadan IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khalijefars IRIB
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Bushehr IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/bushehr/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Esfahan IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/esfahan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khoozestan IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/khoozestan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",kordestan IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/kordestan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Gilan IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/baran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Fars IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/fars/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Arak IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/aftab/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Tabriz IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/sahand/live/playlist.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226652/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khoozestan IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226415/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",kordestan IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226647/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Gilan IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226902/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Fars IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226701/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Arak IRIB
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Tabriz IRIB
+https://lenz.splus.ir/PLTV/88888888/224/3221226423/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Semnan IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/semnan/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Lorestan IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/aflak/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khorasan shomali IRIB  TW  
 #EXTVLCOPT:network-caching=1000
 https://cdn.telewebion.com/atrak/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ardabil IRIB  TW  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/sabalan/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Azarbayejan Gharbi IRIB  TW  
 #EXTVLCOPT:network-caching=1000
 https://cdn.telewebion.com/azarbayjangharbi/live/playlist.m3u8
@@ -1169,6 +1155,7 @@ http://edinpajalic.streamtv.to:8080/live/sasodaniel2/GTG53de3f3erFR/636.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" شبکه های فارسی بدون وی پی ان لینک سوم",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title=" شبکه های فارسی بدون وی پی ان لینک سوم",BBC FARSI
+
 
 
 
