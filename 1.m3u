@@ -105,7 +105,7 @@ https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/si2ZnIA.png " group-title="IRANIAN TV",PERSIANA KOREA HD
 https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",PERSIANA SPORTS L2  
-https://af.ayassport.ir/hls2/persiana.m3u8
+https://edge16.776740.ir.cdn.ir/hls2/persiana.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",PERSIANA SPORTS 1 HD
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" " group-title="IRANIAN TV",PERSIANA SPORTS 2
