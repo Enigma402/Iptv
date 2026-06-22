@@ -411,7 +411,15 @@ https://pulsehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",ARAZ NEWS
 https://itchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",ABALFADHL TV
-https://t.northtelecom.org/ABALFADHLTV.m3u8
+http://185.170.142.19:8080/ABALFADHL/Video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",ABALFADHL TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",ABALFADHL TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",ABALFADHL TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",ABALFADHL TV
+
 #EXTINF-1 tvg-id="" tvg-name="" tvg-logo=" https://fa.haditv.co.uk/pics/logo.png " group-title="IRANIAN TV",hadi tv
 https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",HodHod
@@ -917,7 +925,7 @@ https://cdn.telewebion.com/parseh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="Music",@ipsatnewsآدرس ما
 http://www.ritmahang.com/file-sabk/mp4/Samuel%20Barber-Adagio%20for%20Strings.mp4
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM MUSIC FARSI
-http://xtv.ooo:8080/live/925026666/698447544/351083.ts
+http://185.170.142.19:8080/GEMMUSIC.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSI
 http://xtv.ooo:8080/live/925026666/698447544/351228.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSIlink2
@@ -929,9 +937,9 @@ http://xtv.ooo:8080/live/925026666/698447544/351231.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",CALTEX MUSUC FARSI
 
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",MIFA MUSIC FARSI
-http://xtv.ooo:8080/live/925026666/698447544/351097.ts
+http://185.170.142.19:8080/MIFAMUSICHD.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",MIFA PLUS FARSI
-http://xtv.ooo:8080/live/925026666/698447544/351098.ts
+http://185.170.142.19:8080/GEMMIFA%2BHD.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM 24B MUSIC FARSI
 http://xtv.ooo:8080/live/925026666/698447544/351081.ts
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA MUSIC FARSI
@@ -953,7 +961,7 @@ https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",AVANG FARSI
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",247 Music TV
-https://stream.cisk.tech/247music/index.m3u8
+http://185.170.142.19:8080/24BHD.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="شبکه های فارسی بدون وی پی ان",Manoto
