@@ -188,6 +188,8 @@ http://185.170.142.19:8080/GEMDRAMA.m3u8
 http://185.170.142.19:8080/GEMBOLLYWOOD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM TV
 http://185.170.142.19:8080/GEMTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM PLUS TV 
+http://185.170.142.19:8080/GEMTV%2BHD/1_1001_Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM DOCUMEN...
 http://185.170.142.19:8080/GEMDOCUMENTARYHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://myket.ir/app-icon/com.gemgroup.gem.png" group-title="IRANIAN TV",GEM NATURE
@@ -717,9 +719,6 @@ http://dfm.hostingradio.ru/popdance96.aacp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio DFM PUMP
 http://dfm.hostingradio.ru/pump96.aacp
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRIB",@ipsatnews--
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB FARATAR
@@ -733,15 +732,13 @@ https://live-aburayhan1111.telewebion.ir/ek/tv2/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV3 IRIB
 https://live-aburayhan1111.telewebion.ir/ek/tv3/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV4 IRIB  
-https://live-aburayhan1111.telewebion.ir/ek/tv4/live/720p/index.m3u8
+https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV5 IRIB  Tehran
 https://ncdn.telewebion.ir/tehran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",varzesh IRIB 
 https://live-aburayhan1111.telewebion.ir/ek/varzesh/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB POOYA
 https://live-aburayhan1111.telewebion.ir/ek/pooya/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB POOYA PLUS
-https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",amouzesh IRIB
 https://ncdn.telewebion.ir/amouzesh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB IRINN
@@ -756,8 +753,6 @@ https://ncdn.telewebion.ir/salamat/live/playlist.m3u8
 https://live-aburayhan1111.telewebion.ir/ek/ifilm/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ifilm Arabic 
 https://cdn.telewebion.com/ifilmar/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB SEPEHR
-https://ncdn.telewebion.ir/sepehr/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Tamasha IRIB
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Nasim IRIB
@@ -787,7 +782,7 @@ https://live-aburayhan1111.telewebion.ir/ek/bushehr/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Esfahan IRIB
 https://live-aburayhan1111.telewebion.ir/ek/esfahan/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",khoozestan IRIB
-https://live-aburayhan1111.telewebion.ir/ek/khoozestan/live/720p/index.m3u8
+https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",kordestan IRIB
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Gilan IRIB
@@ -829,7 +824,7 @@ https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB ILAM
 https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Qom IRIB  TW  
-https://ncdn.telewebion.ir/qom/live/playlist.m3u8
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",kish IRIB
 https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",DENA
@@ -840,29 +835,14 @@ https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
 https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",YAZD
 https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Jam Sport  
-https://ncdn.telewebion.ir/jam/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Nama TV  
 https://ncdn.telewebion.ir/nama/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRANEMAN TV  
-#EXTVLCOPT:network-caching=1000
-https://cdn.telewebion.com/iraneman/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRNA
 https://tv.irna.ir/live/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",ISNA
 https://live.cdn.asset.aparat.com/278ca10e34107a65b24d0f701ebeb699/livehls/ISNA_iia95vi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",SNN
 https://live2.snn.ir/hls/snn2_hd720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Stadium Sport 1
-https://lenz.splus.ir/PLTV/88888888/224/3221227058/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Stadium sport 2
-https://lenz.splus.ir/PLTV/88888888/224/3221227076/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",lenz sport 2
-https://lenz.splus.ir/PLTV/88888888/224/3221227061/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Footballi tv
-https://lenz.splus.ir/PLTV/88888888/224/3221227033/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Utv
-https://lenz.splus.ir/PLTV/88888888/224/3221227034/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ara tv
 https://ncdn.telewebion.ir/ara/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB Atrak
