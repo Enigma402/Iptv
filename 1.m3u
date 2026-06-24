@@ -329,7 +329,7 @@ https://araxhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Cafe Trade TV
 https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Didaniha TV
-https://didaniha.wiseplayout.com/Didaniha/master.m3u8
+https://932y493eljv8-hls-live.5centscdn.com/did/a5a78758611d40a8beef13f803dd816b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/negah-tv.jpg " group-title="IRANIAN TV",Negah
 https://iptv.negahtv.com/negahtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Payam Javan
@@ -380,22 +380,18 @@ https://icnet2hls.wns.live/hls/stream.m3u8
 https://khaterehhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://luxpro.mc/wp-content/uploads/2001/01/sytv.jpg " group-title="IRANIAN TV",Super Yacht FHD
 https://sy.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/sat7-pars.jpg" group-title="IRANIAN TV",Sat7 Pars
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/shabakeh-7.jpg" group-title="IRANIAN TV",Shabakeh 7
-https://t.northtelecom.org/Shabakeh.m3u8
+https://sh7hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/kayhan-afghan.jpg" group-title="IRANIAN TV",Kayhan Afghan
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.radiovatani.com/uploads/tv_image/sm/kalemeh-tv.jpg" group-title="IRANIAN TV",Kalemeh TV
-https://5e11be0b2c93a.streamlock.net/live/ngrp:kalemeh_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/nejat-tv.jpg" group-title="IRANIAN TV",Nejat TV
 https://hls.nejat.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/derakhte-zendegi.jpg " group-title="IRANIAN TV",DERAKHT E ZENDEGI
 http://iran620.com:1935/derakhte-zendegi/test/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Iman Be Masih
-https://livestream.5centscdn.com/imanbemasih/4247eb9d3002400e36c56149ed749804.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Iman
+https://afghantv.app/hls4/imantv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iran-tv.live/uploads/tv_image/sm/omid-javdan.jpg " group-title="IRANIAN TV",Omid Javdan
-https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
+https://spf-cors-omidjavedan.cfcrossing.workers.dev/?url=https://livestream.5centscdn.com/pwocchurchweb1/cebac1e921182acff008ab1222f0c916.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN WIRE TV
 https://irwhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",SAMD TV
@@ -424,15 +420,10 @@ http://185.170.142.19:8080/ABALFADHL/Video.m3u8
 
 #EXTINF-1 tvg-id="" tvg-name="" tvg-logo=" https://fa.haditv.co.uk/pics/logo.png " group-title="IRANIAN TV",hadi tv
 https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",HodHod
-http://xtv.ooo:8080/live/925026666/698447544/351112.m3u8?ipsatnews85905.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",NAHADE AZADI
 https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN E ARIYAEE
-https://oldkors-0j30xnbf3sp.cfpass1.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",CANAL 1 HD
-https://spf-cors-ch1-7h1bd7eic5m1.cfpass1.workers.dev/?url=https://s74442.unmutedte.ch/hls/8004/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",
+https://iranaryai.reclaimiran.online/iranearyaeesd/index.m3u8
 
 
 
