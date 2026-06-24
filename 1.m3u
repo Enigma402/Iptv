@@ -32,8 +32,8 @@ http://185.170.142.19:8080/SunMusicTV.m3u8
 http://185.170.142.19:8080/MaahTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",MITV
 http://185.170.142.19:8080/MITV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",JAHAN NAMA TV
+https://stream01.gaplication.com/hls/jahannamatvlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New link
 http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/50329.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New L3
