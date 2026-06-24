@@ -621,22 +621,7 @@ https://shoutcast.glwiz.com/RadioYAR.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",Radio Sarcheshmeh new
 https://sarcheshmeh2-ssl.icdndhcp.com/stream
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Persian music
-http://n0b.radiojar.com/m990zcmrbrzuv?rj-ttl=5&rj-tok=AAABmGXANG0AMLZ8Zme-IsesUw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Layin
-http://n08.radiojar.com/94k25xmrbrzuv?rj-ttl=5&rj-tok=AAABmGW_tCgAqAR2CYIG9mQxJw
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Urban
-http://n0d.radiojar.com/cxbak4h4ss8uv?rj-ttl=5&rj-tok=AAABmGXIjZUALHwIaTjplRAf0A
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Afro
-http://n06.radiojar.com/96uyhmm27bkvv?rj-ttl=5&rj-tok=AAABmGXB5X8Ai1wKmr1jYwp7_g
-#EXTINF:-1 tvg-id=""#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio Armanian
-http://n0b.radiojar.com/3sapb52sbrzuv?rj-ttl=5&rj-tok=AAABmGXCaWEAf1BXIU1jGwbNvA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio turky
-http://n09.radiojar.com/5x3ru61sbrzuv?rj-ttl=5&rj-tok=AAABmGXHpUQAsF7f0c9madsmFQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio arabic
-http://n10.radiojar.com/gexbwm2sbrzuv?rj-ttl=5&rj-tok=AAABmGXFwucAJ67XQVEFPASfmQ
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Iradio indian
-https://n10.radiojar.com/qk39g2t51s8uv?rj-ttl=5&rj-tok=AAABmGXC7Z8A6NM5Yu-H6bsIEA
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Classic Hitz
 http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Hosting
@@ -812,9 +797,9 @@ https://live-aburayhan1111.telewebion.ir/ek/sabz/live/720p/index.m3u8
 https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB ILAM
 https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Qom IRIB  TW  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB QOM
 https://ncdn.telewebion.ir/noor/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",kish IRIB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB KISH
 https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",DENA
 https://ncdn.telewebion.ir/dena/live/playlist.m3u8
@@ -828,14 +813,6 @@ https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
 https://ncdn.telewebion.ir/nama/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRNA
 https://tv.irna.ir/live/stream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",ISNA
-https://live.cdn.asset.aparat.com/278ca10e34107a65b24d0f701ebeb699/livehls/ISNA_iia95vi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",SNN
-https://live2.snn.ir/hls/snn2_hd720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",Ara tv
-https://ncdn.telewebion.ir/ara/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB Atrak
-https://cdn.telewebion.com/atrak/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB", Ba Energy
 https://ncdn.telewebion.ir/baenergy/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",GolKhane
@@ -856,8 +833,8 @@ https://ncdn.telewebion.ir/habib/live/playlist.m3u8
 https://ncdn.telewebion.ir/iraneman/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",LABBYEK
 https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",NAVA
-https://ncdn.telewebion.ir/nava/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",NESF E JAHAN
+https://live-aburayhan1111.telewebion.ir/ek/nesfejahan/live/720p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="Music",@ipsatnewsآدرس ما
 http://www.ritmahang.com/file-sabk/mp4/Samuel%20Barber-Adagio%20for%20Strings.mp4
