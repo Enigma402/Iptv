@@ -53,6 +53,8 @@ http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/50330.ts
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",RADIO FARDA
 https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Iran Independent TV
+https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",NOVIN TV
 https://stream.novin.live/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://aban.live/embedads/img/tv22.jpg " group-title="IRANIAN TV",CH 1TV
