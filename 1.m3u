@@ -3,24 +3,16 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 1
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 2
-https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/Persiana%20Sports2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 3
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 4
-https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 MOVIES
-https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+https://spf-cors-onetv-qd00r.cfcorsera.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 AMERICA
-https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+https://spf-cors-onetv-qd00r.cfcorsera.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 INTERNATIONA
-https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
+https://spf-cors-onetv-qd00r.cfcorsera.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 TV VPN
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Ekran Movies
-https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+https://spf-cors-onetv-qd00r.cfcorsera.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND CINEMA
 http://185.170.142.19:8080/GrandCinema/Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND SERIES
