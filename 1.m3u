@@ -3,6 +3,14 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 1
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 2
+https://pakhshzende.com/pz-hls/?src=https://ggg.hls2.xyz/live/Persiana%20Sports2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 3
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",P SPORT 4
+https://pakhshzende.com/pz-hls/?src=https://gg.hls2.xyz/live/Persiana%20Sports3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 MOVIES
 https://spf-cors-onetv-bb3v.cfcrossing.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 AMERICA
@@ -73,6 +81,8 @@ http://formulatv.biz:80/live/9680723188/kyft6ks0g7gr7uw0xio6/50328.ts
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",VOA PERSIAN LINK2
 https://voaphls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Alternative Shorai TV
+https://hlspackager.akamaized.net/live/DB/ALTERNATIVE_SHORAI_TV/HLS/ALTERNATIVE_SHORAI_TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Setareh TV
 https://setarehhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 Music HD
