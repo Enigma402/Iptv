@@ -670,12 +670,8 @@ https://dancetime.stream.laut.fm/dancetime?ref=radiode&t302=2021-09-01_11-14-48&
 https://light-radio.stream.laut.fm/light-radio?ref=radiode&t302=2021-08-04_20-26-56&uuid=a7ece4a8-66a1-453b-a3dc-500c9cac7a70
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 100
 https://pureplay.cdnstream1.com/6036_64.aac
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Hitz FM
-https://stream4.rcast.net/66038
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Workout Hits
 https://s4-webradio.antenne.de/workout-hits/stream/mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio The Vibe of Vegas
-https://vibe-of-vegas.awsvps.com/181-vibe_128k.mp3?_=1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio EDM PARTY
 https://edm.stream.laut.fm/edm?ref=radiode&t302=2025-07-16_16-05-50&uuid=16cfad3c-ea4b-4fe2-a98e-3a0443aca80a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio KIIS FM
@@ -698,8 +694,6 @@ http://listen.livestreamingservice.com/181-rock_128k.mp3
 https://stream.ntktv.ua/syaivo.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Deejay
 https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Montecarlo
-http://edge.radiomontecarlo.net/rmcweb009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio TURK
 http://radyo.turkuradyo.net:4591/;
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Positively 60s music
@@ -724,6 +718,35 @@ https://dfm.hostingradio.ru/dfmclub96.aacp
 http://dfm.hostingradio.ru/popdance96.aacp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio DFM PUMP
 http://dfm.hostingradio.ru/pump96.aacp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio HEART LANDAN
+https://ice-sov.musicradio.com/HeartLondonMP3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio NRJ MUSIC
+https://streaming.nrjaudio.fm/ouj3jtnxeb5p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Workout Hits
+https://s4-webradio.antenne.de/workout-hits/stream/mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Air Connect
+https://stream.airconnectradio.com/ac192.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio PARTY
+https://edm.stream.laut.fm/edm?ref=radiode&t302=2026-07-13_22-57-16&uuid=bb9cc9b0-34de-49d6-9ef5-2ac4a458718f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Galei Zahal
+https://glzwizzlv.bynetcdn.com/glz_mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Kan Bet
+https://27783.live.streamtheworld.com/KAN_BET.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Charlie Kirk
+https://radio.kirkism.com/kirk
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio KPBS
+https://kpbs.streamguys1.com/kpbs-mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRIB",@ipsatnews--
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
