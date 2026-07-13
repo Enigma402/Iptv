@@ -1,7 +1,11 @@
 #EXTM3U;
 
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran Republic TV
+https://irrephls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INT LINK1
 http://31.43.191.125:8880/live/VIP019301734188047280/7bce5254f13d/7459.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INT LINK2
@@ -540,6 +544,8 @@ http://s2.cdn1.iranseda.ir:1935/liveedgeprovincial/radio-khoozestan/playlist.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو استانی",تهران
 https://s1.cdn3.iranseda.ir/liveedge/radio-tehran/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی خارج ایران",Radio SHEMRON
+https://s35.myradiostream.com:33640/listen.mp3?nocache=1783796360
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی خارج ایران",Radio SETAREH
 https://s2.free-shoutcast.com/stream/18256
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="رادیو فارسی خارج ایران",Radio DEJ
@@ -736,12 +742,37 @@ https://27783.live.streamtheworld.com/KAN_BET.mp3
 https://radio.kirkism.com/kirk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio KPBS
 https://kpbs.streamguys1.com/kpbs-mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Hunter FM
+https://live.hunter.fm/sertanejo_normal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio TARKAN
+https://live.tarakanfm.com/listen/tarakanfm/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio BFM
+https://play.bilitonesefm.com/listen/radiobfm/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Istra FM 101
+https://live.radioistara.com/listen/radioistara/radioistara
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 104FM
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio FM ROCK
+http://listen.livestreamingservice.com/181-rock_128k.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Syiavo
+http://stream.ntktv.ua/syaivo.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Dance Time Music Radio
+https://dancetime.stream.laut.fm/dancetime?ref=radiode&t302=2021-09-01_11-14-48&uuid=21776075-6557-4827-b1a1-bc7015b4779d
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio RELAX
+https://radiorelax.stream.laut.fm/radio_relax?ref=radiode&t302=2021-08-04_20-09-48&uuid=a4d0df43-6fc4-4e6b-80ac-06b0ec2b4e51
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio LIGHT
+https://light-radio.stream.laut.fm/light-radio?ref=radiode&t302=2021-08-04_20-26-56&uuid=a7ece4a8-66a1-453b-a3dc-500c9cac7a70
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio TOP MUSIC
+https://sc.creacast.com/topmusic_strasbourg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio DFM CLUB MUSIC
+http://dfm.hostingradio.ru/dfmclub96.aacp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio DFM DANCE POP
+http://dfm.hostingradio.ru/popdance96.aacp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio DFM PUMP MUSIC
+http://dfm.hostingradio.ru/pump96.aacp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Positively 2000s music
+https://streaming.positivity.radio/pr/posi00s/icecast.audio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio TOP MUSIC
 
 
 
