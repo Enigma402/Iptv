@@ -1043,18 +1043,18 @@ https://cdn-2.pishow.tv/live/415/master.m3u8
 https://amtvusdvr.tulix.tv/am2abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",1TV America
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Song TV Armenia
-https://songtv.hls.iptvdc.com/web-armenia/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",AYAZTV
-https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",SUN TV TURK
+https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRT1 TURK
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",AZ STAR TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",STAR TV TURK
 https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",NOW TV TURK
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",EURO STAR TURK
-https://dogusdyg-eurostar.lg.mncdn.com/dogusdyg_eurostar/live.m3u8?st=fpzQI6cOBZF40mXHsiRkag&e=1784072813
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRT AVAZ TURK
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ATV TURK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",A2 TV TURK
@@ -1075,12 +1075,12 @@ https://5c7b683162943.streamlock.net/live/bahrainsportstwo/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/sportsone/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",World War TV
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Royal World TV
-https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRT MUZIC TURK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",CGTN DOC..
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Military History
-https://d25lps4m0jar17.cloudfront.net/Military_Heroes.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRT HABAR
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Universal Crime
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Total Crime
@@ -1089,8 +1089,8 @@ https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playl
 https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Horse Country TV
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",POKER GO
-https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",beIN Sports Xtra
 https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",SPORT ITALIA
@@ -1107,10 +1107,10 @@ https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",MOTORVISION
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",FIFA TV
-https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",FIFA PLUS TV
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TV42 TURK
+https://canli.tv42.com.tr/memfs/d936e417-c4bd-4d42-89a2-02f289892d1d.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",MAV TV
 https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Real Madrid
@@ -1245,8 +1245,30 @@ http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KINO SVIDANI
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",98.1FM MUSIC
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",360 TUNE BOX
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ALLO CINE
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ARIRANG
+http://45.162.64.114/ARIRANG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",BOOMRANG FHD ENG
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",SONY CINE ENG
+http://177.234.249.178:8888/SONY-MOVIES/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",CIRCEL ENG
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",CLASSIC CINEMA ENG
+https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",CERICET GOLD
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",CTN
+https://d3k5y954fiztgy.cloudfront.net/FREECAST/CTN-2b0dd347-f7b0-e7ed-9096-68966d29db50/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",MUSIC BOX CLASSIC
+http://88.212.15.19/live/mb_classic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",MUSIC BOX DANCE
+http://88.212.15.19/live/mb_dance/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
