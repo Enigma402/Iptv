@@ -2,13 +2,13 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iranint sd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iranint sd
 http://line.tvaccone.cc:80/live/047306b75f/b5a06cc482d6/556739.ts
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",VOAFarsi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",VOAFarsi
 http://line.tvaccone.cc:80/live/047306b75f/b5a06cc482d6/556714.ts
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",BBCFarsi HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",BBCFarsi HD
 http://line.tvaccone.cc:80/live/047306b75f/b5a06cc482d6/556732.ts
-EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",Sport persiana1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",Sport persiana1
 http://line.tvaccone.cc:80/live/047306b75f/b5a06cc482d6/660059.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran Republic TV
 https://irrephls.wns.live/hls/stream.m3u8
