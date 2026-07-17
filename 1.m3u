@@ -1019,7 +1019,14 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="WORLD TV ",@ipsatnews ON TELEGRAM.
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",VIJ NATURE
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",SCI FI
+http://31.148.48.15/SONY_SCI_FI/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",VIJ HISTORY
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",NAT GEO
+http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",MBC Bollywood HD
@@ -1190,6 +1197,54 @@ https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolohd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",NOOR AFG
 https://sscsott.com/srt/noortvuk/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",NTV RUS
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",7TV RUD
+http://31.148.48.15/7TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",12TV RUS
+https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",15PLUS MUSIC RUS
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ART TV RUS
+http://89.104.114.24:8080/art/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",CGTN RUS
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",BRIDJE MUSIC RUS
+http://31.148.48.15/Bridge_TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",BRIDJE CLASSIC
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",CHAMMEL 5 RUS
+http://178.134.1.158:8081/5channel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",1TV RUS
+http://188.113.190.13/1/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",EXTRIME SPORT RUS
+http://46.32.176.50/extremesport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",FILMUA DERAMA
+http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",FIRST MUSIC RUS
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",FON MUSIC RUS
+http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",GULLI GERL RUS
+https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",HIT TV RUS
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",INDSKOYE KINO RUS
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",INTER PLUS RUS
+http://176.122.125.10:8080/interplus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KINO HIT RUS
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KINO MAX RUS
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KINO POKAZ RUS
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KINO PEREMIRA 
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KINO SRRIYA
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KINO SVIDANI
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
@@ -1211,9 +1266,3 @@ https://sscsott.com/srt/noortvuk/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
-
-
