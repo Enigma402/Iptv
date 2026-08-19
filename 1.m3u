@@ -130,38 +130,8 @@ https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/T2Int
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Ekran Movies
 https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND CINEMA
-https://northtelecom.b-cdn.net/Grand%20Cinema/Video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND SERIES
-https://northtelecom.b-cdn.net/GrandSeries/1_1001_Video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND TV
-https://northtelecom.b-cdn.net/GrandTV/1_1001_Video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND SPORT
-https://northtelecom.b-cdn.net/GrandSport/1_1001_Video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND TOON
-https://northtelecom.b-cdn.net/GrandToon/1_1001_Video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",HODHOD FARSI 1
-http://185.170.142.19:8080/hodhodtv/1_1001_Video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",LUX TV
-http://185.170.142.19:8080/luxtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",RADIS TV
-http://185.170.142.19:8080/radis.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",CITY TV 
-http://185.170.142.19:8080/citytv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",TIN TV
-http://185.170.142.19:8080/channel_9.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",AYENEH TV
-http://185.170.142.19:8080/channel_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",AYENEH TV
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",MOHEBAT TV
-http://185.170.142.19:8080/channel_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",SUN MUSIC
-http://185.170.142.19:8080/SunMusicTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",SHINE TV
-http://185.170.142.19:8080/MaahTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",MITV
-http://185.170.142.19:8080/MITV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",JAHAN NAMA TV
 https://stream01.gaplication.com/hls/jahannamatvlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL New link
