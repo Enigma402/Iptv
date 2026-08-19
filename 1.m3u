@@ -121,25 +121,25 @@ http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339890.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",HAMBASTEGI
 https://livestream.5centscdn.com/HambastegiTV/7f3e29c26468b5b1036c2fbe536b5c7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 MOVIES
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 AMERICA
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 INTERNATIONA
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 TV VPN
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Ekran Movies
-https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+https://spf-onetv-9i4j.cfworker26.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND CINEMA
-http://185.170.142.19:8080/GrandCinema/Video.m3u8
+https://northtelecom.b-cdn.net/Grand%20Cinema/Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND SERIES
-http://185.170.142.19:8080/GrandSeries/1_1001_Video.m3u8
+https://northtelecom.b-cdn.net/GrandSeries/1_1001_Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND TV
-http://185.170.142.19:8080/GrandTV/1_1001_Video.m3u8
+https://northtelecom.b-cdn.net/GrandTV/1_1001_Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND SPORT
-http://185.170.142.19:8080/GrandSport/1_1001_Video.m3u8
+https://northtelecom.b-cdn.net/GrandSport/1_1001_Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",GRAND TOON
-http://185.170.142.19:8080/GrandToon/1_1001_Video.m3u8
+https://northtelecom.b-cdn.net/GrandToon/1_1001_Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",HODHOD FARSI 1
 http://185.170.142.19:8080/hodhodtv/1_1001_Video.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",LUX TV
@@ -212,6 +212,16 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://khbhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",PORCHONEH TV
 https://oldkors-9u3p1.cfcrossing.workers.dev/?url=http://porchooneh.com/hls/live1/stream1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",ROMANTICA
+http://158.69.210.135/romanticotvshow/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA VOYAGE
+https://voyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA PODCAST
+https://podhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA RAP
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA CHINA
+https://chinahls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA FIGHT
 https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg" group-title="IRANIAN TV",PERSIANA EMIRATES
