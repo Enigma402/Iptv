@@ -25,11 +25,19 @@ http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/358340.ts
 http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/86167.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",HodHod
 http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/35023.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",GEM SPORT 2
+http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131192.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PERSIANA SPORTS ONE
+http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/762456.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",ITOON
+http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/23991.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",KHANE FILM
+http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131729.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",MY TV
+http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131730.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",UTOON
+http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131941.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی بدون وی پی ان",IRANINT HD
