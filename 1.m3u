@@ -1056,52 +1056,48 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Russia Today Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRAVELXP
-https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ATV TURK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",A SPOR TURK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",A2 TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",4KTRAVEL
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",VIJ NATURE
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",SCI FI
-http://31.148.48.15/SONY_SCI_FI/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",VIJ HISTORY
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",NAT GEO WILD RUS
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",NAT GEO WILD FR
-http://41.205.77.102/NATGEO-WILD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Bollywood HD
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",MBC Bollywood HD
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Bollywood RU 
-https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ZEE AFLAM
-http://41.223.30.230/ZEEAFLAM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Minika COCUK 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Minika GO 
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",A HABER TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/ahaber/ahaber_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",9xM Bollywood
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",B4U MUSIC
 https://cdn-2.pishow.tv/live/415/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",1TV Armenia
-https://amtvusdvr.tulix.tv/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",1TV America
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Aljazeera ENG
+https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Aljazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Aljazeer2
+https://live-hls-web-aja2-gcp.thehlive.com/AJA2/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",1TV 
 https://amtvusdvr.tulix.tv/am4abr/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",SUN TV TURK
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRT1 TURK
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",AZ STAR TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",STAR TV TURK
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",NOW TV TURK
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",TRT AVAZ TURK
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ATV TURK
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",A2 TV TURK
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KTV 1
 https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KTV 2
