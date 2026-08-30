@@ -153,6 +153,8 @@ http://line.krishkaz.com:80/live/peterwanke/5F92DC/1441669.ts
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran Republic TV
 https://irrephls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",OMID DANA TV
+https://odhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INT LINK1
 http://31.43.191.125:8880/live/VIP019301734188047280/7bce5254f13d/7459.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INT LINK2
@@ -985,45 +987,14 @@ https://ncdn.telewebion.ir/iraneman/live/playlist.m3u8
 https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",NESF E JAHAN
 https://live-aburayhan1111.telewebion.ir/ek/nesfejahan/live/720p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="Music",@ipsatnewsآدرس ما
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRIB",@ipsatnewsآدرس ما
 http://www.ritmahang.com/file-sabk/mp4/Samuel%20Barber-Adagio%20for%20Strings.mp4
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM MUSIC FARSI
-http://185.170.142.19:8080/GEMMUSIC.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC FARSI
-https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC ROYAL HD FARSI MUSIC
-https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",RADIO JAVAN MUSIC FARSI
-http://xtv.ooo:8080/live/925026666/698447544/351231.ts
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",CALTEX MUSUC FARSI
 
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",MIFA MUSIC FARSI
-http://185.170.142.19:8080/MIFAMUSICHD.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",MIFA PLUS FARSI
-http://185.170.142.19:8080/GEMMIFA%2BHD.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",GEM 24B MUSIC FARSI
-http://xtv.ooo:8080/live/925026666/698447544/351081.ts
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA MUSIC FARSI
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA NOSTAL FARSI
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA VIBE MUSUC HD F
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA SINATI FARSI
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA 4 MUSUCHD
-https://4muhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",ITV MUSIC FARSI FHD
-https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",T2 MUSIC FARSI
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",NAVAHANG FARSI
-https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",AVANG FARSI
-https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",247 Music TV
-http://185.170.142.19:8080/24BHD.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="Stingray Group",Classic Rouk
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
@@ -1455,123 +1426,4 @@ https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/kmc/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE 60S
-http://rocketfx.uk:8080/david/david/627492
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE 70S
-http://rocketfx.uk:8080/david/david/627491
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE 80S
-http://rocketfx.uk:8080/david/david/627490
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE ADULT ALTERNATIVE
-http://rocketfx.uk:8080/david/david/627489
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE ALTERNATIVE
-http://rocketfx.uk:8080/david/david/627488
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE BLUES
-http://rocketfx.uk:8080/david/david/627487
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE CLASSIC COUNTRY
-http://rocketfx.uk:8080/david/david/627485
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE CLASSIC ROCK
-http://rocketfx.uk:8080/david/david/627484
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE CLASSICAL MASTERPIECES
-http://rocketfx.uk:8080/david/david/627486
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE CONTEMPORARY CHRISTIAN
-http://rocketfx.uk:8080/david/david/627483
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE COUNTRY HITS
-http://rocketfx.uk:8080/david/david/627482
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE DANCE
-http://rocketfx.uk:8080/david/david/627481
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE EASY LISTENING
-http://rocketfx.uk:8080/david/david/627480
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE HIP-HOP CLASSICS
-http://rocketfx.uk:8080/david/david/627477
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE HIT LIST
-http://rocketfx.uk:8080/david/david/627476
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE KIDS ONLY
-http://rocketfx.uk:8080/david/david/627474
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE LIGHT CLASSICAL
-http://rocketfx.uk:8080/david/david/627473
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE MAX
-http://rocketfx.uk:8080/david/david/627471
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE PARTY FAVORITES
-http://rocketfx.uk:8080/david/david/627469
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE POP & COUNTRY
-http://rocketfx.uk:8080/david/david/627468
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE POP HITS
-http://rocketfx.uk:8080/david/david/627467
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE R&B CLASSICS
-http://rocketfx.uk:8080/david/david/627464
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE RAP
-http://rocketfx.uk:8080/david/david/627465
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE REGGAE
-http://rocketfx.uk:8080/david/david/627462
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE RELAXING VIBES
-http://rocketfx.uk:8080/david/david/627461
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE ROCK
-http://rocketfx.uk:8080/david/david/627460
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE ROCK HITS
-http://rocketfx.uk:8080/david/david/627459
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE SINGERS & SWING
-http://rocketfx.uk:8080/david/david/627457
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE SOFT ROCK
-http://rocketfx.uk:8080/david/david/627455
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE SOLID GOLD OLDIES
-http://rocketfx.uk:8080/david/david/627454
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE SOUNDS OF THE SEASONS
-http://rocketfx.uk:8080/david/david/627452
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE SOUNDSCAPES
-http://rocketfx.uk:8080/david/david/627453
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE STAGE & SCREEN
-http://rocketfx.uk:8080/david/david/627451
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE TEEN HITS
-http://rocketfx.uk:8080/david/david/627450
-
-#EXTINF:-1 tvg-logo="https://apps.losttec.com/countries/united-kingdom/now-70s-uk.png?raw=true" group-title="Music TV", UK: NOW 70s
-http://rocketfx.uk:8080/david/david/253190
-
-#EXTINF:-1 tvg-logo="https://apps.losttec.com/countries/united-kingdom/now-80s-uk.png?raw=true" group-title="Music TV", UK: NOW 80s
-http://rocketfx.uk:8080/david/david/250947
-
-#EXTINF:-1 tvg-logo="https://apps.losttec.com/countries/united-kingdom/now-90s-uk.png?raw=true" group-title="Music TV", UK: NOW 90s
-http://rocketfx.uk:8080/david/david/250946
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/MTV_Classic_2011.png" group-title="Music TV", US: MTV Classic
-http://rocketfx.uk:8080/david/david/595210
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE Y2K
-http://rocketfx.uk:8080/david/david/627445
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0d7284_390954373b644af09aedd2f40ab9e831~mv2.png/v1/fill/w_234,h_90,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MC%20Guide%20Logo.png" group-title="Music (Streaming)", MUSIC : MUSIC CHOICE YACHT ROCK
-http://rocketfx.uk:8080/david/david/627444
 
