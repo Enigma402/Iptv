@@ -895,12 +895,16 @@ https://streaming.positivity.radio/pr/posi00s/icecast.audio
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRIB",@ipsatnews--
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB FARATAR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB FARATAR 720P
 https://live-aburayhan1107.telewebion.ir/ek/faratar/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB FARATAR 1080P
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/108050p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB FARATAR 4K
+https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB TV1
 https://live-aburayhan1111.telewebion.ir/ek/tv1/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",IRIB 1PLUS TV
-https://live-ibnsina4303.telewebion.ir/na/tv1plus/live/playlist.m3u8
+https://live-aburayhan1103.telewebion.ir/na/tv1plus/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV2 IRIB
 https://live-aburayhan1111.telewebion.ir/ek/tv2/live/720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRIB",TV3 IRIB
