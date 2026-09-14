@@ -201,7 +201,7 @@ http://line.krishkaz.com:80/live/peterwanke/5F92DC/1441669.ts
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran Republic TV
 https://irrephls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",OMID DANA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",OMID DANA TV VPN
 https://odhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INT LINK1
 http://31.43.191.125:8880/live/VIP019301734188047280/7bce5254f13d/7459.ts
@@ -317,6 +317,8 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg " group-title="IRANIAN TV",PERSIANA SETMIX
 https://setmixhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" https://figar.ir/wp-content/uploads/2024/06/000000-Copy.jpg " group-title="IRANIAN TV",PERSIANA TEEN
+https://teenhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="  " group-title="IRANIAN TV",Moalem
 https://4muhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV", NAVID TV
