@@ -199,6 +199,14 @@ http://line.krishkaz.com:80/live/peterwanke/5F92DC/1441669.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran int 2
+https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",Gulf Movies
+https://str.cantechhub.com/gulfmovie/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",Drpal
+https://str.cantechhub.com/drpal/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",24/7 Music
+https://str.cantechhub.com/247music/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran Republic TV
 https://irrephls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",OMID DANA TV VPN
