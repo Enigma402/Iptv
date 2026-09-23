@@ -1,42 +1,4 @@
 #EXTM3U;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IITV
-http://xtv.ooo:8080/live/925026666/698447544/351118.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",CITY
-http://xtv.ooo:8080/live/925026666/698447544/351078.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",VOAF
-http://xtv.ooo:8080/live/925026666/698447544/351243.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",BBCF
-http://xtv.ooo:8080/live/925026666/698447544/351073.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",HONARMANDANTV
-http://xtv.ooo:8080/live/925026666/698447544/351113.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",hodhod persian
-http://xtv.ooo:8080/live/925026666/698447544/351112.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",ITN TV IRANTV
-http://xtv.ooo:8080/live/925026666/698447544/351186.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IITV LINK 2
-http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339890.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",BBC F LINK 2
-http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339940.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",VOA F LINK 2
-http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339756.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",MYTV LINK 2
-http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339811.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",HAMSAFAR TV
-http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339895.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",TAPESH LINK 2
-http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339764.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PERSIAN SPORT 1 LINK 2
-http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339783.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",ARAX TVL2
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/15545.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",ARKO LINK2
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1411107.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",ARVAN LINK 2
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1411108.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IITV LINK 3
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/85730.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",KHANEH FILM PLUS LINK 2
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/609619.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",KHANEH FILM PLUS LINK 3
 http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/131729
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",I TOON LINK 2
@@ -49,7 +11,7 @@ http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/131722
 http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/762456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IRAN E FARDA
 http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/23976
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",GRAND TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IRAN TV
 http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/414541.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",GRAND CINAMA
 http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/414542.ts
