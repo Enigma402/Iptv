@@ -690,15 +690,6 @@ http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 #EXTINF:-1 tvg-id="StranaFM.ru" tvg-logo="https://i.imgur.com/WsPlKJJ.png" group-title="Music",Страна FM (720p) [Not 24/7]
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala Landan Movies
-https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala LandanTv
-https://lesqqytnls.erbvr.com/halalondon/halalondon_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala Tv
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="ARABIC",Hala Landan Radio
-https://halalondon-live.ercdn.net/radio-halalondon/radio-halalondon.m3u8
-
 
 
 
