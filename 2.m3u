@@ -1,17 +1,19 @@
 #EXTM3U;
 
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA MUSIC FARSI
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA MUSIC
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA NOSTAL FARSI
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA NOSTAL MUSIC
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA VIBE MUSUC HD F
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA RAP MUSUC
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA SINATI FARSI
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA SONATI 
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA 4 MUSUCHD
-https://4muhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",ITV MUSIC FARSI FHD
-https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PERSIANA SETMIX
+https://setmixhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC ROYAL
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",PMC MUSIC 
+https://pmchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",T2 MUSIC FARSI
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="" group-title="Music",SUN MUSIC FARSI
