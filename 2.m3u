@@ -65,6 +65,12 @@ https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
 #EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV
 https://streamtv.mediasector.es/hls/activatv/index.m3u8
 #EXTINF:-1 tvg-id="AERadioTV.cl" tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Music",AE Radio TV (720p) [Not 24/7]
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3list.m3u8
+#EXTINF:-1 tvg-id="981PearlFM.sx" tvg-logo="https://i.imgur.com/GY750xh.jpg" group-title="Music",98.1 Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.es" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="Music",Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="AERadioTV.cl" tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Music",AE Radio TV (720p) [Not 24/7]
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlternaTV.ar" tvg-logo="https://alternatv.ar/alternatv.png" group-title="Music",Alterna TV (720p)
 https://alternatv.ar/stream/hls/live.m3u8
@@ -93,13 +99,11 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 #EXTINF:-1 tvg-id="CoolFM989.aw" tvg-logo="https://i.imgur.com/uGE6lZ2.png" group-title="Music",Cool FM 98.9 (720p)
 https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8
-
 #EXTINF:-1 tvg-id="DanceFM.cl" tvg-logo="https://i2.paste.pics/ff3e1e1045a1968dcdbcda3824a94eb3.png" group-title="Music",Dance FM (720p)
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/algorhythm.jpg" group-title="Music",DanceTV Algorhythm (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="DanceTVChillAF.ee" tvg-logo="https://www.dancetv.net/img/icons/channels/chill-af.jpg" group-title="Music",DanceTV Chill AF (1080p)
-https://mbit1.worldcast.tv/dancetelevisioneight/multibit.m3u8
+
 #EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV Deep House District (1080p)
 https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="DanceTVEDMMainstage.ee" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dance-tv-nl.png" group-title="Music",DanceTV EDM Mainstage (1080p)
