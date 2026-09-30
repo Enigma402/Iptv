@@ -24,6 +24,10 @@ https://hls.navahang.live/hls/stream.m3u8
 https://hls.avang.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MTVBiggestPop.us" tvg-logo=" " group-title="Music",URBAN MIX
 https://cloud.tvomix.com/URBANMIX/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",ROMAMTICA MUSIC
+https://live.livestreamtv.ca/romanticotvshow/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",4KURD MUSIC
+https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",24/7MUSIC
 https://str.cantechhub.com/247music/index.m3u8
 #EXTINF:-1 tvg-id="ITVPersianMusic.ir" tvg-logo="https://i.ibb.co/pvLQmQK7/itv.png" group-title="Music",JAZZ TV
