@@ -33,13 +33,13 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Music",BRIDGE Classic TV
 http://stream.mcquack.net/272/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Music",BRIDGE MUSIC TV
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo=" " group-title="Music",BRIDGE MUSIC TV
 http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Music",BRIDGE DELUXE TV 
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo=" " group-title="Music",BRIDGE DELUXE TV 
 http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Music",BRIDGE HITS TV
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo=" " group-title="Music",BRIDGE HITS TV
 http://stream.mcquack.net/320/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="Music",BRIDGE ROCK TV
+#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo=" " group-title="Music",BRIDGE ROCK TV
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -51,17 +51,10 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-logo="https://i.imgur.com/pyOjdZs.png" group-title="Music",Retro Music Television
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8  
-#EXTINF:-1 tvg-id="RUTV.ru" tvg-logo="https://i.imgur.com/Z7HUU7V.png" group-title="Music",RU TV
-https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 tvg-id="V2BEATTV.uk" tvg-logo="https://i.imgur.com/PXGqyLn.png" group-title="Music",V2BEAT (720p) [Not 24/7]
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="VClassicTV.cl" tvg-logo="https://i.imgur.com/WIACJSy.png" group-title="Music",V Classic TV (720p)
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Music",BRIDGE Hits
-#EXTINF:-1 tvg-id="7RadioVisione.it" tvg-logo="https://radio7note.com/img/favicon/android-icon-192x192.png" group-title="Music",7 RadioVisione
-https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="7YOUME.it" tvg-logo="https://i.imgur.com/Rte2K3x.png" group-title="Music",7 YOU & ME (720p)
-https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (576p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-logo="https://i.imgur.com/hTUe0Pw.png" group-title="Music",13 Festival (1080p)
