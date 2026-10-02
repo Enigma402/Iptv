@@ -1,16 +1,4 @@
 #EXTM3U;
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",KHANEH FILM PLUS LINK 3
-http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/131729
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",I TOON LINK 2
-http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/169758
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",U TOON LINK 2
-http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/131941
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",HAMSAFAR LINK 2
-http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/131722
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",Persian sport1 l3
-http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/762456
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IRAN E FARDA
-http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/23976
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IRAN TV
 http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/414541.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",GRAND CINAMA
@@ -35,19 +23,47 @@ http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/358340.ts
 http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/86167.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",HodHod
 http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/35023.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",GEM SPORT 2
-http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131192.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PERSIANA SPORTS ONE
-http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/762456.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",ITOON
-http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/23991.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",KHANE FILM
-http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131729.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",MY TV
-http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131730.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",UTOON
-http://aikctevy.icelil.com:80/live/Z455255RL678K3G/Ws4M2ANg8z/131941.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",RADIO JAVAN FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/128380.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PMC MUSIC FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/99101.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PMC ROYAL FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/189342.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PMC SELECT SD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/397486.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PMC PLANETA SD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/205628.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",SUN MUSIC HD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/205637.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",IRAN INT HD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/174455.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",MBC PERSIA HD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/105010.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PERSIANA SPORTS 1 FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/86169.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",zPERSIANA SPORTS 2 FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/396863.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PERSIANA SPORTS 3 FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/396861.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",PERSIANA SPORTS 4 FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/396862.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",ITN HD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/181029.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",GEM SPORTS 1 FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/347349.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",GEM FASHION FHD
+http://iptv.amberme.xyz:8000/live/AtMn3440/aGer1008/236792.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی جدید",
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی بدون وی پی ان",IRANINT HD
