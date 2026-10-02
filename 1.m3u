@@ -1468,9 +1468,9 @@ https://spf-onetv-9i4j.cfgdwrkr.workers.dev/?url=https://ca-rt.onetv.app/kmc/ind
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
 
-#EXTM3U
 
-
+#EXTINF:-1 tvg-logo="" group-title="AS | IRAN", IR -@ipsatnews
+https://cdn.parsine.com/servev2/1gAGXEzvThzv/IMxb9O_Mg9DyOtwy-tycY3-m3TEpTOtIcOaIyCHahbaXSHVlrjzmQxwRgAY8MWI1zRiFwVZD5Y1bT1ddqywW9g,,/Reza_Bahram_Pas_Az_Baran_Music_Video_%EF%BD%9C_%D9%85%D9%88%D8%B2%DB%8C%DA%A9_%D9%88%DB%8C%D8%AF%DB%8C%D9%88_%D8%A2%D9%87%D9%86%DA%AF_%D9%BE%D8%B3_%D8%A7%D8%B2_%D8%A8%D8%A7%D8%B1%D8%A7%D9%86.mp4
 #EXTINF:-1 tvg-logo="https://go4.pw/IRAN/BBCPERSIAN.png" group-title="AS | IRAN", IR - BBC PERSIAN FHD
 http://aikctevy.icelil.com:80/Z455255RL678K3G/Ws4M2ANg8z/24006
 
