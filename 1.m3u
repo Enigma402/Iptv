@@ -1139,12 +1139,12 @@ https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Russia Today Documentary
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",Ayaz tv
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald_480p.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",STAR TV
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8https://dogus.daioncdn.net/startv/startv_480p.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3&sid=8l4w3lst4co5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",ATV TURK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="WORLD TV ",A SPOR TURK
@@ -2143,4 +2143,23 @@ http://line.krishkaz.com:80/live/peterwanke/5F92DC/174624.ts
 http://line.krishkaz.com:80/live/peterwanke/5F92DC/1441667.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان", GEM ACADEMY
 http://line.krishkaz.com:80/live/peterwanke/5F92DC/1441667.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",KHANE FILM SD
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/174636.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",HAMSAFAR SD
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/174629.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",KHATEREH SD
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/174625.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",FX MOVIES HD
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/543220.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",NOVIN TV (MANOTO)
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/543226.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",HONARMANDAN TV HD
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/1441692.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",CITY TV SD
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/1458300.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان",TV VARZISH TJ SD
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/204541.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان", 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های فارسی زبان", 
 
