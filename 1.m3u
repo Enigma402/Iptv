@@ -233,17 +233,17 @@ http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/339890.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",HAMBASTEGI
 https://livestream.5centscdn.com/HambastegiTV/7f3e29c26468b5b1036c2fbe536b5c7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 MOVIES
-https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 AMERICA
-https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
+https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/T2America/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 INTERNATIONA
-https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
+https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/T2International/index-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",T2 TV VPN
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",Ekran Movies
-https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",AYENEH TV
-
+https://spf-onetv-9i4j.cfbanana.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",TODAY TV VPN
+https://live.ontodaytv.com/hls/ontoday.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",JAHAN NAMA TV
 https://stream01.gaplication.com/hls/jahannamatvlive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="IRANIAN TV",IRAN INTERNATIONAL 
