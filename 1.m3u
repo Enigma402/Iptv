@@ -56,10 +56,15 @@ http://neorcqds.top:8080/series/7551786474316/f6e1a8abbcb5/42556.mkv
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/480p-cc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",CGTN DOCUMENTARY 540P
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",PERSIANA DOCUMENTRY 720P
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",PERSIANA VOYAGE 720P
+https://voyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",IRIB MOSTANAD 720p
+https://live-aburayhan1111.telewebion.ir/ek/mostanad/live/720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",GEM NATURE 540P
+http://line.krishkaz.com:80/live/peterwanke/5F92DC/44526.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=" سریال تهران  ",
 
