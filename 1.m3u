@@ -70,9 +70,8 @@ https://amg01821-lovetvchannels-lovetheplanetuksamsung-samsunguk-apopw.amagi.tv/
 https://dqga3jatxofgx.cloudfront.net/WildEarth480.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",NATURE TIME TV 480P
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist480pl.m3u8
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",IN WORLD 480P
+https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/playlist/amg00861-terninternation-inwild-samsunguk/cb553e1e7e6c678b98d43e65d5ef42a1d824c0b02a6f9e6c33f6058870df1f499dc0a89da803e4782dc14b9c3e5339415579cb07de7711a4a367df583779616d8ae9f23b85cc755ce0a3566e35b679194ffd0805c85e2b46f4c556488934be7c4534ed0a65597bcd9e01ef290f909f0b8a7f378bb3d865317c445e965f4d98ff0cfaa3b44d26893af0f34557902c42f98144d9ab7cd99fd35f80419875f8169f8cf78ad41786948560a850e4660b0173309dd82fca840ce7dccb2460c5277f0b4c03b7a7c7aa1b65d3411308caffa1c70d7eb853eb5fe35504f96dad418d248f6fea3ab3e05aa5bec9a728231785b496e5bac29fcda4f42727b526daafeccf7a7f988c7432279b2bb0aa4c49133830b0c44337b6cfbbb637ace62cf8310ff4bcbf86fdb98e4bd306c2cef7993a4d74d06568743c8f9577d225d179e79b5d711c0568a49440dcdd997f3e665d89895a944b55e995dbd89f3d1687474209bd46901b247cdc38694be02fd2932823dc755dcb666bbb101ea876d19460b5abd2ee037b92dbc449f026af9602c0f90fac226d0852fda2620a11142c9ebf3f5f7054cc47eddfcfa1440806ede5c4b195006f496a411223bbd0a827cfc092674e4f93016837254740c276a603b82147043cc617d7de6c2ccb566f7d9ced553a696d9bdba48f80a4ad77b472c0daf33e55536a4ef0145c753bf5f4e174f23a42727f1db0076b4db80d3913b8c62984544ea379fa49191ce37b6fca6f2b5dde258958101e/123/848x480_1686360/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=" سریال تهران  ",
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=" سریال تهران  ",
@@ -233,6 +232,12 @@ http://line.krishkaz.com:80/live/peterwanke/5F92DC/1441669.ts
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran int 2farsi
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",MOJ TV
+https://mojhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",IRAN FILM
+https://ifilmhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",IRAN COMEDY
+https://irnamahls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",Gulf Movies
 https://str.cantechhub.com/gulfmovie/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",Drpal
