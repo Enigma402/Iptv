@@ -862,8 +862,8 @@ http://cast4.audiostream.com.br:8651/mp3
 https://live.tarakanfm.com/listen/tarakanfm/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio BFM MUSIC
 https://play.bilitonesefm.com/listen/radiobfm/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Music Box
+http://stream1.dancewave.online:8080/dance.mp3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRIB",@ipsatnews--
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
