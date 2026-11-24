@@ -740,8 +740,8 @@ https://stream-141.zeno.fm/nezaycc28vzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 https://shoutcast.glwiz.com/RadioYAR.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیو فارسی خارج ایران",Radio Sarcheshmeh new
 https://sarcheshmeh2-ssl.icdndhcp.com/stream
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio King Music
-https://listen.radioking.com/radio/701141/stream/766385
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Kral Pop
+https://ssldyg.radyotvonline.com/smil/smil:kralpop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Classic Hitz
 http://listen.livestreamingservice.com/181-greatoldies_128k.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Hosting
@@ -762,10 +762,10 @@ https://pureplay.cdnstream1.com/6036_64.aac
 https://s4-webradio.antenne.de/workout-hits/stream/mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio EDM PARTY
 https://edm.stream.laut.fm/edm?ref=radiode&t302=2025-07-16_16-05-50&uuid=16cfad3c-ea4b-4fe2-a98e-3a0443aca80a
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio KIIS FM
-https://n16b-e2.revma.ihrhls.com/zc185/hls.m3u8?rj-ttl=5&rj-tok=AAABmBQF0ooAe6IT-Gnftu6EKA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Barza Music
-https://i6.streams.ovh/sc/barazar1/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",The Vibe of Vegas
+https://listen.181fm.com/181-vibe_128k.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",CSPAN Radio
+https://17813.live.streamtheworld.com/CSPANRADIO.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Air Connect
 https://stream.airconnectradio.com/ac192.mp3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio FM 80S
@@ -854,11 +854,15 @@ http://dfm.hostingradio.ru/popdance96.aacp
 http://dfm.hostingradio.ru/pump96.aacp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Positively 2000s music
 https://streaming.positivity.radio/pr/posi00s/icecast.audio
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio TOP MUSIC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Antena 1 Music
+http://antena1.newradio.it/stream2?ext=.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRIB",@ipsatnews--
