@@ -856,12 +856,12 @@ http://dfm.hostingradio.ru/pump96.aacp
 https://streaming.positivity.radio/pr/posi00s/icecast.audio
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Antena 1 Music
 http://antena1.newradio.it/stream2?ext=.mp3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio FM 104.5
+http://cast4.audiostream.com.br:8651/mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio Trackan Fm
+https://live.tarakanfm.com/listen/tarakanfm/stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio BFM MUSIC
+https://play.bilitonesefm.com/listen/radiobfm/stream
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo=" " group-title="رادیوهاي خارجي موزیک ",Radio 
 
 
