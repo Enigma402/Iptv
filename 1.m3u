@@ -76,8 +76,8 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/ts-eu-w1-n2/pla
 https://live-hls-apps-ajd-fa.getaj.net/AJD/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",LOVE PETS 480p 
 https://amg01576-blueskyeenterta-lovepetsemea-samsungse-ctamh.amagi.tv/ts-eu-w1-n2/playlist/amg01576-blueskyeenterta-lovepetsemea-samsungse/cb5739007a7067909bc83e78d1f5448279371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a654f5d79cb12ce1f7cdaa973ab5442650705dad8ee2ebecc4072eb9c102f29b4641d57ee166ea8412e5e95a916018e38f55e0010e30627161185af06f0234dc4810a957f378ea9d560277c535d8f2002b7f902f6ef820c13892ef8ae194b923146e1923da9b603bc84ca5980408f74f30a9a93f78cd702968ec565fb01ba660a15267fc18134c2985be797c33d6cc43c2c101c57b3a7c6af1e6d844371749291a319f89869aca017c3041ea901963deb5ae84a99796c65d3c2d7dffe514838dea4110175e18df2fb481831cd5e4283c9a4fa3ac89ed8ac6ee927b303383191b2ff118cd114988c90e4de9b7c15cf8b4c9791b3ccbafedd0ad409c3c9e18066026f6d00108954a6da3595799328f38e200c116a1dfecf738dc6f84e206e4ab1855cff1a0ff68ed8d4915d6d8a283072dc4df5174560c53f693cc228fa913325c90502973a30fe1764d112b2e862a0f383b4486aec8c876ff06de6b90f92c503af6c2e504de6a17b11161a3dffde5442672d8d17aa8093b3254757bda09aaab22352601819561e84ebe302fed68e795346bb194c0747111a8511d86ead677a0123da0bddab731cb62b6c0abff46a7b1800bbc7b3888bd38a74bd70ddcaf75b796bb9027ffca79108b7dea559f852770bcb9cf3abcc137a19/60/848x480_11542961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",Al SHARQ DISCOVERY 480p
-https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_480p/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="شبکه های مستند",Al SHARQ DISCOVERY AUTO
+http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title=" سریال تهران  ",
@@ -130,7 +130,7 @@ https://dll.biamusic.ir/Video/Artist/Ahmad%20Saeedi/Ahmad%20Saeedi%20-%20Moon%20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/182px-Telegram_2019_Logo.svg.png " group-title="IRANIAN TV",@ipsatnews
 https://dl.viditor.net/uploads/projects/2024/01/3683_50146266_nebula-logo/View/postVideo.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",iran int 2farsi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",IRAN INTERNATIONAL AUTO
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IRANIAN TV",IRAN INTERNATIONAL 240P
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_8.m3u8
